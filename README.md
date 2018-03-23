@@ -15,4 +15,4 @@ Progetto per il corso di Metodi Quantitativi Per L'Informatica
 
 ## Purpose
 Compare two different types of Neural Networks on image detection.
-Please see the [DOCUMENTATION.md](DOCUMENTATION.md) file for details.S
+Please see the [DOCUMENTATION.md](DOCUMENTATION.md) file for details.
