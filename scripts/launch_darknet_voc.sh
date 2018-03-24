@@ -2,6 +2,7 @@ OUTPUT="output/darknet/darknet_voc2007.txt"
 OUTPUT_CHECK="output/darknet/darknet_voc2007_check.txt"
 DATA="../../data/VOC2007/Images"
 IMAGES="data/images.txt"
+thresh=0.8
 
 #start
 start=$(date)
@@ -30,7 +31,7 @@ echo "$DATA/$imgname" >> $IMAGES
 done
 
 #detect images
-./darknet detector test cfg/voc.data cfg/yolo-voc.cfg cfg/yolo-voc.weights -dont_show < data/images.txt > ../../$OUTPUT
+./darknet detector test cfg/voc.data cfg/yolo-voc.cfg cfg/yolo-voc.weights -dont_show < data/images.txt > ../../$OUTPUT -thresh $thresh
 
 #project path
 cd ../..
