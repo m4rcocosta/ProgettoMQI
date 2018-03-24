@@ -42,7 +42,19 @@ They can identify 20 different categories:
 
 ## **Features**
 ### **Darknet**
-* Written in C
+* Written in C;
+* How it works:
+    * It applies a single neural network to the full image;
+    * This network divides the image into regions and predicts bounding boxes and probabilities for each region;
+    * These bounding boxes are weighted by the predicted probabilities;
+* Advantages: 
+    * It looks at the whole image at test time so its predictions are informed by global context in the image;
+    * It also makes predictions with a single network evaluation unlike systems like R-CNN which require thousands for a single image;
+    * This makes it extremely fast, more than 1000x faster than [R-CNN](https://github.com/rbgirshick/rcnn) and 100x faster than [Fast R-CNN](https://github.com/rbgirshick/fast-rcnn);
 
 ### **Faster-RCNN**
-* Written in Python and Caffe
+* Written in Python and Caffe;
+* Some operations execute on the CPU in Python layers;
+* Faster R-CNN has two networks:
+    * Region proposal network (RPN) for generating region proposals;
+    * A network using these proposals to detect objects;
