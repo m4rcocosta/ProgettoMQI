@@ -35,6 +35,7 @@ done
 #project path
 cd ../..
 
+#results
 echo "____________________________________RESULTS____________________________________" >> $OUTPUT
 
 #end
