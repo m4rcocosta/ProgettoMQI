@@ -58,3 +58,8 @@ They can identify 20 different categories:
 * Faster R-CNN has two networks:
     * Region proposal network (RPN) for generating region proposals;
     * A network using these proposals to detect objects;
+
+## **Comparison**
+Both the networks will be tested on two different sets:
+* Pascal VOC 2007 test set (First 1000 images);
+* COCO 2017 test set (First 1000 images);
