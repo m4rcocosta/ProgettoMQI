@@ -1,7 +1,10 @@
+MODEL=cfg/voc.data
+CFG=cfg/yolo-voc.cfg
+WEIGHTS=cfg/yolo-voc.weights
 OUTPUT="output/darknet/darknet_voc2007.txt"
 OUTPUT_CHECK="output/darknet/darknet_voc2007_check.txt"
 DATA="../../data/VOC2007/Images"
-IMAGES="data/images.txt"
+IMAGES="../../data/VOC2007/images.txt"
 thresh=0.8
 
 #start
@@ -31,7 +34,7 @@ echo "$DATA/$imgname" >> $IMAGES
 done
 
 #detect images
-./darknet detector test cfg/voc.data cfg/yolo-voc.cfg cfg/yolo-voc.weights -dont_show < data/images.txt > ../../$OUTPUT -thresh $thresh
+./darknet detector test $MODEL $CFG $WEIGHTS -dont_show < $IMAGES > ../../$OUTPUT -thresh $thresh
 
 #project path
 cd ../..
