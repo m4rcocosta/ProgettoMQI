@@ -1,3 +1,17 @@
+import sys
+
+if sys.argv[1] == "output/darknet/darknet_voc2007.txt":
+    net = "darknet"
+    input_name = "../"+str(sys.argv[1])
+    output_name = "../output/darknet/darknet_voc2007_check.txt"
+elif sys.argv[1] == "output/faster/faster-rcnn_voc2007.txt":
+    net = "faster"
+    input_name = "../"+str(sys.argv[1])
+    output_name = "../output/faster/faster-rcnn_voc2007_check.txt"
+else:
+    print("Error: wrong output file!")
+    exit(1)
+
 #def dictionaries for classes
 aeroplane = {}
 bicycle = {}
@@ -30,10 +44,11 @@ for elem in classes:
     f.close()
 
 #check
-f = open("../output/darknet/darknet_voc2007.txt","r",encoding="utf-8")
-f.readline()
-f.readline() #First and second lines are not important
-out = open("../output/darknet/darknet_voc2007_check.txt","w",encoding="utf-8")
+f = open(input_name,"r",encoding="utf-8")
+if net == "darknet": #First and second lines are not important
+    f.readline()
+    f.readline() 
+out = open(output_name,"w",encoding="utf-8")
 
 images = {}
 result = ""
@@ -41,10 +56,14 @@ correct = 0
 wrong = 0
 
 for row in f:
-    if "/" in row:
+    if "/" in row and net == "darknet":
         image = ((row.strip().split("/"))[5])[:6]   #image number
         images[image] = 1
         
+    elif "/" in row and net == "faster":
+        image = ((row.strip().split("/"))[6])[:6]   #image number
+        images[image] = 1   
+
     if "%" in row:
         obj = ((row.strip().split())[0])[:-1]       #class
         if obj in classes:
