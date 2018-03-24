@@ -44,7 +44,7 @@ echo End: $end >> $OUTPUT
 cd scripts
 
 #calculate time in image detection
-python3 totalTime_faster_voc.py 
+python3 totalTime_detection.py  $OUTPUT
 
 echo "Total Time: $total_time seconds (${total_time_hours}h:${remaining_minutes}m:${remaining_seconds}s)." >> ../$OUTPUT
 

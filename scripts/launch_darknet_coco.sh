@@ -3,7 +3,7 @@ CFG=cfg/yolo-voc.cfg
 WEIGHTS=cfg/yolo-voc.weights
 OUTPUT="output/darknet/darknet_coco2017.txt"
 DATA="../../data/COCO2017/Images"
-IMAGES="../../data/COCO2017/images.txt"
+IMAGES="../../data/COCO2017/Txt/images.txt"
 thresh=0.8
 
 #start
@@ -54,7 +54,7 @@ echo End: $end >> $OUTPUT
 cd scripts
 
 #calculate time in image detection
-python3 totalTime_darknet_coco.py 
+python3 totalTime_detection.py  $OUTPUT
 
 echo "Total Time: $total_time seconds (${total_time_hours}h:${remaining_minutes}m:${remaining_seconds}s)." >> $OUTPUT
 
