@@ -1,16 +1,18 @@
-## Author
-* [*Marco Costa*](https://github.com/marco-96)
+# **DOCUMENTATION-ProgettoMQI**
 
-## Languages used for the project
-* [C](https://en.wikipedia.org/wiki/C_(programming_language))
-* [Python](https://en.wikipedia.org/wiki/Python_(programming_language)) - Both 2.7 and 3.6 versions
-* [Bash](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
+## **Author**
+* [**_Marco Costa_**](https://github.com/marco-96)
 
-## Analyzed Networks
-* [Darknet Yolo](https://pjreddie.com/darknet/yolo/) - YOLO: Real-Time Object Detection
-* [Faster-RCNN](https://github.com/rbgirshick/py-faster-rcnn) - ZF model
+## **Languages used for the project**
+* [**C**](https://en.wikipedia.org/wiki/C_(programming_language))
+* [**Python**](https://en.wikipedia.org/wiki/Python_(programming_language)) - Both 2.7 and 3.6 versions
+* [**Bash**](https://en.wikipedia.org/wiki/Bash_(Unix_shell))
 
-## Purpose
+## **Analyzed Networks**
+* [**Darknet Yolo**](https://pjreddie.com/darknet/yolo/) - YOLO: Real-Time Object Detection
+* [**Faster-RCNN**](https://github.com/rbgirshick/py-faster-rcnn) - ZF model
+
+## **Purpose**
 Compare two different types of Neural Networks on image detection.
 Both the networks are trained on Pascal VOC set and runs on the same hardware.
 They can identify 20 different categories:
@@ -38,9 +40,9 @@ They can identify 20 different categories:
     * Sofa
     * Tv/Monitor
 
-## Features
-### Darknet
+## **Features**
+### **Darknet**
 * Written in C
 
-### Faster-RCNN
+### **Faster-RCNN**
 * Written in Python and Caffe
