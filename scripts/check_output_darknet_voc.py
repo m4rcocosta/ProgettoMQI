@@ -30,8 +30,10 @@ for elem in classes:
     f.close()
 
 #check
-f = open("../output/darknet/darknet_voc.txt","r",encoding="utf-8")
-out = open("../output/darknet/darknet_voc_check.txt","w",encoding="utf-8")
+f = open("../output/darknet/darknet_voc2007.txt","r",encoding="utf-8")
+f.readline()
+f.readline() #First and second lines are not important
+out = open("../output/darknet/darknet_voc2007_check.txt","w",encoding="utf-8")
 
 images = {}
 result = ""
