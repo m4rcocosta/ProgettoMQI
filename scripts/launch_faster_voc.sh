@@ -1,5 +1,4 @@
 OUTPUT="output/faster/faster-rcnn_voc2007.txt"
-OUTPUT_CHECK="output/faster/faster-rcnn_voc2007_check.txt"
 
 #start
 start=$(date)
@@ -49,7 +48,7 @@ python3 totalTime_detection.py  $OUTPUT
 echo "Total Time: $total_time seconds (${total_time_hours}h:${remaining_minutes}m:${remaining_seconds}s)." >> ../$OUTPUT
 
 #check
-python3 check_output_faster_voc.py
+python3 check_output_voc.py $OUTPUT
 
 #return in project's folder
 cd ..
