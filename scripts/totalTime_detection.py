@@ -1,4 +1,4 @@
-totalTime = 0
+import sys
 
 def isfloat(value):
     try:
@@ -7,8 +7,11 @@ def isfloat(value):
     except ValueError:
         return False
 
+totalTime = 0
+output_name = str(sys.argv[1])
+
 #calculate total time        
-output = open("../output/faster/faster-rcnn_voc2007.txt","r",encoding="utf-8")
+output = open("../"+output_name,"r",encoding="utf-8")
 for riga in output:
     if '/' in riga:
         words=riga.strip().split()
@@ -19,7 +22,7 @@ for riga in output:
 output.close()
 
 #write total time on output file
-output = open("../output/faster/faster-rcnn_voc2007.txt","a",encoding="utf-8")
+output = open("../"+output_name,"a",encoding="utf-8")
 result = "\nTime(Image detection): "+str(totalTime)+" seconds ("+str(totalTime/60)+" minutes).\n"
 output.write(result)
 output.close()
