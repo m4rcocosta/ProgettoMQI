@@ -4,10 +4,10 @@ if sys.argv[1] == "output/darknet/darknet_voc2007.txt":
     net = "darknet"
     input_name = "../"+str(sys.argv[1])
     output_name = "../output/darknet/darknet_voc2007_check.txt"
-elif sys.argv[1] == "output/faster/faster-rcnn_voc2007.txt":
-    net = "faster"
+elif sys.argv[1] == "output/faster-rcnn/faster-rcnn_voc2007.txt":
+    net = "faster-rcnn"
     input_name = "../"+str(sys.argv[1])
-    output_name = "../output/faster/faster-rcnn_voc2007_check.txt"
+    output_name = "../output/faster-rcnn/faster-rcnn_voc2007_check.txt"
 else:
     print("Error: wrong output file!")
     exit(1)
@@ -60,7 +60,7 @@ for row in f:
         image = ((row.strip().split("/"))[5])[:6]   #image number
         images[image] = 1
         
-    elif "/" in row and net == "faster":
+    elif "/" in row and net == "faster-rcnn":
         image = ((row.strip().split("/"))[6])[:6]   #image number
         images[image] = 1   
 
