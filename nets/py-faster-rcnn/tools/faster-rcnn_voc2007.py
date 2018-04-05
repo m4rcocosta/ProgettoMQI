@@ -73,7 +73,7 @@ def detect(net, image_name):
     output.write((im_file+' - Detection took {:.3f} seconds.\n').format(timer.total_time))
 
     # Visualize detections for each class
-    CONF_THRESH = 0.8
+    CONF_THRESH = float(sys.argv[1])
     NMS_THRESH = 0.3
 
     for cls_ind, cls in enumerate(CLASSES[1:]):
