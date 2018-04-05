@@ -114,7 +114,7 @@ fi
         cd nets/py-faster-rcnn/tools
 
         #start image detection on Pascal Voc 2007
-        python faster-rcnn_${SET}.py
+        python faster-rcnn_${SET}.py $TRESHOLD
 
         #return in project's folder
         cd ../../..
