@@ -70,10 +70,6 @@ start=$(date)
 start_seconds=$(date +%s)
 
 echo "Running $NET on $SET with treshold $TRESHOLD"
-echo $OUTPUT
-echo $OUTPUT_CHECK
-echo $DATA
-echo $IMAGES
 
 #clean files
 if [ -f $IMAGES ]
@@ -123,7 +119,7 @@ fi
     fi
 
 #results
-echo "____________________________________RESULTS____________________________________" >> $OUTPUT
+echo "\n____________________________________RESULTS____________________________________" >> $OUTPUT
 
 #end
 end=$(date)
