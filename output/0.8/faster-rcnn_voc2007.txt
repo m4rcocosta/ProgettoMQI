@@ -1,0 +1,3121 @@
+../../../data/VOC2007/Images/000001.jpg - Detection took 0.138 seconds.
+person: 98.8%
+../../../data/VOC2007/Images/000002.jpg - Detection took 0.183 seconds.
+train: 99.8%
+../../../data/VOC2007/Images/000003.jpg - Detection took 0.148 seconds.
+../../../data/VOC2007/Images/000004.jpg - Detection took 0.138 seconds.
+car: 99.6%
+car: 99.5%
+car: 96.5%
+car: 93.5%
+car: 88.8%
+../../../data/VOC2007/Images/000006.jpg - Detection took 0.156 seconds.
+chair: 87.3%
+sofa: 84.3%
+tvmonitor: 96.7%
+../../../data/VOC2007/Images/000008.jpg - Detection took 0.153 seconds.
+chair: 96.4%
+chair: 84.2%
+../../../data/VOC2007/Images/000010.jpg - Detection took 0.156 seconds.
+horse: 94.9%
+person: 97.9%
+../../../data/VOC2007/Images/000011.jpg - Detection took 0.148 seconds.
+cat: 88.8%
+../../../data/VOC2007/Images/000013.jpg - Detection took 0.153 seconds.
+cow: 97.4%
+../../../data/VOC2007/Images/000014.jpg - Detection took 0.160 seconds.
+car: 99.7%
+person: 97.6%
+../../../data/VOC2007/Images/000015.jpg - Detection took 0.151 seconds.
+bicycle: 99.6%
+person: 94.2%
+../../../data/VOC2007/Images/000018.jpg - Detection took 0.131 seconds.
+dog: 99.6%
+../../../data/VOC2007/Images/000022.jpg - Detection took 0.159 seconds.
+horse: 98.3%
+person: 99.9%
+../../../data/VOC2007/Images/000025.jpg - Detection took 0.150 seconds.
+dog: 92.4%
+dog: 92.1%
+horse: 84.9%
+person: 97.2%
+person: 97.0%
+person: 91.2%
+person: 88.1%
+../../../data/VOC2007/Images/000027.jpg - Detection took 0.124 seconds.
+person: 96.6%
+../../../data/VOC2007/Images/000028.jpg - Detection took 0.137 seconds.
+cat: 99.9%
+../../../data/VOC2007/Images/000029.jpg - Detection took 0.146 seconds.
+dog: 99.9%
+dog: 83.6%
+../../../data/VOC2007/Images/000031.jpg - Detection took 0.179 seconds.
+train: 100.0%
+../../../data/VOC2007/Images/000037.jpg - Detection took 0.150 seconds.
+dog: 99.9%
+../../../data/VOC2007/Images/000038.jpg - Detection took 0.148 seconds.
+bicycle: 99.0%
+person: 97.4%
+../../../data/VOC2007/Images/000040.jpg - Detection took 0.147 seconds.
+bird: 96.7%
+bird: 83.4%
+../../../data/VOC2007/Images/000043.jpg - Detection took 0.148 seconds.
+person: 98.6%
+../../../data/VOC2007/Images/000045.jpg - Detection took 0.134 seconds.
+tvmonitor: 100.0%
+tvmonitor: 99.7%
+../../../data/VOC2007/Images/000049.jpg - Detection took 0.140 seconds.
+cat: 95.8%
+../../../data/VOC2007/Images/000053.jpg - Detection took 0.150 seconds.
+bird: 85.4%
+bottle: 89.8%
+cat: 99.7%
+../../../data/VOC2007/Images/000054.jpg - Detection took 0.149 seconds.
+bus: 100.0%
+../../../data/VOC2007/Images/000055.jpg - Detection took 0.158 seconds.
+person: 86.4%
+person: 85.8%
+person: 80.3%
+pottedplant: 85.9%
+../../../data/VOC2007/Images/000056.jpg - Detection took 0.161 seconds.
+horse: 99.8%
+pottedplant: 87.0%
+../../../data/VOC2007/Images/000057.jpg - Detection took 0.148 seconds.
+bird: 100.0%
+bird: 88.9%
+../../../data/VOC2007/Images/000058.jpg - Detection took 0.150 seconds.
+motorbike: 97.4%
+person: 95.1%
+person: 91.6%
+../../../data/VOC2007/Images/000059.jpg - Detection took 0.150 seconds.
+person: 99.5%
+person: 98.1%
+person: 82.8%
+tvmonitor: 99.9%
+tvmonitor: 99.0%
+../../../data/VOC2007/Images/000062.jpg - Detection took 0.160 seconds.
+sheep: 97.1%
+../../../data/VOC2007/Images/000067.jpg - Detection took 0.157 seconds.
+aeroplane: 100.0%
+../../../data/VOC2007/Images/000068.jpg - Detection took 0.139 seconds.
+bird: 87.9%
+../../../data/VOC2007/Images/000069.jpg - Detection took 0.148 seconds.
+boat: 99.6%
+person: 98.8%
+../../../data/VOC2007/Images/000070.jpg - Detection took 0.151 seconds.
+pottedplant: 94.8%
+tvmonitor: 94.2%
+../../../data/VOC2007/Images/000071.jpg - Detection took 0.150 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/000074.jpg - Detection took 0.150 seconds.
+car: 99.6%
+../../../data/VOC2007/Images/000075.jpg - Detection took 0.149 seconds.
+dog: 94.4%
+../../../data/VOC2007/Images/000076.jpg - Detection took 0.149 seconds.
+person: 98.4%
+person: 97.4%
+person: 93.1%
+person: 88.4%
+person: 83.0%
+../../../data/VOC2007/Images/000079.jpg - Detection took 0.138 seconds.
+dog: 99.9%
+../../../data/VOC2007/Images/000080.jpg - Detection took 0.149 seconds.
+car: 83.8%
+../../../data/VOC2007/Images/000082.jpg - Detection took 0.142 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/000084.jpg - Detection took 0.149 seconds.
+chair: 97.7%
+chair: 83.2%
+chair: 83.1%
+tvmonitor: 98.4%
+../../../data/VOC2007/Images/000085.jpg - Detection took 0.144 seconds.
+diningtable: 83.4%
+person: 99.2%
+person: 98.9%
+../../../data/VOC2007/Images/000086.jpg - Detection took 0.160 seconds.
+dog: 95.0%
+../../../data/VOC2007/Images/000087.jpg - Detection took 0.163 seconds.
+../../../data/VOC2007/Images/000088.jpg - Detection took 0.145 seconds.
+person: 86.4%
+train: 99.8%
+../../../data/VOC2007/Images/000090.jpg - Detection took 0.150 seconds.
+person: 96.3%
+tvmonitor: 86.3%
+../../../data/VOC2007/Images/000092.jpg - Detection took 0.133 seconds.
+cat: 97.7%
+../../../data/VOC2007/Images/000094.jpg - Detection took 0.160 seconds.
+motorbike: 87.1%
+person: 88.1%
+person: 87.5%
+../../../data/VOC2007/Images/000096.jpg - Detection took 0.147 seconds.
+person: 99.0%
+person: 98.3%
+../../../data/VOC2007/Images/000097.jpg - Detection took 0.149 seconds.
+person: 92.3%
+sofa: 96.3%
+tvmonitor: 94.4%
+../../../data/VOC2007/Images/000098.jpg - Detection took 0.134 seconds.
+cat: 94.0%
+../../../data/VOC2007/Images/000100.jpg - Detection took 0.168 seconds.
+car: 80.4%
+train: 99.2%
+../../../data/VOC2007/Images/000103.jpg - Detection took 0.149 seconds.
+car: 97.0%
+car: 92.8%
+../../../data/VOC2007/Images/000105.jpg - Detection took 0.159 seconds.
+boat: 87.0%
+person: 93.6%
+../../../data/VOC2007/Images/000106.jpg - Detection took 0.145 seconds.
+bird: 99.5%
+../../../data/VOC2007/Images/000108.jpg - Detection took 0.138 seconds.
+dog: 96.9%
+dog: 88.6%
+sofa: 96.9%
+../../../data/VOC2007/Images/000111.jpg - Detection took 0.147 seconds.
+car: 91.8%
+person: 84.5%
+../../../data/VOC2007/Images/000114.jpg - Detection took 0.137 seconds.
+cat: 97.2%
+../../../data/VOC2007/Images/000115.jpg - Detection took 0.133 seconds.
+bird: 94.0%
+../../../data/VOC2007/Images/000116.jpg - Detection took 0.150 seconds.
+bottle: 87.2%
+pottedplant: 89.2%
+pottedplant: 84.2%
+sofa: 99.7%
+../../../data/VOC2007/Images/000119.jpg - Detection took 0.135 seconds.
+cat: 99.2%
+../../../data/VOC2007/Images/000124.jpg - Detection took 0.149 seconds.
+person: 99.4%
+person: 97.2%
+person: 91.8%
+tvmonitor: 97.4%
+../../../data/VOC2007/Images/000126.jpg - Detection took 0.135 seconds.
+chair: 82.6%
+person: 84.4%
+../../../data/VOC2007/Images/000127.jpg - Detection took 0.149 seconds.
+person: 97.8%
+../../../data/VOC2007/Images/000128.jpg - Detection took 0.151 seconds.
+person: 91.3%
+person: 91.0%
+person: 89.7%
+../../../data/VOC2007/Images/000135.jpg - Detection took 0.151 seconds.
+car: 99.8%
+../../../data/VOC2007/Images/000136.jpg - Detection took 0.145 seconds.
+bottle: 95.1%
+person: 85.7%
+../../../data/VOC2007/Images/000137.jpg - Detection took 0.160 seconds.
+car: 97.7%
+../../../data/VOC2007/Images/000139.jpg - Detection took 0.145 seconds.
+bicycle: 93.5%
+person: 94.8%
+../../../data/VOC2007/Images/000144.jpg - Detection took 0.159 seconds.
+bottle: 87.6%
+diningtable: 97.0%
+person: 96.5%
+person: 96.3%
+person: 92.9%
+person: 88.1%
+../../../data/VOC2007/Images/000145.jpg - Detection took 0.140 seconds.
+bottle: 92.9%
+train: 99.3%
+../../../data/VOC2007/Images/000148.jpg - Detection took 0.137 seconds.
+bird: 96.7%
+../../../data/VOC2007/Images/000149.jpg - Detection took 0.132 seconds.
+pottedplant: 99.4%
+../../../data/VOC2007/Images/000151.jpg - Detection took 0.148 seconds.
+bottle: 94.3%
+person: 97.3%
+person: 82.5%
+pottedplant: 83.1%
+../../../data/VOC2007/Images/000152.jpg - Detection took 0.159 seconds.
+car: 100.0%
+car: 98.7%
+car: 93.3%
+car: 81.6%
+../../../data/VOC2007/Images/000155.jpg - Detection took 0.129 seconds.
+../../../data/VOC2007/Images/000157.jpg - Detection took 0.138 seconds.
+../../../data/VOC2007/Images/000160.jpg - Detection took 0.145 seconds.
+chair: 96.2%
+sofa: 98.9%
+tvmonitor: 97.3%
+../../../data/VOC2007/Images/000166.jpg - Detection took 0.149 seconds.
+horse: 99.3%
+person: 97.4%
+person: 92.6%
+person: 92.4%
+person: 89.6%
+person: 83.9%
+../../../data/VOC2007/Images/000167.jpg - Detection took 0.123 seconds.
+dog: 98.8%
+../../../data/VOC2007/Images/000168.jpg - Detection took 0.161 seconds.
+horse: 99.7%
+person: 99.1%
+../../../data/VOC2007/Images/000172.jpg - Detection took 0.137 seconds.
+car: 99.9%
+../../../data/VOC2007/Images/000175.jpg - Detection took 0.147 seconds.
+sheep: 98.8%
+../../../data/VOC2007/Images/000176.jpg - Detection took 0.159 seconds.
+cow: 98.2%
+sheep: 95.0%
+../../../data/VOC2007/Images/000178.jpg - Detection took 0.144 seconds.
+bottle: 99.0%
+bottle: 99.0%
+bottle: 98.7%
+bottle: 97.5%
+bottle: 88.8%
+bottle: 88.0%
+bottle: 83.3%
+bottle: 81.1%
+bottle: 81.1%
+diningtable: 98.4%
+person: 87.2%
+../../../data/VOC2007/Images/000179.jpg - Detection took 0.149 seconds.
+boat: 99.7%
+boat: 99.3%
+boat: 81.9%
+car: 85.8%
+../../../data/VOC2007/Images/000181.jpg - Detection took 0.148 seconds.
+person: 94.6%
+person: 92.9%
+person: 86.7%
+../../../data/VOC2007/Images/000182.jpg - Detection took 0.135 seconds.
+person: 98.6%
+../../../data/VOC2007/Images/000183.jpg - Detection took 0.134 seconds.
+dog: 99.8%
+../../../data/VOC2007/Images/000185.jpg - Detection took 0.135 seconds.
+chair: 94.0%
+../../../data/VOC2007/Images/000186.jpg - Detection took 0.136 seconds.
+bird: 99.0%
+../../../data/VOC2007/Images/000188.jpg - Detection took 0.155 seconds.
+bus: 99.8%
+person: 99.8%
+../../../data/VOC2007/Images/000191.jpg - Detection took 0.160 seconds.
+person: 99.7%
+person: 99.5%
+person: 99.3%
+person: 98.2%
+person: 88.0%
+person: 84.2%
+../../../data/VOC2007/Images/000195.jpg - Detection took 0.149 seconds.
+bus: 83.7%
+car: 99.3%
+../../../data/VOC2007/Images/000196.jpg - Detection took 0.149 seconds.
+chair: 99.9%
+chair: 98.3%
+chair: 96.7%
+chair: 82.6%
+pottedplant: 89.2%
+../../../data/VOC2007/Images/000197.jpg - Detection took 0.138 seconds.
+car: 99.5%
+../../../data/VOC2007/Images/000199.jpg - Detection took 0.143 seconds.
+bird: 99.0%
+../../../data/VOC2007/Images/000201.jpg - Detection took 0.158 seconds.
+motorbike: 92.1%
+person: 86.7%
+person: 83.5%
+../../../data/VOC2007/Images/000202.jpg - Detection took 0.150 seconds.
+bottle: 96.6%
+person: 99.1%
+person: 99.0%
+../../../data/VOC2007/Images/000204.jpg - Detection took 0.149 seconds.
+car: 97.4%
+person: 89.0%
+tvmonitor: 94.4%
+../../../data/VOC2007/Images/000205.jpg - Detection took 0.150 seconds.
+car: 88.1%
+dog: 96.9%
+dog: 81.4%
+person: 86.1%
+person: 84.6%
+../../../data/VOC2007/Images/000206.jpg - Detection took 0.149 seconds.
+person: 98.2%
+person: 88.8%
+pottedplant: 92.3%
+../../../data/VOC2007/Images/000212.jpg - Detection took 0.159 seconds.
+chair: 89.5%
+diningtable: 95.4%
+person: 98.1%
+person: 95.5%
+person: 93.8%
+../../../data/VOC2007/Images/000213.jpg - Detection took 0.137 seconds.
+cat: 95.4%
+tvmonitor: 87.4%
+../../../data/VOC2007/Images/000216.jpg - Detection took 0.135 seconds.
+aeroplane: 98.6%
+../../../data/VOC2007/Images/000217.jpg - Detection took 0.158 seconds.
+chair: 89.5%
+chair: 83.4%
+diningtable: 95.7%
+../../../data/VOC2007/Images/000223.jpg - Detection took 0.160 seconds.
+person: 88.7%
+train: 98.8%
+../../../data/VOC2007/Images/000226.jpg - Detection took 0.149 seconds.
+diningtable: 85.6%
+person: 92.5%
+person: 87.2%
+../../../data/VOC2007/Images/000227.jpg - Detection took 0.143 seconds.
+cat: 86.5%
+tvmonitor: 99.8%
+../../../data/VOC2007/Images/000230.jpg - Detection took 0.149 seconds.
+bicycle: 95.2%
+person: 97.3%
+../../../data/VOC2007/Images/000231.jpg - Detection took 0.145 seconds.
+../../../data/VOC2007/Images/000234.jpg - Detection took 0.147 seconds.
+chair: 94.2%
+pottedplant: 90.6%
+../../../data/VOC2007/Images/000237.jpg - Detection took 0.152 seconds.
+horse: 97.9%
+person: 97.6%
+person: 85.6%
+person: 80.2%
+../../../data/VOC2007/Images/000238.jpg - Detection took 0.149 seconds.
+person: 98.4%
+train: 96.7%
+../../../data/VOC2007/Images/000239.jpg - Detection took 0.161 seconds.
+bus: 99.7%
+person: 96.7%
+person: 88.4%
+person: 87.2%
+../../../data/VOC2007/Images/000240.jpg - Detection took 0.148 seconds.
+car: 99.6%
+car: 99.2%
+person: 91.5%
+../../../data/VOC2007/Images/000243.jpg - Detection took 0.148 seconds.
+aeroplane: 99.8%
+../../../data/VOC2007/Images/000247.jpg - Detection took 0.149 seconds.
+chair: 92.6%
+diningtable: 87.9%
+person: 98.5%
+../../../data/VOC2007/Images/000248.jpg - Detection took 0.162 seconds.
+person: 88.3%
+../../../data/VOC2007/Images/000252.jpg - Detection took 0.160 seconds.
+bus: 95.4%
+car: 100.0%
+person: 92.2%
+../../../data/VOC2007/Images/000253.jpg - Detection took 0.159 seconds.
+bottle: 80.1%
+person: 93.4%
+train: 99.9%
+../../../data/VOC2007/Images/000254.jpg - Detection took 0.159 seconds.
+car: 98.0%
+car: 97.2%
+car: 86.9%
+../../../data/VOC2007/Images/000255.jpg - Detection took 0.137 seconds.
+dog: 94.6%
+../../../data/VOC2007/Images/000258.jpg - Detection took 0.156 seconds.
+dog: 80.8%
+horse: 93.2%
+person: 98.9%
+../../../data/VOC2007/Images/000260.jpg - Detection took 0.151 seconds.
+aeroplane: 98.5%
+../../../data/VOC2007/Images/000261.jpg - Detection took 0.132 seconds.
+bicycle: 99.9%
+../../../data/VOC2007/Images/000264.jpg - Detection took 0.147 seconds.
+person: 99.0%
+../../../data/VOC2007/Images/000265.jpg - Detection took 0.161 seconds.
+bottle: 94.7%
+bottle: 81.3%
+person: 98.7%
+person: 98.6%
+person: 93.5%
+person: 90.8%
+person: 90.1%
+tvmonitor: 82.4%
+../../../data/VOC2007/Images/000267.jpg - Detection took 0.150 seconds.
+horse: 99.0%
+../../../data/VOC2007/Images/000271.jpg - Detection took 0.160 seconds.
+car: 99.8%
+person: 97.2%
+person: 92.1%
+person: 89.8%
+../../../data/VOC2007/Images/000272.jpg - Detection took 0.149 seconds.
+person: 99.3%
+../../../data/VOC2007/Images/000273.jpg - Detection took 0.149 seconds.
+cow: 94.2%
+../../../data/VOC2007/Images/000274.jpg - Detection took 0.136 seconds.
+bird: 99.7%
+../../../data/VOC2007/Images/000277.jpg - Detection took 0.151 seconds.
+chair: 94.0%
+sofa: 99.9%
+../../../data/VOC2007/Images/000279.jpg - Detection took 0.148 seconds.
+person: 97.2%
+../../../data/VOC2007/Images/000280.jpg - Detection took 0.149 seconds.
+bottle: 90.9%
+chair: 98.7%
+chair: 82.5%
+diningtable: 97.0%
+person: 95.9%
+pottedplant: 89.3%
+../../../data/VOC2007/Images/000281.jpg - Detection took 0.161 seconds.
+train: 99.7%
+../../../data/VOC2007/Images/000283.jpg - Detection took 0.131 seconds.
+bicycle: 98.2%
+bicycle: 96.9%
+person: 99.2%
+person: 97.9%
+../../../data/VOC2007/Images/000284.jpg - Detection took 0.161 seconds.
+car: 99.8%
+car: 98.5%
+../../../data/VOC2007/Images/000286.jpg - Detection took 0.148 seconds.
+person: 98.3%
+person: 93.7%
+../../../data/VOC2007/Images/000287.jpg - Detection took 0.147 seconds.
+bottle: 80.5%
+chair: 87.9%
+person: 99.2%
+person: 97.9%
+person: 87.3%
+../../../data/VOC2007/Images/000290.jpg - Detection took 0.145 seconds.
+../../../data/VOC2007/Images/000291.jpg - Detection took 0.146 seconds.
+person: 91.0%
+tvmonitor: 99.7%
+tvmonitor: 98.0%
+../../../data/VOC2007/Images/000292.jpg - Detection took 0.137 seconds.
+cat: 81.8%
+person: 89.0%
+../../../data/VOC2007/Images/000293.jpg - Detection took 0.145 seconds.
+car: 99.7%
+person: 97.8%
+person: 94.9%
+person: 93.3%
+person: 91.9%
+../../../data/VOC2007/Images/000295.jpg - Detection took 0.145 seconds.
+../../../data/VOC2007/Images/000297.jpg - Detection took 0.126 seconds.
+cow: 97.0%
+person: 98.2%
+../../../data/VOC2007/Images/000299.jpg - Detection took 0.151 seconds.
+person: 97.2%
+person: 87.6%
+../../../data/VOC2007/Images/000300.jpg - Detection took 0.148 seconds.
+car: 99.1%
+../../../data/VOC2007/Images/000301.jpg - Detection took 0.149 seconds.
+car: 99.8%
+car: 98.5%
+../../../data/VOC2007/Images/000309.jpg - Detection took 0.135 seconds.
+bird: 95.2%
+../../../data/VOC2007/Images/000310.jpg - Detection took 0.152 seconds.
+person: 98.9%
+person: 98.0%
+person: 93.0%
+../../../data/VOC2007/Images/000313.jpg - Detection took 0.148 seconds.
+car: 99.3%
+car: 99.3%
+car: 98.4%
+car: 97.8%
+car: 97.8%
+car: 96.9%
+car: 96.1%
+../../../data/VOC2007/Images/000314.jpg - Detection took 0.160 seconds.
+chair: 96.3%
+chair: 93.5%
+chair: 92.2%
+chair: 81.7%
+chair: 80.4%
+../../../data/VOC2007/Images/000315.jpg - Detection took 0.135 seconds.
+person: 99.6%
+person: 96.2%
+person: 87.6%
+../../../data/VOC2007/Images/000316.jpg - Detection took 0.134 seconds.
+aeroplane: 99.9%
+../../../data/VOC2007/Images/000319.jpg - Detection took 0.159 seconds.
+horse: 99.9%
+person: 99.5%
+../../../data/VOC2007/Images/000324.jpg - Detection took 0.134 seconds.
+../../../data/VOC2007/Images/000326.jpg - Detection took 0.132 seconds.
+bird: 81.4%
+../../../data/VOC2007/Images/000327.jpg - Detection took 0.150 seconds.
+bottle: 97.6%
+tvmonitor: 99.3%
+../../../data/VOC2007/Images/000330.jpg - Detection took 0.152 seconds.
+horse: 99.2%
+person: 96.9%
+person: 87.4%
+../../../data/VOC2007/Images/000333.jpg - Detection took 0.159 seconds.
+train: 99.6%
+train: 90.3%
+../../../data/VOC2007/Images/000335.jpg - Detection took 0.138 seconds.
+../../../data/VOC2007/Images/000339.jpg - Detection took 0.135 seconds.
+person: 98.7%
+person: 97.9%
+person: 97.7%
+person: 95.5%
+../../../data/VOC2007/Images/000341.jpg - Detection took 0.159 seconds.
+bus: 96.1%
+car: 99.9%
+car: 97.3%
+person: 84.7%
+../../../data/VOC2007/Images/000342.jpg - Detection took 0.134 seconds.
+person: 88.4%
+tvmonitor: 95.7%
+../../../data/VOC2007/Images/000345.jpg - Detection took 0.149 seconds.
+cow: 98.5%
+../../../data/VOC2007/Images/000346.jpg - Detection took 0.147 seconds.
+bottle: 93.5%
+bottle: 87.3%
+person: 99.6%
+../../../data/VOC2007/Images/000348.jpg - Detection took 0.158 seconds.
+motorbike: 95.8%
+person: 96.9%
+../../../data/VOC2007/Images/000350.jpg - Detection took 0.153 seconds.
+boat: 85.3%
+../../../data/VOC2007/Images/000351.jpg - Detection took 0.161 seconds.
+car: 98.6%
+car: 93.7%
+../../../data/VOC2007/Images/000353.jpg - Detection took 0.150 seconds.
+motorbike: 98.9%
+../../../data/VOC2007/Images/000356.jpg - Detection took 0.162 seconds.
+horse: 98.3%
+person: 99.6%
+../../../data/VOC2007/Images/000357.jpg - Detection took 0.139 seconds.
+bird: 93.0%
+../../../data/VOC2007/Images/000358.jpg - Detection took 0.140 seconds.
+car: 99.7%
+person: 98.5%
+../../../data/VOC2007/Images/000360.jpg - Detection took 0.136 seconds.
+cow: 100.0%
+../../../data/VOC2007/Images/000361.jpg - Detection took 0.145 seconds.
+car: 99.6%
+car: 98.1%
+../../../data/VOC2007/Images/000362.jpg - Detection took 0.144 seconds.
+dog: 90.8%
+../../../data/VOC2007/Images/000364.jpg - Detection took 0.151 seconds.
+car: 87.8%
+car: 87.5%
+motorbike: 99.8%
+motorbike: 97.2%
+motorbike: 84.0%
+person: 96.7%
+../../../data/VOC2007/Images/000365.jpg - Detection took 0.139 seconds.
+../../../data/VOC2007/Images/000366.jpg - Detection took 0.137 seconds.
+chair: 99.4%
+chair: 99.1%
+tvmonitor: 96.3%
+../../../data/VOC2007/Images/000368.jpg - Detection took 0.163 seconds.
+person: 98.4%
+../../../data/VOC2007/Images/000369.jpg - Detection took 0.149 seconds.
+bottle: 97.2%
+diningtable: 95.0%
+person: 97.1%
+person: 94.4%
+person: 86.5%
+../../../data/VOC2007/Images/000371.jpg - Detection took 0.159 seconds.
+../../../data/VOC2007/Images/000375.jpg - Detection took 0.146 seconds.
+boat: 99.0%
+../../../data/VOC2007/Images/000376.jpg - Detection took 0.158 seconds.
+sheep: 87.9%
+../../../data/VOC2007/Images/000377.jpg - Detection took 0.149 seconds.
+diningtable: 99.9%
+person: 97.5%
+person: 94.0%
+person: 91.7%
+person: 89.7%
+person: 84.2%
+person: 81.5%
+../../../data/VOC2007/Images/000378.jpg - Detection took 0.161 seconds.
+horse: 100.0%
+person: 99.7%
+../../../data/VOC2007/Images/000383.jpg - Detection took 0.135 seconds.
+bird: 92.0%
+bird: 82.3%
+../../../data/VOC2007/Images/000384.jpg - Detection took 0.144 seconds.
+chair: 94.6%
+sofa: 99.5%
+../../../data/VOC2007/Images/000385.jpg - Detection took 0.148 seconds.
+bottle: 89.2%
+chair: 99.6%
+chair: 99.1%
+pottedplant: 97.4%
+tvmonitor: 91.3%
+tvmonitor: 85.1%
+../../../data/VOC2007/Images/000386.jpg - Detection took 0.150 seconds.
+cow: 97.1%
+person: 99.9%
+../../../data/VOC2007/Images/000388.jpg - Detection took 0.150 seconds.
+person: 99.8%
+person: 99.2%
+../../../data/VOC2007/Images/000389.jpg - Detection took 0.149 seconds.
+motorbike: 89.3%
+../../../data/VOC2007/Images/000390.jpg - Detection took 0.141 seconds.
+bottle: 90.4%
+car: 100.0%
+car: 84.2%
+../../../data/VOC2007/Images/000392.jpg - Detection took 0.161 seconds.
+horse: 99.0%
+person: 98.7%
+person: 86.8%
+../../../data/VOC2007/Images/000393.jpg - Detection took 0.160 seconds.
+horse: 99.7%
+person: 99.6%
+../../../data/VOC2007/Images/000397.jpg - Detection took 0.149 seconds.
+pottedplant: 82.0%
+sofa: 91.0%
+tvmonitor: 98.1%
+../../../data/VOC2007/Images/000398.jpg - Detection took 0.135 seconds.
+bottle: 82.3%
+train: 86.4%
+../../../data/VOC2007/Images/000399.jpg - Detection took 0.147 seconds.
+bicycle: 100.0%
+../../../data/VOC2007/Images/000401.jpg - Detection took 0.136 seconds.
+cat: 99.5%
+cat: 94.5%
+../../../data/VOC2007/Images/000402.jpg - Detection took 0.158 seconds.
+car: 100.0%
+car: 92.9%
+../../../data/VOC2007/Images/000405.jpg - Detection took 0.147 seconds.
+person: 99.8%
+../../../data/VOC2007/Images/000409.jpg - Detection took 0.147 seconds.
+person: 98.3%
+../../../data/VOC2007/Images/000410.jpg - Detection took 0.162 seconds.
+horse: 98.5%
+person: 98.9%
+person: 88.8%
+../../../data/VOC2007/Images/000412.jpg - Detection took 0.147 seconds.
+cow: 84.6%
+horse: 96.4%
+../../../data/VOC2007/Images/000413.jpg - Detection took 0.149 seconds.
+person: 99.1%
+person: 98.2%
+person: 92.8%
+person: 92.2%
+../../../data/VOC2007/Images/000414.jpg - Detection took 0.150 seconds.
+person: 91.7%
+person: 81.1%
+tvmonitor: 82.5%
+../../../data/VOC2007/Images/000415.jpg - Detection took 0.148 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/000418.jpg - Detection took 0.151 seconds.
+aeroplane: 93.6%
+../../../data/VOC2007/Images/000421.jpg - Detection took 0.136 seconds.
+person: 98.2%
+tvmonitor: 98.0%
+../../../data/VOC2007/Images/000422.jpg - Detection took 0.135 seconds.
+dog: 98.1%
+person: 96.9%
+person: 94.1%
+person: 86.3%
+../../../data/VOC2007/Images/000423.jpg - Detection took 0.148 seconds.
+person: 97.5%
+person: 94.8%
+../../../data/VOC2007/Images/000425.jpg - Detection took 0.143 seconds.
+car: 99.8%
+../../../data/VOC2007/Images/000426.jpg - Detection took 0.145 seconds.
+bird: 96.1%
+../../../data/VOC2007/Images/000429.jpg - Detection took 0.148 seconds.
+chair: 93.0%
+sofa: 88.8%
+../../../data/VOC2007/Images/000432.jpg - Detection took 0.148 seconds.
+../../../data/VOC2007/Images/000434.jpg - Detection took 0.139 seconds.
+horse: 98.7%
+person: 95.1%
+../../../data/VOC2007/Images/000436.jpg - Detection took 0.134 seconds.
+../../../data/VOC2007/Images/000437.jpg - Detection took 0.144 seconds.
+person: 99.3%
+person: 99.1%
+../../../data/VOC2007/Images/000440.jpg - Detection took 0.149 seconds.
+car: 99.9%
+../../../data/VOC2007/Images/000441.jpg - Detection took 0.148 seconds.
+train: 99.6%
+../../../data/VOC2007/Images/000442.jpg - Detection took 0.136 seconds.
+cat: 100.0%
+../../../data/VOC2007/Images/000444.jpg - Detection took 0.162 seconds.
+../../../data/VOC2007/Images/000445.jpg - Detection took 0.168 seconds.
+horse: 99.6%
+horse: 98.3%
+person: 93.5%
+person: 93.3%
+person: 80.4%
+../../../data/VOC2007/Images/000447.jpg - Detection took 0.156 seconds.
+bottle: 99.4%
+car: 89.1%
+person: 98.7%
+person: 89.6%
+../../../data/VOC2007/Images/000449.jpg - Detection took 0.151 seconds.
+boat: 99.8%
+person: 97.9%
+person: 96.2%
+person: 92.6%
+../../../data/VOC2007/Images/000451.jpg - Detection took 0.145 seconds.
+../../../data/VOC2007/Images/000452.jpg - Detection took 0.134 seconds.
+../../../data/VOC2007/Images/000453.jpg - Detection took 0.157 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/000455.jpg - Detection took 0.158 seconds.
+horse: 99.8%
+person: 99.6%
+../../../data/VOC2007/Images/000456.jpg - Detection took 0.149 seconds.
+bus: 98.3%
+person: 86.3%
+../../../data/VOC2007/Images/000457.jpg - Detection took 0.151 seconds.
+person: 99.7%
+pottedplant: 88.4%
+../../../data/VOC2007/Images/000458.jpg - Detection took 0.147 seconds.
+person: 98.5%
+person: 83.0%
+person: 81.0%
+person: 80.8%
+sheep: 85.0%
+../../../data/VOC2007/Images/000465.jpg - Detection took 0.136 seconds.
+car: 99.9%
+../../../data/VOC2007/Images/000466.jpg - Detection took 0.148 seconds.
+bird: 99.5%
+person: 87.9%
+../../../data/VOC2007/Images/000467.jpg - Detection took 0.159 seconds.
+motorbike: 99.5%
+motorbike: 95.6%
+motorbike: 84.6%
+person: 97.8%
+person: 95.8%
+../../../data/VOC2007/Images/000471.jpg - Detection took 0.138 seconds.
+car: 91.7%
+../../../data/VOC2007/Images/000472.jpg - Detection took 0.121 seconds.
+bird: 98.2%
+../../../data/VOC2007/Images/000473.jpg - Detection took 0.138 seconds.
+aeroplane: 86.0%
+../../../data/VOC2007/Images/000475.jpg - Detection took 0.148 seconds.
+bottle: 88.6%
+sheep: 99.7%
+../../../data/VOC2007/Images/000478.jpg - Detection took 0.147 seconds.
+dog: 90.2%
+../../../data/VOC2007/Images/000479.jpg - Detection took 0.136 seconds.
+person: 98.5%
+../../../data/VOC2007/Images/000481.jpg - Detection took 0.154 seconds.
+boat: 91.6%
+../../../data/VOC2007/Images/000485.jpg - Detection took 0.162 seconds.
+person: 96.3%
+../../../data/VOC2007/Images/000487.jpg - Detection took 0.149 seconds.
+pottedplant: 95.7%
+sofa: 80.6%
+../../../data/VOC2007/Images/000488.jpg - Detection took 0.148 seconds.
+car: 99.5%
+../../../data/VOC2007/Images/000490.jpg - Detection took 0.160 seconds.
+person: 96.9%
+person: 92.6%
+person: 88.8%
+person: 85.3%
+../../../data/VOC2007/Images/000493.jpg - Detection took 0.157 seconds.
+person: 97.9%
+person: 97.8%
+person: 96.5%
+person: 86.9%
+../../../data/VOC2007/Images/000495.jpg - Detection took 0.145 seconds.
+bird: 98.3%
+../../../data/VOC2007/Images/000497.jpg - Detection took 0.126 seconds.
+motorbike: 99.9%
+person: 89.8%
+person: 81.2%
+../../../data/VOC2007/Images/000502.jpg - Detection took 0.149 seconds.
+dog: 80.5%
+person: 99.8%
+person: 97.4%
+pottedplant: 83.7%
+../../../data/VOC2007/Images/000504.jpg - Detection took 0.139 seconds.
+cow: 92.2%
+person: 87.2%
+person: 83.8%
+../../../data/VOC2007/Images/000505.jpg - Detection took 0.156 seconds.
+car: 99.3%
+car: 95.8%
+../../../data/VOC2007/Images/000506.jpg - Detection took 0.136 seconds.
+dog: 86.2%
+person: 99.6%
+../../../data/VOC2007/Images/000507.jpg - Detection took 0.146 seconds.
+car: 90.2%
+person: 98.4%
+person: 96.5%
+person: 94.9%
+person: 88.5%
+person: 87.9%
+person: 87.7%
+../../../data/VOC2007/Images/000510.jpg - Detection took 0.149 seconds.
+bottle: 97.7%
+chair: 98.8%
+chair: 91.7%
+chair: 89.7%
+diningtable: 99.6%
+pottedplant: 86.0%
+../../../data/VOC2007/Images/000511.jpg - Detection took 0.148 seconds.
+train: 98.0%
+../../../data/VOC2007/Images/000512.jpg - Detection took 0.147 seconds.
+bus: 99.9%
+../../../data/VOC2007/Images/000517.jpg - Detection took 0.150 seconds.
+dog: 87.7%
+person: 87.3%
+../../../data/VOC2007/Images/000521.jpg - Detection took 0.145 seconds.
+../../../data/VOC2007/Images/000527.jpg - Detection took 0.147 seconds.
+bicycle: 99.7%
+bicycle: 96.7%
+person: 95.4%
+person: 90.2%
+person: 84.0%
+person: 80.9%
+../../../data/VOC2007/Images/000529.jpg - Detection took 0.150 seconds.
+aeroplane: 82.0%
+../../../data/VOC2007/Images/000532.jpg - Detection took 0.160 seconds.
+motorbike: 94.6%
+person: 89.4%
+../../../data/VOC2007/Images/000533.jpg - Detection took 0.112 seconds.
+../../../data/VOC2007/Images/000534.jpg - Detection took 0.115 seconds.
+person: 98.9%
+../../../data/VOC2007/Images/000536.jpg - Detection took 0.149 seconds.
+bus: 99.9%
+person: 88.1%
+../../../data/VOC2007/Images/000538.jpg - Detection took 0.158 seconds.
+bus: 95.1%
+person: 96.1%
+../../../data/VOC2007/Images/000539.jpg - Detection took 0.148 seconds.
+dog: 96.8%
+person: 98.8%
+../../../data/VOC2007/Images/000542.jpg - Detection took 0.133 seconds.
+cat: 100.0%
+../../../data/VOC2007/Images/000546.jpg - Detection took 0.136 seconds.
+person: 97.6%
+../../../data/VOC2007/Images/000547.jpg - Detection took 0.150 seconds.
+person: 93.9%
+person: 90.9%
+person: 89.9%
+person: 87.4%
+person: 86.2%
+person: 81.8%
+pottedplant: 90.3%
+pottedplant: 89.2%
+../../../data/VOC2007/Images/000548.jpg - Detection took 0.149 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/000551.jpg - Detection took 0.139 seconds.
+dog: 91.2%
+../../../data/VOC2007/Images/000553.jpg - Detection took 0.151 seconds.
+motorbike: 95.6%
+../../../data/VOC2007/Images/000556.jpg - Detection took 0.152 seconds.
+train: 99.7%
+../../../data/VOC2007/Images/000557.jpg - Detection took 0.139 seconds.
+../../../data/VOC2007/Images/000558.jpg - Detection took 0.153 seconds.
+boat: 92.1%
+../../../data/VOC2007/Images/000560.jpg - Detection took 0.154 seconds.
+aeroplane: 96.4%
+../../../data/VOC2007/Images/000561.jpg - Detection took 0.152 seconds.
+bird: 98.1%
+bird: 97.4%
+bird: 85.8%
+../../../data/VOC2007/Images/000562.jpg - Detection took 0.140 seconds.
+bicycle: 85.4%
+person: 98.6%
+../../../data/VOC2007/Images/000566.jpg - Detection took 0.150 seconds.
+bottle: 85.5%
+person: 99.7%
+../../../data/VOC2007/Images/000567.jpg - Detection took 0.151 seconds.
+person: 92.2%
+person: 88.9%
+../../../data/VOC2007/Images/000568.jpg - Detection took 0.147 seconds.
+bird: 88.9%
+../../../data/VOC2007/Images/000569.jpg - Detection took 0.139 seconds.
+bird: 97.0%
+../../../data/VOC2007/Images/000570.jpg - Detection took 0.152 seconds.
+motorbike: 98.2%
+person: 96.9%
+../../../data/VOC2007/Images/000571.jpg - Detection took 0.131 seconds.
+../../../data/VOC2007/Images/000572.jpg - Detection took 0.147 seconds.
+motorbike: 86.2%
+tvmonitor: 85.2%
+../../../data/VOC2007/Images/000573.jpg - Detection took 0.136 seconds.
+bottle: 89.6%
+diningtable: 86.7%
+pottedplant: 85.3%
+../../../data/VOC2007/Images/000574.jpg - Detection took 0.147 seconds.
+sheep: 99.4%
+sheep: 86.9%
+../../../data/VOC2007/Images/000575.jpg - Detection took 0.155 seconds.
+cat: 96.9%
+pottedplant: 98.8%
+pottedplant: 98.1%
+../../../data/VOC2007/Images/000576.jpg - Detection took 0.148 seconds.
+boat: 99.3%
+boat: 81.1%
+../../../data/VOC2007/Images/000578.jpg - Detection took 0.137 seconds.
+person: 99.3%
+../../../data/VOC2007/Images/000580.jpg - Detection took 0.145 seconds.
+car: 99.9%
+../../../data/VOC2007/Images/000584.jpg - Detection took 0.149 seconds.
+bicycle: 82.9%
+tvmonitor: 99.3%
+../../../data/VOC2007/Images/000585.jpg - Detection took 0.145 seconds.
+car: 100.0%
+car: 91.9%
+person: 96.8%
+../../../data/VOC2007/Images/000586.jpg - Detection took 0.149 seconds.
+car: 99.7%
+person: 98.0%
+../../../data/VOC2007/Images/000587.jpg - Detection took 0.149 seconds.
+bottle: 95.7%
+bottle: 86.7%
+diningtable: 98.3%
+person: 93.2%
+person: 86.9%
+../../../data/VOC2007/Images/000593.jpg - Detection took 0.148 seconds.
+car: 99.6%
+car: 93.2%
+car: 87.0%
+../../../data/VOC2007/Images/000594.jpg - Detection took 0.150 seconds.
+bicycle: 98.0%
+person: 99.8%
+../../../data/VOC2007/Images/000595.jpg - Detection took 0.149 seconds.
+chair: 95.3%
+chair: 90.0%
+person: 83.2%
+sofa: 82.8%
+tvmonitor: 83.5%
+../../../data/VOC2007/Images/000596.jpg - Detection took 0.143 seconds.
+sheep: 95.6%
+sheep: 82.0%
+../../../data/VOC2007/Images/000600.jpg - Detection took 0.146 seconds.
+../../../data/VOC2007/Images/000602.jpg - Detection took 0.141 seconds.
+car: 97.1%
+person: 99.8%
+../../../data/VOC2007/Images/000603.jpg - Detection took 0.151 seconds.
+chair: 96.1%
+sofa: 96.5%
+tvmonitor: 98.0%
+../../../data/VOC2007/Images/000604.jpg - Detection took 0.147 seconds.
+horse: 98.8%
+person: 99.5%
+../../../data/VOC2007/Images/000606.jpg - Detection took 0.149 seconds.
+bottle: 98.7%
+bottle: 95.9%
+diningtable: 83.7%
+person: 98.5%
+person: 95.8%
+person: 95.2%
+person: 84.3%
+../../../data/VOC2007/Images/000607.jpg - Detection took 0.161 seconds.
+car: 97.1%
+car: 92.0%
+person: 97.6%
+person: 97.0%
+person: 94.7%
+person: 93.9%
+person: 82.6%
+../../../data/VOC2007/Images/000611.jpg - Detection took 0.144 seconds.
+bottle: 98.5%
+dog: 95.9%
+../../../data/VOC2007/Images/000614.jpg - Detection took 0.137 seconds.
+bicycle: 99.8%
+../../../data/VOC2007/Images/000615.jpg - Detection took 0.136 seconds.
+chair: 84.2%
+person: 97.9%
+person: 96.3%
+../../../data/VOC2007/Images/000616.jpg - Detection took 0.129 seconds.
+person: 98.4%
+../../../data/VOC2007/Images/000617.jpg - Detection took 0.136 seconds.
+bottle: 95.8%
+diningtable: 99.8%
+person: 93.2%
+person: 80.8%
+../../../data/VOC2007/Images/000618.jpg - Detection took 0.151 seconds.
+aeroplane: 98.8%
+../../../data/VOC2007/Images/000621.jpg - Detection took 0.150 seconds.
+chair: 92.2%
+chair: 91.7%
+chair: 83.3%
+person: 99.2%
+person: 88.1%
+../../../data/VOC2007/Images/000623.jpg - Detection took 0.160 seconds.
+horse: 99.9%
+person: 98.8%
+../../../data/VOC2007/Images/000624.jpg - Detection took 0.158 seconds.
+car: 99.7%
+person: 98.1%
+person: 94.1%
+person: 93.5%
+person: 91.6%
+person: 90.1%
+person: 82.0%
+../../../data/VOC2007/Images/000627.jpg - Detection took 0.148 seconds.
+sheep: 99.4%
+sheep: 87.1%
+../../../data/VOC2007/Images/000629.jpg - Detection took 0.142 seconds.
+../../../data/VOC2007/Images/000630.jpg - Detection took 0.147 seconds.
+motorbike: 98.7%
+person: 99.8%
+../../../data/VOC2007/Images/000631.jpg - Detection took 0.144 seconds.
+boat: 96.9%
+../../../data/VOC2007/Images/000634.jpg - Detection took 0.148 seconds.
+car: 99.5%
+person: 98.2%
+person: 93.2%
+../../../data/VOC2007/Images/000636.jpg - Detection took 0.159 seconds.
+person: 94.0%
+train: 91.7%
+../../../data/VOC2007/Images/000638.jpg - Detection took 0.134 seconds.
+cat: 99.4%
+person: 97.3%
+../../../data/VOC2007/Images/000639.jpg - Detection took 0.147 seconds.
+person: 80.6%
+../../../data/VOC2007/Images/000640.jpg - Detection took 0.136 seconds.
+bicycle: 99.5%
+bird: 93.9%
+../../../data/VOC2007/Images/000641.jpg - Detection took 0.148 seconds.
+person: 98.3%
+../../../data/VOC2007/Images/000642.jpg - Detection took 0.139 seconds.
+person: 99.2%
+../../../data/VOC2007/Images/000643.jpg - Detection took 0.149 seconds.
+person: 99.5%
+person: 95.7%
+person: 87.9%
+../../../data/VOC2007/Images/000644.jpg - Detection took 0.134 seconds.
+tvmonitor: 93.5%
+../../../data/VOC2007/Images/000646.jpg - Detection took 0.137 seconds.
+car: 99.9%
+car: 94.1%
+car: 84.3%
+car: 81.4%
+../../../data/VOC2007/Images/000649.jpg - Detection took 0.149 seconds.
+car: 99.6%
+person: 95.0%
+../../../data/VOC2007/Images/000650.jpg - Detection took 0.149 seconds.
+chair: 88.2%
+pottedplant: 93.3%
+pottedplant: 91.7%
+pottedplant: 91.3%
+../../../data/VOC2007/Images/000651.jpg - Detection took 0.136 seconds.
+../../../data/VOC2007/Images/000652.jpg - Detection took 0.148 seconds.
+chair: 87.2%
+person: 97.7%
+person: 89.0%
+../../../data/VOC2007/Images/000655.jpg - Detection took 0.149 seconds.
+motorbike: 98.9%
+person: 97.6%
+../../../data/VOC2007/Images/000658.jpg - Detection took 0.149 seconds.
+chair: 96.6%
+tvmonitor: 93.7%
+../../../data/VOC2007/Images/000659.jpg - Detection took 0.136 seconds.
+tvmonitor: 100.0%
+../../../data/VOC2007/Images/000662.jpg - Detection took 0.150 seconds.
+person: 97.2%
+../../../data/VOC2007/Images/000664.jpg - Detection took 0.135 seconds.
+person: 99.9%
+../../../data/VOC2007/Images/000665.jpg - Detection took 0.134 seconds.
+aeroplane: 99.9%
+../../../data/VOC2007/Images/000666.jpg - Detection took 0.160 seconds.
+horse: 91.5%
+person: 98.1%
+person: 94.9%
+../../../data/VOC2007/Images/000668.jpg - Detection took 0.151 seconds.
+aeroplane: 99.9%
+../../../data/VOC2007/Images/000669.jpg - Detection took 0.149 seconds.
+car: 97.7%
+car: 93.1%
+pottedplant: 81.0%
+../../../data/VOC2007/Images/000670.jpg - Detection took 0.136 seconds.
+person: 99.9%
+person: 97.7%
+../../../data/VOC2007/Images/000673.jpg - Detection took 0.144 seconds.
+cat: 91.6%
+cat: 83.7%
+../../../data/VOC2007/Images/000674.jpg - Detection took 0.149 seconds.
+../../../data/VOC2007/Images/000678.jpg - Detection took 0.157 seconds.
+train: 99.3%
+../../../data/VOC2007/Images/000679.jpg - Detection took 0.156 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/000681.jpg - Detection took 0.148 seconds.
+bird: 99.2%
+bird: 85.3%
+../../../data/VOC2007/Images/000683.jpg - Detection took 0.148 seconds.
+person: 98.0%
+person: 97.8%
+person: 94.7%
+../../../data/VOC2007/Images/000687.jpg - Detection took 0.159 seconds.
+car: 98.0%
+car: 94.4%
+car: 88.9%
+car: 83.1%
+person: 95.0%
+person: 92.4%
+person: 85.4%
+../../../data/VOC2007/Images/000691.jpg - Detection took 0.138 seconds.
+../../../data/VOC2007/Images/000692.jpg - Detection took 0.144 seconds.
+dog: 90.7%
+person: 99.4%
+pottedplant: 82.7%
+../../../data/VOC2007/Images/000693.jpg - Detection took 0.150 seconds.
+car: 99.8%
+car: 94.5%
+person: 99.8%
+person: 99.2%
+person: 98.9%
+person: 98.8%
+person: 84.2%
+person: 81.2%
+../../../data/VOC2007/Images/000696.jpg - Detection took 0.159 seconds.
+aeroplane: 99.0%
+boat: 92.4%
+car: 90.3%
+../../../data/VOC2007/Images/000697.jpg - Detection took 0.150 seconds.
+bicycle: 99.6%
+person: 93.6%
+../../../data/VOC2007/Images/000698.jpg - Detection took 0.160 seconds.
+person: 97.6%
+pottedplant: 93.2%
+pottedplant: 88.8%
+../../../data/VOC2007/Images/000701.jpg - Detection took 0.133 seconds.
+../../../data/VOC2007/Images/000703.jpg - Detection took 0.153 seconds.
+train: 99.4%
+../../../data/VOC2007/Images/000704.jpg - Detection took 0.154 seconds.
+bicycle: 95.0%
+horse: 96.7%
+person: 94.4%
+person: 93.8%
+../../../data/VOC2007/Images/000706.jpg - Detection took 0.155 seconds.
+aeroplane: 81.4%
+person: 98.2%
+person: 88.6%
+person: 85.3%
+person: 80.4%
+../../../data/VOC2007/Images/000708.jpg - Detection took 0.124 seconds.
+../../../data/VOC2007/Images/000715.jpg - Detection took 0.146 seconds.
+car: 100.0%
+person: 99.4%
+../../../data/VOC2007/Images/000716.jpg - Detection took 0.124 seconds.
+../../../data/VOC2007/Images/000718.jpg - Detection took 0.149 seconds.
+bicycle: 92.9%
+dog: 98.3%
+../../../data/VOC2007/Images/000719.jpg - Detection took 0.160 seconds.
+bus: 93.4%
+person: 99.4%
+person: 93.2%
+person: 87.1%
+person: 85.5%
+pottedplant: 95.8%
+../../../data/VOC2007/Images/000721.jpg - Detection took 0.149 seconds.
+car: 99.6%
+../../../data/VOC2007/Images/000722.jpg - Detection took 0.134 seconds.
+dog: 98.1%
+../../../data/VOC2007/Images/000723.jpg - Detection took 0.149 seconds.
+bus: 98.7%
+person: 99.9%
+person: 99.6%
+person: 91.7%
+person: 88.6%
+../../../data/VOC2007/Images/000724.jpg - Detection took 0.149 seconds.
+car: 99.9%
+../../../data/VOC2007/Images/000725.jpg - Detection took 0.155 seconds.
+cow: 99.9%
+cow: 99.3%
+cow: 98.7%
+cow: 86.8%
+../../../data/VOC2007/Images/000727.jpg - Detection took 0.149 seconds.
+bus: 95.0%
+car: 99.6%
+person: 93.3%
+../../../data/VOC2007/Images/000732.jpg - Detection took 0.161 seconds.
+train: 100.0%
+../../../data/VOC2007/Images/000734.jpg - Detection took 0.159 seconds.
+cow: 82.3%
+person: 99.9%
+../../../data/VOC2007/Images/000735.jpg - Detection took 0.167 seconds.
+boat: 89.1%
+person: 99.4%
+person: 94.6%
+train: 100.0%
+train: 95.8%
+train: 94.8%
+../../../data/VOC2007/Images/000736.jpg - Detection took 0.146 seconds.
+car: 99.5%
+../../../data/VOC2007/Images/000737.jpg - Detection took 0.159 seconds.
+chair: 82.2%
+person: 93.7%
+pottedplant: 88.4%
+../../../data/VOC2007/Images/000741.jpg - Detection took 0.136 seconds.
+cat: 99.8%
+../../../data/VOC2007/Images/000743.jpg - Detection took 0.149 seconds.
+train: 99.6%
+../../../data/VOC2007/Images/000744.jpg - Detection took 0.151 seconds.
+bottle: 80.6%
+cat: 81.9%
+diningtable: 98.7%
+person: 97.3%
+person: 96.0%
+person: 89.7%
+person: 87.5%
+person: 84.5%
+../../../data/VOC2007/Images/000745.jpg - Detection took 0.156 seconds.
+diningtable: 99.9%
+diningtable: 80.8%
+pottedplant: 81.9%
+../../../data/VOC2007/Images/000747.jpg - Detection took 0.150 seconds.
+car: 99.9%
+../../../data/VOC2007/Images/000749.jpg - Detection took 0.148 seconds.
+chair: 86.3%
+diningtable: 93.6%
+../../../data/VOC2007/Images/000751.jpg - Detection took 0.160 seconds.
+dog: 93.6%
+person: 90.6%
+../../../data/VOC2007/Images/000757.jpg - Detection took 0.159 seconds.
+bottle: 93.6%
+car: 99.6%
+../../../data/VOC2007/Images/000758.jpg - Detection took 0.138 seconds.
+person: 95.1%
+tvmonitor: 99.9%
+tvmonitor: 95.9%
+../../../data/VOC2007/Images/000759.jpg - Detection took 0.133 seconds.
+dog: 99.9%
+../../../data/VOC2007/Images/000762.jpg - Detection took 0.149 seconds.
+bottle: 97.8%
+diningtable: 94.0%
+person: 99.3%
+person: 94.7%
+person: 93.8%
+person: 89.1%
+../../../data/VOC2007/Images/000765.jpg - Detection took 0.135 seconds.
+person: 99.0%
+../../../data/VOC2007/Images/000766.jpg - Detection took 0.146 seconds.
+person: 90.3%
+../../../data/VOC2007/Images/000769.jpg - Detection took 0.135 seconds.
+person: 98.6%
+../../../data/VOC2007/Images/000773.jpg - Detection took 0.133 seconds.
+bird: 95.9%
+../../../data/VOC2007/Images/000775.jpg - Detection took 0.133 seconds.
+motorbike: 100.0%
+../../../data/VOC2007/Images/000778.jpg - Detection took 0.148 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/000779.jpg - Detection took 0.149 seconds.
+sheep: 100.0%
+../../../data/VOC2007/Images/000781.jpg - Detection took 0.128 seconds.
+person: 99.3%
+../../../data/VOC2007/Images/000783.jpg - Detection took 0.134 seconds.
+horse: 99.3%
+person: 97.9%
+../../../data/VOC2007/Images/000784.jpg - Detection took 0.148 seconds.
+person: 98.7%
+person: 94.3%
+person: 86.2%
+../../../data/VOC2007/Images/000785.jpg - Detection took 0.134 seconds.
+cat: 99.4%
+../../../data/VOC2007/Images/000788.jpg - Detection took 0.134 seconds.
+car: 97.3%
+../../../data/VOC2007/Images/000789.jpg - Detection took 0.150 seconds.
+sheep: 97.0%
+sheep: 95.9%
+sheep: 92.4%
+sheep: 89.4%
+../../../data/VOC2007/Images/000790.jpg - Detection took 0.159 seconds.
+tvmonitor: 87.0%
+../../../data/VOC2007/Images/000792.jpg - Detection took 0.148 seconds.
+boat: 92.3%
+boat: 90.2%
+../../../data/VOC2007/Images/000795.jpg - Detection took 0.161 seconds.
+../../../data/VOC2007/Images/000798.jpg - Detection took 0.143 seconds.
+person: 96.4%
+../../../data/VOC2007/Images/000801.jpg - Detection took 0.158 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/000803.jpg - Detection took 0.147 seconds.
+cat: 99.2%
+../../../data/VOC2007/Images/000807.jpg - Detection took 0.162 seconds.
+person: 97.3%
+../../../data/VOC2007/Images/000809.jpg - Detection took 0.147 seconds.
+car: 99.8%
+car: 92.4%
+car: 84.8%
+car: 84.7%
+../../../data/VOC2007/Images/000811.jpg - Detection took 0.149 seconds.
+boat: 99.9%
+../../../data/VOC2007/Images/000813.jpg - Detection took 0.140 seconds.
+tvmonitor: 99.7%
+../../../data/VOC2007/Images/000817.jpg - Detection took 0.162 seconds.
+aeroplane: 98.2%
+../../../data/VOC2007/Images/000819.jpg - Detection took 0.147 seconds.
+bicycle: 99.9%
+person: 99.6%
+../../../data/VOC2007/Images/000821.jpg - Detection took 0.159 seconds.
+bird: 96.3%
+../../../data/VOC2007/Images/000824.jpg - Detection took 0.152 seconds.
+person: 82.4%
+train: 99.8%
+../../../data/VOC2007/Images/000825.jpg - Detection took 0.148 seconds.
+bicycle: 100.0%
+../../../data/VOC2007/Images/000833.jpg - Detection took 0.147 seconds.
+bus: 84.7%
+tvmonitor: 81.7%
+../../../data/VOC2007/Images/000835.jpg - Detection took 0.160 seconds.
+train: 99.5%
+../../../data/VOC2007/Images/000836.jpg - Detection took 0.162 seconds.
+horse: 99.0%
+person: 99.5%
+../../../data/VOC2007/Images/000837.jpg - Detection took 0.159 seconds.
+boat: 97.9%
+../../../data/VOC2007/Images/000838.jpg - Detection took 0.125 seconds.
+bird: 99.0%
+../../../data/VOC2007/Images/000839.jpg - Detection took 0.150 seconds.
+person: 98.5%
+person: 95.1%
+person: 91.4%
+person: 86.9%
+../../../data/VOC2007/Images/000840.jpg - Detection took 0.149 seconds.
+pottedplant: 95.3%
+../../../data/VOC2007/Images/000841.jpg - Detection took 0.137 seconds.
+sofa: 100.0%
+../../../data/VOC2007/Images/000844.jpg - Detection took 0.144 seconds.
+car: 99.9%
+../../../data/VOC2007/Images/000846.jpg - Detection took 0.140 seconds.
+../../../data/VOC2007/Images/000852.jpg - Detection took 0.126 seconds.
+aeroplane: 99.3%
+bird: 81.9%
+../../../data/VOC2007/Images/000853.jpg - Detection took 0.147 seconds.
+cat: 85.4%
+dog: 99.4%
+../../../data/VOC2007/Images/000856.jpg - Detection took 0.141 seconds.
+person: 97.7%
+tvmonitor: 97.3%
+../../../data/VOC2007/Images/000858.jpg - Detection took 0.161 seconds.
+bus: 98.2%
+car: 85.2%
+person: 99.5%
+person: 97.0%
+person: 94.8%
+person: 84.8%
+../../../data/VOC2007/Images/000861.jpg - Detection took 0.134 seconds.
+person: 98.8%
+../../../data/VOC2007/Images/000864.jpg - Detection took 0.164 seconds.
+bus: 99.3%
+../../../data/VOC2007/Images/000866.jpg - Detection took 0.152 seconds.
+horse: 99.8%
+person: 96.2%
+../../../data/VOC2007/Images/000869.jpg - Detection took 0.164 seconds.
+cow: 82.3%
+person: 94.7%
+../../../data/VOC2007/Images/000870.jpg - Detection took 0.155 seconds.
+bottle: 95.5%
+person: 97.6%
+person: 92.4%
+../../../data/VOC2007/Images/000873.jpg - Detection took 0.152 seconds.
+bicycle: 81.8%
+../../../data/VOC2007/Images/000875.jpg - Detection took 0.150 seconds.
+sheep: 88.3%
+../../../data/VOC2007/Images/000877.jpg - Detection took 0.139 seconds.
+dog: 89.2%
+../../../data/VOC2007/Images/000881.jpg - Detection took 0.162 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/000883.jpg - Detection took 0.164 seconds.
+car: 98.0%
+person: 92.0%
+../../../data/VOC2007/Images/000884.jpg - Detection took 0.147 seconds.
+bird: 85.5%
+../../../data/VOC2007/Images/000886.jpg - Detection took 0.158 seconds.
+person: 99.7%
+person: 91.8%
+sofa: 85.7%
+../../../data/VOC2007/Images/000890.jpg - Detection took 0.165 seconds.
+pottedplant: 91.2%
+pottedplant: 84.9%
+../../../data/VOC2007/Images/000891.jpg - Detection took 0.150 seconds.
+person: 96.8%
+../../../data/VOC2007/Images/000893.jpg - Detection took 0.165 seconds.
+../../../data/VOC2007/Images/000894.jpg - Detection took 0.148 seconds.
+../../../data/VOC2007/Images/000897.jpg - Detection took 0.147 seconds.
+dog: 99.0%
+dog: 95.6%
+../../../data/VOC2007/Images/000901.jpg - Detection took 0.133 seconds.
+person: 94.2%
+../../../data/VOC2007/Images/000905.jpg - Detection took 0.136 seconds.
+../../../data/VOC2007/Images/000907.jpg - Detection took 0.147 seconds.
+person: 92.2%
+person: 83.9%
+person: 83.2%
+../../../data/VOC2007/Images/000909.jpg - Detection took 0.148 seconds.
+person: 99.2%
+../../../data/VOC2007/Images/000910.jpg - Detection took 0.128 seconds.
+person: 99.4%
+person: 98.1%
+../../../data/VOC2007/Images/000913.jpg - Detection took 0.135 seconds.
+dog: 81.3%
+person: 99.8%
+person: 91.7%
+../../../data/VOC2007/Images/000914.jpg - Detection took 0.151 seconds.
+boat: 97.9%
+../../../data/VOC2007/Images/000916.jpg - Detection took 0.149 seconds.
+bus: 99.9%
+person: 96.1%
+person: 94.3%
+person: 93.1%
+../../../data/VOC2007/Images/000922.jpg - Detection took 0.151 seconds.
+person: 99.6%
+train: 99.8%
+../../../data/VOC2007/Images/000924.jpg - Detection took 0.148 seconds.
+bus: 98.8%
+bus: 98.8%
+car: 81.3%
+person: 81.9%
+../../../data/VOC2007/Images/000925.jpg - Detection took 0.154 seconds.
+sheep: 99.0%
+sheep: 97.4%
+../../../data/VOC2007/Images/000927.jpg - Detection took 0.143 seconds.
+person: 99.6%
+person: 86.3%
+../../../data/VOC2007/Images/000928.jpg - Detection took 0.136 seconds.
+person: 99.5%
+../../../data/VOC2007/Images/000930.jpg - Detection took 0.148 seconds.
+bicycle: 99.8%
+person: 99.9%
+../../../data/VOC2007/Images/000932.jpg - Detection took 0.146 seconds.
+car: 99.8%
+person: 96.8%
+../../../data/VOC2007/Images/000933.jpg - Detection took 0.137 seconds.
+pottedplant: 92.2%
+../../../data/VOC2007/Images/000938.jpg - Detection took 0.149 seconds.
+chair: 93.3%
+person: 83.5%
+pottedplant: 92.4%
+../../../data/VOC2007/Images/000939.jpg - Detection took 0.136 seconds.
+person: 99.3%
+../../../data/VOC2007/Images/000940.jpg - Detection took 0.151 seconds.
+chair: 87.9%
+chair: 80.5%
+person: 99.5%
+person: 97.2%
+../../../data/VOC2007/Images/000941.jpg - Detection took 0.127 seconds.
+sofa: 98.5%
+../../../data/VOC2007/Images/000942.jpg - Detection took 0.162 seconds.
+person: 95.5%
+train: 99.9%
+../../../data/VOC2007/Images/000944.jpg - Detection took 0.151 seconds.
+person: 98.4%
+../../../data/VOC2007/Images/000945.jpg - Detection took 0.149 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/000952.jpg - Detection took 0.148 seconds.
+person: 99.4%
+person: 99.1%
+../../../data/VOC2007/Images/000953.jpg - Detection took 0.147 seconds.
+chair: 99.9%
+pottedplant: 99.0%
+pottedplant: 96.3%
+tvmonitor: 84.3%
+../../../data/VOC2007/Images/000955.jpg - Detection took 0.149 seconds.
+person: 99.3%
+../../../data/VOC2007/Images/000956.jpg - Detection took 0.135 seconds.
+person: 98.0%
+../../../data/VOC2007/Images/000957.jpg - Detection took 0.141 seconds.
+../../../data/VOC2007/Images/000959.jpg - Detection took 0.162 seconds.
+person: 99.1%
+person: 97.1%
+person: 93.2%
+../../../data/VOC2007/Images/000960.jpg - Detection took 0.139 seconds.
+bird: 98.7%
+../../../data/VOC2007/Images/000961.jpg - Detection took 0.150 seconds.
+car: 99.1%
+tvmonitor: 99.9%
+../../../data/VOC2007/Images/000963.jpg - Detection took 0.134 seconds.
+dog: 97.5%
+../../../data/VOC2007/Images/000968.jpg - Detection took 0.159 seconds.
+aeroplane: 100.0%
+person: 93.1%
+../../../data/VOC2007/Images/000969.jpg - Detection took 0.124 seconds.
+person: 99.7%
+../../../data/VOC2007/Images/000970.jpg - Detection took 0.147 seconds.
+train: 99.2%
+train: 93.9%
+../../../data/VOC2007/Images/000974.jpg - Detection took 0.162 seconds.
+person: 82.0%
+sofa: 89.1%
+tvmonitor: 99.7%
+../../../data/VOC2007/Images/000975.jpg - Detection took 0.130 seconds.
+dog: 99.9%
+../../../data/VOC2007/Images/000976.jpg - Detection took 0.138 seconds.
+../../../data/VOC2007/Images/000978.jpg - Detection took 0.149 seconds.
+person: 99.3%
+person: 98.7%
+../../../data/VOC2007/Images/000979.jpg - Detection took 0.148 seconds.
+person: 98.2%
+person: 97.9%
+../../../data/VOC2007/Images/000981.jpg - Detection took 0.147 seconds.
+chair: 86.9%
+person: 99.8%
+../../../data/VOC2007/Images/000983.jpg - Detection took 0.135 seconds.
+pottedplant: 92.5%
+../../../data/VOC2007/Images/000984.jpg - Detection took 0.162 seconds.
+bus: 95.5%
+car: 98.7%
+car: 98.6%
+person: 99.5%
+../../../data/VOC2007/Images/000985.jpg - Detection took 0.142 seconds.
+car: 99.5%
+../../../data/VOC2007/Images/000986.jpg - Detection took 0.164 seconds.
+cow: 98.2%
+cow: 96.1%
+cow: 89.2%
+horse: 85.5%
+person: 98.1%
+../../../data/VOC2007/Images/000988.jpg - Detection took 0.126 seconds.
+person: 99.6%
+../../../data/VOC2007/Images/000990.jpg - Detection took 0.149 seconds.
+person: 99.3%
+../../../data/VOC2007/Images/000992.jpg - Detection took 0.149 seconds.
+cow: 82.3%
+sheep: 98.5%
+sheep: 94.6%
+../../../data/VOC2007/Images/000994.jpg - Detection took 0.140 seconds.
+chair: 93.9%
+sofa: 81.2%
+tvmonitor: 99.2%
+../../../data/VOC2007/Images/000995.jpg - Detection took 0.153 seconds.
+boat: 97.0%
+boat: 91.6%
+../../../data/VOC2007/Images/000998.jpg - Detection took 0.141 seconds.
+cat: 98.1%
+../../../data/VOC2007/Images/001000.jpg - Detection took 0.138 seconds.
+cat: 89.2%
+dog: 99.9%
+../../../data/VOC2007/Images/001003.jpg - Detection took 0.150 seconds.
+car: 98.9%
+../../../data/VOC2007/Images/001005.jpg - Detection took 0.143 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/001006.jpg - Detection took 0.152 seconds.
+person: 92.5%
+sheep: 83.9%
+../../../data/VOC2007/Images/001007.jpg - Detection took 0.153 seconds.
+tvmonitor: 98.7%
+../../../data/VOC2007/Images/001013.jpg - Detection took 0.163 seconds.
+horse: 99.6%
+horse: 82.3%
+../../../data/VOC2007/Images/001016.jpg - Detection took 0.158 seconds.
+train: 98.9%
+../../../data/VOC2007/Images/001019.jpg - Detection took 0.137 seconds.
+cat: 99.2%
+dog: 87.2%
+../../../data/VOC2007/Images/001020.jpg - Detection took 0.138 seconds.
+chair: 83.6%
+person: 99.3%
+../../../data/VOC2007/Images/001021.jpg - Detection took 0.138 seconds.
+person: 99.2%
+person: 98.3%
+../../../data/VOC2007/Images/001022.jpg - Detection took 0.154 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/001023.jpg - Detection took 0.141 seconds.
+person: 86.7%
+../../../data/VOC2007/Images/001025.jpg - Detection took 0.136 seconds.
+sofa: 99.6%
+../../../data/VOC2007/Images/001026.jpg - Detection took 0.165 seconds.
+dog: 98.3%
+dog: 89.9%
+person: 98.6%
+person: 93.1%
+../../../data/VOC2007/Images/001029.jpg - Detection took 0.136 seconds.
+tvmonitor: 99.8%
+../../../data/VOC2007/Images/001030.jpg - Detection took 0.166 seconds.
+person: 85.7%
+train: 99.2%
+../../../data/VOC2007/Images/001031.jpg - Detection took 0.156 seconds.
+motorbike: 95.4%
+person: 95.9%
+../../../data/VOC2007/Images/001032.jpg - Detection took 0.135 seconds.
+dog: 82.2%
+../../../data/VOC2007/Images/001033.jpg - Detection took 0.152 seconds.
+person: 96.5%
+../../../data/VOC2007/Images/001034.jpg - Detection took 0.152 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/001035.jpg - Detection took 0.153 seconds.
+person: 98.6%
+person: 98.6%
+person: 86.7%
+../../../data/VOC2007/Images/001037.jpg - Detection took 0.158 seconds.
+dog: 98.6%
+dog: 95.8%
+dog: 93.0%
+person: 85.2%
+../../../data/VOC2007/Images/001038.jpg - Detection took 0.128 seconds.
+person: 99.2%
+../../../data/VOC2007/Images/001039.jpg - Detection took 0.155 seconds.
+chair: 99.6%
+tvmonitor: 96.3%
+tvmonitor: 94.6%
+tvmonitor: 87.2%
+tvmonitor: 86.3%
+../../../data/VOC2007/Images/001040.jpg - Detection took 0.149 seconds.
+person: 99.9%
+person: 98.4%
+person: 95.4%
+person: 95.1%
+../../../data/VOC2007/Images/001044.jpg - Detection took 0.132 seconds.
+../../../data/VOC2007/Images/001046.jpg - Detection took 0.164 seconds.
+aeroplane: 99.8%
+../../../data/VOC2007/Images/001047.jpg - Detection took 0.150 seconds.
+bottle: 97.3%
+person: 99.7%
+person: 98.9%
+person: 91.8%
+../../../data/VOC2007/Images/001048.jpg - Detection took 0.136 seconds.
+cat: 81.8%
+../../../data/VOC2007/Images/001049.jpg - Detection took 0.143 seconds.
+boat: 91.7%
+../../../data/VOC2007/Images/001051.jpg - Detection took 0.136 seconds.
+bird: 97.3%
+../../../data/VOC2007/Images/001054.jpg - Detection took 0.151 seconds.
+dog: 99.5%
+../../../data/VOC2007/Images/001055.jpg - Detection took 0.161 seconds.
+person: 92.7%
+../../../data/VOC2007/Images/001058.jpg - Detection took 0.137 seconds.
+car: 99.9%
+../../../data/VOC2007/Images/001059.jpg - Detection took 0.135 seconds.
+../../../data/VOC2007/Images/001063.jpg - Detection took 0.147 seconds.
+person: 97.6%
+../../../data/VOC2007/Images/001065.jpg - Detection took 0.137 seconds.
+person: 99.7%
+person: 94.3%
+../../../data/VOC2007/Images/001067.jpg - Detection took 0.149 seconds.
+person: 98.1%
+person: 97.1%
+person: 82.5%
+../../../data/VOC2007/Images/001070.jpg - Detection took 0.140 seconds.
+pottedplant: 96.7%
+pottedplant: 96.4%
+pottedplant: 93.8%
+pottedplant: 90.6%
+pottedplant: 87.5%
+pottedplant: 84.4%
+pottedplant: 84.0%
+pottedplant: 82.2%
+pottedplant: 82.2%
+../../../data/VOC2007/Images/001075.jpg - Detection took 0.148 seconds.
+person: 90.0%
+../../../data/VOC2007/Images/001076.jpg - Detection took 0.147 seconds.
+person: 92.0%
+sofa: 81.5%
+../../../data/VOC2007/Images/001080.jpg - Detection took 0.150 seconds.
+aeroplane: 94.6%
+../../../data/VOC2007/Images/001081.jpg - Detection took 0.149 seconds.
+chair: 96.4%
+chair: 81.6%
+tvmonitor: 86.9%
+../../../data/VOC2007/Images/001085.jpg - Detection took 0.151 seconds.
+car: 99.9%
+person: 98.8%
+person: 97.7%
+person: 96.6%
+person: 94.6%
+person: 93.0%
+person: 92.0%
+person: 81.4%
+../../../data/VOC2007/Images/001086.jpg - Detection took 0.139 seconds.
+bottle: 99.5%
+person: 99.7%
+person: 98.5%
+../../../data/VOC2007/Images/001087.jpg - Detection took 0.133 seconds.
+../../../data/VOC2007/Images/001088.jpg - Detection took 0.134 seconds.
+cat: 89.8%
+../../../data/VOC2007/Images/001089.jpg - Detection took 0.134 seconds.
+bicycle: 99.3%
+../../../data/VOC2007/Images/001090.jpg - Detection took 0.155 seconds.
+car: 99.9%
+../../../data/VOC2007/Images/001094.jpg - Detection took 0.162 seconds.
+train: 98.0%
+train: 96.9%
+../../../data/VOC2007/Images/001095.jpg - Detection took 0.155 seconds.
+person: 99.7%
+person: 90.4%
+../../../data/VOC2007/Images/001096.jpg - Detection took 0.562 seconds.
+person: 99.7%
+../../../data/VOC2007/Images/001098.jpg - Detection took 0.309 seconds.
+cat: 99.7%
+../../../data/VOC2007/Images/001099.jpg - Detection took 0.145 seconds.
+aeroplane: 81.4%
+person: 96.6%
+person: 91.5%
+tvmonitor: 82.0%
+../../../data/VOC2007/Images/001100.jpg - Detection took 0.147 seconds.
+../../../data/VOC2007/Images/001103.jpg - Detection took 0.130 seconds.
+bottle: 84.6%
+../../../data/VOC2007/Images/001105.jpg - Detection took 0.150 seconds.
+person: 97.1%
+person: 88.0%
+person: 83.6%
+pottedplant: 80.9%
+../../../data/VOC2007/Images/001108.jpg - Detection took 0.137 seconds.
+person: 88.6%
+person: 81.6%
+../../../data/VOC2007/Images/001111.jpg - Detection took 0.159 seconds.
+car: 99.7%
+car: 96.8%
+../../../data/VOC2007/Images/001114.jpg - Detection took 0.174 seconds.
+horse: 96.5%
+../../../data/VOC2007/Images/001115.jpg - Detection took 0.632 seconds.
+train: 99.4%
+train: 98.4%
+../../../data/VOC2007/Images/001116.jpg - Detection took 0.139 seconds.
+person: 99.4%
+../../../data/VOC2007/Images/001117.jpg - Detection took 0.144 seconds.
+sofa: 96.3%
+tvmonitor: 97.4%
+../../../data/VOC2007/Images/001118.jpg - Detection took 0.144 seconds.
+person: 98.0%
+person: 97.0%
+person: 96.5%
+../../../data/VOC2007/Images/001120.jpg - Detection took 0.166 seconds.
+cow: 99.9%
+cow: 98.8%
+cow: 91.8%
+cow: 91.1%
+cow: 90.4%
+../../../data/VOC2007/Images/001122.jpg - Detection took 0.124 seconds.
+../../../data/VOC2007/Images/001123.jpg - Detection took 0.365 seconds.
+dog: 90.5%
+../../../data/VOC2007/Images/001126.jpg - Detection took 0.157 seconds.
+aeroplane: 100.0%
+aeroplane: 89.8%
+../../../data/VOC2007/Images/001128.jpg - Detection took 0.132 seconds.
+cat: 88.0%
+../../../data/VOC2007/Images/001131.jpg - Detection took 0.888 seconds.
+dog: 99.5%
+../../../data/VOC2007/Images/001132.jpg - Detection took 0.151 seconds.
+cat: 90.2%
+dog: 81.0%
+../../../data/VOC2007/Images/001133.jpg - Detection took 0.145 seconds.
+person: 97.8%
+person: 97.5%
+person: 95.5%
+../../../data/VOC2007/Images/001134.jpg - Detection took 0.383 seconds.
+motorbike: 99.7%
+motorbike: 93.3%
+../../../data/VOC2007/Images/001135.jpg - Detection took 0.526 seconds.
+car: 99.1%
+../../../data/VOC2007/Images/001138.jpg - Detection took 0.164 seconds.
+chair: 93.3%
+tvmonitor: 96.5%
+tvmonitor: 96.1%
+tvmonitor: 80.2%
+../../../data/VOC2007/Images/001139.jpg - Detection took 0.146 seconds.
+car: 86.2%
+chair: 94.3%
+pottedplant: 91.1%
+../../../data/VOC2007/Images/001141.jpg - Detection took 0.593 seconds.
+person: 99.0%
+person: 95.6%
+person: 94.7%
+pottedplant: 86.9%
+../../../data/VOC2007/Images/001146.jpg - Detection took 0.125 seconds.
+dog: 85.3%
+../../../data/VOC2007/Images/001150.jpg - Detection took 0.779 seconds.
+dog: 99.3%
+person: 97.9%
+../../../data/VOC2007/Images/001153.jpg - Detection took 0.161 seconds.
+aeroplane: 98.4%
+../../../data/VOC2007/Images/001155.jpg - Detection took 0.161 seconds.
+boat: 100.0%
+../../../data/VOC2007/Images/001157.jpg - Detection took 0.163 seconds.
+motorbike: 99.9%
+person: 99.2%
+person: 96.6%
+../../../data/VOC2007/Images/001159.jpg - Detection took 0.135 seconds.
+person: 94.0%
+../../../data/VOC2007/Images/001162.jpg - Detection took 0.148 seconds.
+pottedplant: 96.2%
+pottedplant: 91.8%
+pottedplant: 84.8%
+../../../data/VOC2007/Images/001163.jpg - Detection took 0.149 seconds.
+chair: 87.6%
+chair: 82.6%
+sofa: 99.9%
+tvmonitor: 95.0%
+../../../data/VOC2007/Images/001165.jpg - Detection took 0.195 seconds.
+person: 88.1%
+../../../data/VOC2007/Images/001167.jpg - Detection took 0.138 seconds.
+person: 99.5%
+person: 99.4%
+../../../data/VOC2007/Images/001169.jpg - Detection took 0.157 seconds.
+bottle: 86.6%
+person: 97.7%
+person: 95.7%
+../../../data/VOC2007/Images/001173.jpg - Detection took 0.145 seconds.
+cat: 88.6%
+person: 98.5%
+person: 94.6%
+person: 81.9%
+../../../data/VOC2007/Images/001177.jpg - Detection took 0.152 seconds.
+bottle: 99.9%
+bottle: 96.2%
+diningtable: 80.4%
+person: 93.7%
+person: 91.6%
+person: 84.3%
+../../../data/VOC2007/Images/001178.jpg - Detection took 0.165 seconds.
+train: 96.3%
+../../../data/VOC2007/Images/001179.jpg - Detection took 0.150 seconds.
+bottle: 81.1%
+chair: 89.9%
+../../../data/VOC2007/Images/001180.jpg - Detection took 0.146 seconds.
+person: 97.8%
+person: 83.7%
+../../../data/VOC2007/Images/001181.jpg - Detection took 0.146 seconds.
+bird: 97.1%
+../../../data/VOC2007/Images/001183.jpg - Detection took 0.150 seconds.
+horse: 99.8%
+horse: 98.1%
+person: 98.1%
+../../../data/VOC2007/Images/001188.jpg - Detection took 0.183 seconds.
+boat: 99.1%
+boat: 97.3%
+car: 93.5%
+../../../data/VOC2007/Images/001189.jpg - Detection took 0.146 seconds.
+chair: 99.9%
+chair: 99.4%
+chair: 97.4%
+chair: 86.0%
+diningtable: 97.0%
+../../../data/VOC2007/Images/001190.jpg - Detection took 0.132 seconds.
+../../../data/VOC2007/Images/001193.jpg - Detection took 0.133 seconds.
+bicycle: 99.4%
+../../../data/VOC2007/Images/001195.jpg - Detection took 0.149 seconds.
+dog: 99.5%
+../../../data/VOC2007/Images/001196.jpg - Detection took 0.155 seconds.
+bird: 99.9%
+../../../data/VOC2007/Images/001197.jpg - Detection took 0.141 seconds.
+sofa: 100.0%
+../../../data/VOC2007/Images/001198.jpg - Detection took 0.150 seconds.
+car: 99.9%
+car: 82.3%
+../../../data/VOC2007/Images/001202.jpg - Detection took 0.138 seconds.
+bicycle: 87.6%
+dog: 98.7%
+dog: 92.2%
+../../../data/VOC2007/Images/001208.jpg - Detection took 0.136 seconds.
+dog: 83.6%
+../../../data/VOC2007/Images/001210.jpg - Detection took 0.151 seconds.
+person: 99.5%
+person: 98.7%
+person: 97.0%
+person: 94.5%
+person: 93.3%
+pottedplant: 80.4%
+../../../data/VOC2007/Images/001213.jpg - Detection took 0.277 seconds.
+../../../data/VOC2007/Images/001216.jpg - Detection took 0.136 seconds.
+cat: 98.1%
+cat: 84.5%
+../../../data/VOC2007/Images/001217.jpg - Detection took 0.132 seconds.
+dog: 99.7%
+dog: 91.7%
+../../../data/VOC2007/Images/001218.jpg - Detection took 0.150 seconds.
+bus: 100.0%
+../../../data/VOC2007/Images/001219.jpg - Detection took 0.157 seconds.
+../../../data/VOC2007/Images/001220.jpg - Detection took 0.134 seconds.
+dog: 83.3%
+person: 91.5%
+../../../data/VOC2007/Images/001222.jpg - Detection took 0.148 seconds.
+car: 95.1%
+person: 95.8%
+person: 85.9%
+../../../data/VOC2007/Images/001223.jpg - Detection took 0.609 seconds.
+aeroplane: 100.0%
+../../../data/VOC2007/Images/001227.jpg - Detection took 0.147 seconds.
+car: 96.6%
+person: 94.1%
+person: 89.9%
+person: 87.5%
+person: 82.2%
+../../../data/VOC2007/Images/001228.jpg - Detection took 0.152 seconds.
+person: 96.6%
+person: 94.2%
+person: 92.3%
+person: 86.4%
+../../../data/VOC2007/Images/001232.jpg - Detection took 0.467 seconds.
+dog: 95.7%
+../../../data/VOC2007/Images/001235.jpg - Detection took 0.510 seconds.
+bird: 95.7%
+../../../data/VOC2007/Images/001238.jpg - Detection took 0.352 seconds.
+bicycle: 97.4%
+person: 99.0%
+../../../data/VOC2007/Images/001242.jpg - Detection took 0.132 seconds.
+person: 99.7%
+../../../data/VOC2007/Images/001243.jpg - Detection took 0.159 seconds.
+chair: 98.3%
+person: 99.8%
+person: 81.1%
+../../../data/VOC2007/Images/001244.jpg - Detection took 0.707 seconds.
+bottle: 82.9%
+bottle: 80.5%
+bottle: 80.4%
+person: 96.5%
+person: 96.3%
+person: 86.3%
+person: 82.4%
+../../../data/VOC2007/Images/001245.jpg - Detection took 0.347 seconds.
+horse: 87.4%
+person: 91.8%
+../../../data/VOC2007/Images/001246.jpg - Detection took 0.147 seconds.
+../../../data/VOC2007/Images/001249.jpg - Detection took 0.133 seconds.
+../../../data/VOC2007/Images/001251.jpg - Detection took 0.488 seconds.
+person: 99.6%
+person: 97.6%
+person: 90.4%
+person: 90.0%
+../../../data/VOC2007/Images/001252.jpg - Detection took 0.135 seconds.
+car: 99.8%
+pottedplant: 83.1%
+../../../data/VOC2007/Images/001253.jpg - Detection took 0.439 seconds.
+person: 98.7%
+tvmonitor: 89.8%
+../../../data/VOC2007/Images/001255.jpg - Detection took 0.388 seconds.
+pottedplant: 92.3%
+../../../data/VOC2007/Images/001256.jpg - Detection took 0.186 seconds.
+person: 89.0%
+../../../data/VOC2007/Images/001257.jpg - Detection took 0.137 seconds.
+dog: 96.8%
+../../../data/VOC2007/Images/001261.jpg - Detection took 0.136 seconds.
+person: 99.3%
+person: 93.9%
+../../../data/VOC2007/Images/001262.jpg - Detection took 0.344 seconds.
+bird: 99.9%
+../../../data/VOC2007/Images/001264.jpg - Detection took 0.147 seconds.
+motorbike: 98.5%
+person: 83.1%
+../../../data/VOC2007/Images/001267.jpg - Detection took 0.150 seconds.
+car: 99.6%
+car: 90.7%
+person: 93.3%
+person: 84.4%
+pottedplant: 80.6%
+../../../data/VOC2007/Images/001271.jpg - Detection took 0.352 seconds.
+person: 98.8%
+person: 94.3%
+person: 87.2%
+person: 83.7%
+sheep: 97.1%
+../../../data/VOC2007/Images/001275.jpg - Detection took 0.147 seconds.
+bird: 99.8%
+bird: 99.0%
+bird: 82.1%
+bird: 82.0%
+bird: 81.1%
+../../../data/VOC2007/Images/001276.jpg - Detection took 0.145 seconds.
+chair: 98.2%
+chair: 85.5%
+pottedplant: 96.2%
+../../../data/VOC2007/Images/001278.jpg - Detection took 0.135 seconds.
+person: 98.4%
+train: 91.9%
+../../../data/VOC2007/Images/001280.jpg - Detection took 0.261 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/001282.jpg - Detection took 0.150 seconds.
+person: 93.2%
+person: 90.8%
+../../../data/VOC2007/Images/001283.jpg - Detection took 0.146 seconds.
+car: 99.2%
+../../../data/VOC2007/Images/001285.jpg - Detection took 0.159 seconds.
+motorbike: 100.0%
+motorbike: 99.3%
+../../../data/VOC2007/Images/001291.jpg - Detection took 0.132 seconds.
+car: 99.7%
+../../../data/VOC2007/Images/001295.jpg - Detection took 0.132 seconds.
+bottle: 99.9%
+../../../data/VOC2007/Images/001296.jpg - Detection took 0.150 seconds.
+motorbike: 99.9%
+person: 99.2%
+../../../data/VOC2007/Images/001297.jpg - Detection took 0.444 seconds.
+person: 98.1%
+person: 95.2%
+sofa: 81.0%
+../../../data/VOC2007/Images/001300.jpg - Detection took 0.146 seconds.
+horse: 99.2%
+../../../data/VOC2007/Images/001301.jpg - Detection took 0.135 seconds.
+motorbike: 99.8%
+person: 84.4%
+../../../data/VOC2007/Images/001302.jpg - Detection took 0.144 seconds.
+diningtable: 92.4%
+tvmonitor: 96.7%
+../../../data/VOC2007/Images/001303.jpg - Detection took 0.139 seconds.
+person: 95.6%
+person: 90.2%
+../../../data/VOC2007/Images/001305.jpg - Detection took 0.165 seconds.
+aeroplane: 99.6%
+../../../data/VOC2007/Images/001306.jpg - Detection took 0.156 seconds.
+dog: 94.4%
+../../../data/VOC2007/Images/001307.jpg - Detection took 0.161 seconds.
+person: 99.2%
+person: 95.6%
+person: 85.6%
+person: 85.3%
+person: 84.9%
+../../../data/VOC2007/Images/001308.jpg - Detection took 0.152 seconds.
+car: 99.9%
+car: 98.9%
+person: 92.3%
+person: 91.3%
+person: 85.7%
+../../../data/VOC2007/Images/001313.jpg - Detection took 0.125 seconds.
+../../../data/VOC2007/Images/001317.jpg - Detection took 0.457 seconds.
+horse: 99.2%
+../../../data/VOC2007/Images/001318.jpg - Detection took 0.149 seconds.
+bus: 97.2%
+car: 80.2%
+../../../data/VOC2007/Images/001319.jpg - Detection took 0.144 seconds.
+chair: 96.6%
+chair: 91.8%
+person: 98.8%
+../../../data/VOC2007/Images/001320.jpg - Detection took 0.156 seconds.
+horse: 99.4%
+person: 99.6%
+../../../data/VOC2007/Images/001321.jpg - Detection took 0.144 seconds.
+car: 99.4%
+person: 92.1%
+person: 88.8%
+../../../data/VOC2007/Images/001322.jpg - Detection took 0.133 seconds.
+dog: 100.0%
+../../../data/VOC2007/Images/001328.jpg - Detection took 0.133 seconds.
+dog: 81.7%
+person: 83.4%
+../../../data/VOC2007/Images/001329.jpg - Detection took 0.144 seconds.
+../../../data/VOC2007/Images/001331.jpg - Detection took 0.145 seconds.
+car: 99.9%
+car: 89.4%
+tvmonitor: 93.6%
+../../../data/VOC2007/Images/001335.jpg - Detection took 0.160 seconds.
+bus: 87.0%
+car: 99.5%
+train: 84.9%
+../../../data/VOC2007/Images/001336.jpg - Detection took 0.140 seconds.
+bicycle: 96.8%
+person: 98.5%
+../../../data/VOC2007/Images/001338.jpg - Detection took 0.137 seconds.
+bottle: 82.8%
+tvmonitor: 99.7%
+../../../data/VOC2007/Images/001339.jpg - Detection took 0.140 seconds.
+dog: 96.9%
+../../../data/VOC2007/Images/001340.jpg - Detection took 0.136 seconds.
+person: 96.4%
+person: 92.3%
+person: 89.1%
+../../../data/VOC2007/Images/001342.jpg - Detection took 0.155 seconds.
+person: 98.1%
+../../../data/VOC2007/Images/001344.jpg - Detection took 0.144 seconds.
+sheep: 99.5%
+../../../data/VOC2007/Images/001347.jpg - Detection took 1.571 seconds.
+bottle: 99.5%
+person: 99.3%
+person: 88.2%
+../../../data/VOC2007/Images/001349.jpg - Detection took 0.130 seconds.
+../../../data/VOC2007/Images/001351.jpg - Detection took 0.147 seconds.
+bottle: 87.0%
+person: 97.8%
+person: 97.1%
+person: 95.9%
+../../../data/VOC2007/Images/001353.jpg - Detection took 0.624 seconds.
+dog: 99.7%
+person: 96.9%
+../../../data/VOC2007/Images/001354.jpg - Detection took 0.593 seconds.
+bottle: 88.5%
+diningtable: 97.0%
+person: 99.3%
+person: 98.0%
+person: 96.7%
+person: 88.3%
+../../../data/VOC2007/Images/001355.jpg - Detection took 0.476 seconds.
+boat: 97.5%
+boat: 92.7%
+../../../data/VOC2007/Images/001356.jpg - Detection took 0.147 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/001357.jpg - Detection took 0.146 seconds.
+motorbike: 99.6%
+person: 98.1%
+pottedplant: 93.1%
+pottedplant: 87.5%
+../../../data/VOC2007/Images/001358.jpg - Detection took 0.156 seconds.
+car: 97.2%
+person: 99.5%
+person: 97.8%
+person: 94.4%
+person: 93.8%
+../../../data/VOC2007/Images/001359.jpg - Detection took 0.160 seconds.
+train: 99.9%
+../../../data/VOC2007/Images/001363.jpg - Detection took 0.151 seconds.
+person: 94.5%
+person: 93.2%
+person: 88.3%
+tvmonitor: 99.0%
+tvmonitor: 97.3%
+../../../data/VOC2007/Images/001366.jpg - Detection took 0.148 seconds.
+dog: 81.5%
+person: 99.2%
+person: 91.1%
+person: 89.1%
+../../../data/VOC2007/Images/001367.jpg - Detection took 0.149 seconds.
+tvmonitor: 99.8%
+tvmonitor: 99.8%
+../../../data/VOC2007/Images/001368.jpg - Detection took 0.150 seconds.
+bottle: 87.3%
+chair: 81.1%
+person: 99.2%
+../../../data/VOC2007/Images/001369.jpg - Detection took 0.455 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/001370.jpg - Detection took 0.162 seconds.
+bicycle: 100.0%
+bicycle: 98.7%
+person: 99.4%
+person: 96.5%
+../../../data/VOC2007/Images/001372.jpg - Detection took 0.257 seconds.
+person: 99.4%
+person: 93.1%
+../../../data/VOC2007/Images/001373.jpg - Detection took 0.159 seconds.
+aeroplane: 99.9%
+../../../data/VOC2007/Images/001374.jpg - Detection took 0.146 seconds.
+chair: 92.4%
+../../../data/VOC2007/Images/001376.jpg - Detection took 0.144 seconds.
+car: 96.0%
+person: 99.6%
+../../../data/VOC2007/Images/001377.jpg - Detection took 0.147 seconds.
+../../../data/VOC2007/Images/001379.jpg - Detection took 0.133 seconds.
+car: 98.8%
+../../../data/VOC2007/Images/001380.jpg - Detection took 0.492 seconds.
+bottle: 80.7%
+pottedplant: 94.5%
+../../../data/VOC2007/Images/001381.jpg - Detection took 0.133 seconds.
+cat: 99.9%
+../../../data/VOC2007/Images/001382.jpg - Detection took 0.466 seconds.
+car: 99.6%
+car: 99.3%
+car: 98.8%
+car: 95.5%
+car: 88.7%
+person: 94.8%
+person: 92.7%
+person: 86.3%
+tvmonitor: 95.9%
+tvmonitor: 95.1%
+../../../data/VOC2007/Images/001389.jpg - Detection took 0.147 seconds.
+cat: 90.1%
+../../../data/VOC2007/Images/001391.jpg - Detection took 0.149 seconds.
+pottedplant: 96.7%
+sofa: 99.9%
+../../../data/VOC2007/Images/001392.jpg - Detection took 0.148 seconds.
+cat: 92.4%
+dog: 86.3%
+tvmonitor: 97.2%
+tvmonitor: 90.6%
+../../../data/VOC2007/Images/001394.jpg - Detection took 0.162 seconds.
+boat: 98.0%
+car: 100.0%
+../../../data/VOC2007/Images/001396.jpg - Detection took 1.697 seconds.
+person: 96.4%
+../../../data/VOC2007/Images/001398.jpg - Detection took 0.153 seconds.
+horse: 99.9%
+../../../data/VOC2007/Images/001399.jpg - Detection took 0.157 seconds.
+bird: 96.1%
+bird: 80.4%
+../../../data/VOC2007/Images/001401.jpg - Detection took 0.132 seconds.
+cat: 90.7%
+../../../data/VOC2007/Images/001403.jpg - Detection took 0.168 seconds.
+bicycle: 91.4%
+bicycle: 90.7%
+person: 99.8%
+person: 98.7%
+person: 98.5%
+person: 97.5%
+person: 96.7%
+person: 83.3%
+../../../data/VOC2007/Images/001407.jpg - Detection took 0.150 seconds.
+chair: 88.3%
+../../../data/VOC2007/Images/001410.jpg - Detection took 0.251 seconds.
+boat: 96.7%
+boat: 93.1%
+boat: 91.8%
+boat: 90.6%
+car: 92.0%
+../../../data/VOC2007/Images/001411.jpg - Detection took 0.144 seconds.
+bottle: 86.0%
+person: 99.3%
+person: 96.1%
+../../../data/VOC2007/Images/001412.jpg - Detection took 0.156 seconds.
+horse: 98.9%
+person: 98.7%
+../../../data/VOC2007/Images/001415.jpg - Detection took 0.134 seconds.
+../../../data/VOC2007/Images/001416.jpg - Detection took 0.132 seconds.
+dog: 96.5%
+dog: 85.6%
+../../../data/VOC2007/Images/001417.jpg - Detection took 0.154 seconds.
+horse: 96.7%
+person: 99.5%
+../../../data/VOC2007/Images/001419.jpg - Detection took 0.147 seconds.
+person: 98.6%
+person: 89.9%
+person: 83.5%
+../../../data/VOC2007/Images/001422.jpg - Detection took 0.144 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/001423.jpg - Detection took 0.539 seconds.
+person: 97.9%
+person: 96.2%
+person: 87.8%
+../../../data/VOC2007/Images/001424.jpg - Detection took 0.145 seconds.
+bus: 92.3%
+person: 87.1%
+person: 84.5%
+../../../data/VOC2007/Images/001425.jpg - Detection took 0.138 seconds.
+aeroplane: 84.7%
+bird: 99.1%
+../../../data/VOC2007/Images/001428.jpg - Detection took 0.892 seconds.
+car: 91.6%
+cat: 86.7%
+../../../data/VOC2007/Images/001429.jpg - Detection took 0.135 seconds.
+bottle: 99.3%
+bottle: 92.1%
+bottle: 92.0%
+bottle: 91.0%
+person: 99.4%
+../../../data/VOC2007/Images/001431.jpg - Detection took 0.559 seconds.
+bottle: 91.5%
+diningtable: 89.5%
+person: 88.3%
+pottedplant: 96.1%
+../../../data/VOC2007/Images/001433.jpg - Detection took 0.149 seconds.
+aeroplane: 98.6%
+../../../data/VOC2007/Images/001435.jpg - Detection took 0.474 seconds.
+car: 99.8%
+car: 99.4%
+car: 99.1%
+car: 95.2%
+car: 93.7%
+car: 93.6%
+../../../data/VOC2007/Images/001437.jpg - Detection took 0.988 seconds.
+pottedplant: 99.4%
+pottedplant: 89.6%
+../../../data/VOC2007/Images/001438.jpg - Detection took 0.137 seconds.
+person: 95.7%
+../../../data/VOC2007/Images/001440.jpg - Detection took 0.146 seconds.
+bird: 99.2%
+../../../data/VOC2007/Images/001446.jpg - Detection took 0.156 seconds.
+motorbike: 91.6%
+person: 96.2%
+../../../data/VOC2007/Images/001447.jpg - Detection took 0.144 seconds.
+motorbike: 98.8%
+person: 96.0%
+../../../data/VOC2007/Images/001448.jpg - Detection took 0.148 seconds.
+person: 98.4%
+person: 90.6%
+person: 80.0%
+../../../data/VOC2007/Images/001449.jpg - Detection took 0.168 seconds.
+train: 97.5%
+train: 92.7%
+../../../data/VOC2007/Images/001452.jpg - Detection took 0.228 seconds.
+horse: 91.3%
+person: 92.7%
+../../../data/VOC2007/Images/001454.jpg - Detection took 0.155 seconds.
+person: 90.2%
+../../../data/VOC2007/Images/001456.jpg - Detection took 0.150 seconds.
+bottle: 84.9%
+person: 94.6%
+../../../data/VOC2007/Images/001458.jpg - Detection took 0.162 seconds.
+sofa: 89.1%
+../../../data/VOC2007/Images/001459.jpg - Detection took 0.154 seconds.
+bottle: 95.0%
+person: 99.2%
+person: 97.5%
+person: 97.2%
+tvmonitor: 96.3%
+../../../data/VOC2007/Images/001461.jpg - Detection took 0.150 seconds.
+chair: 83.8%
+sofa: 99.5%
+tvmonitor: 98.3%
+../../../data/VOC2007/Images/001462.jpg - Detection took 0.149 seconds.
+cat: 86.9%
+../../../data/VOC2007/Images/001469.jpg - Detection took 0.145 seconds.
+person: 99.9%
+pottedplant: 93.0%
+pottedplant: 90.5%
+pottedplant: 81.2%
+pottedplant: 81.0%
+tvmonitor: 95.6%
+../../../data/VOC2007/Images/001471.jpg - Detection took 0.146 seconds.
+cow: 98.0%
+pottedplant: 85.9%
+../../../data/VOC2007/Images/001473.jpg - Detection took 0.168 seconds.
+person: 99.2%
+../../../data/VOC2007/Images/001474.jpg - Detection took 0.134 seconds.
+person: 98.7%
+../../../data/VOC2007/Images/001476.jpg - Detection took 0.155 seconds.
+car: 98.4%
+car: 80.1%
+motorbike: 98.2%
+person: 96.0%
+../../../data/VOC2007/Images/001477.jpg - Detection took 0.154 seconds.
+sheep: 99.8%
+sheep: 99.3%
+sheep: 80.4%
+../../../data/VOC2007/Images/001478.jpg - Detection took 0.146 seconds.
+pottedplant: 89.5%
+../../../data/VOC2007/Images/001482.jpg - Detection took 0.148 seconds.
+person: 98.4%
+person: 98.2%
+person: 98.1%
+person: 96.1%
+../../../data/VOC2007/Images/001487.jpg - Detection took 0.148 seconds.
+../../../data/VOC2007/Images/001489.jpg - Detection took 0.155 seconds.
+bottle: 97.1%
+diningtable: 99.9%
+pottedplant: 97.6%
+pottedplant: 87.8%
+../../../data/VOC2007/Images/001491.jpg - Detection took 0.155 seconds.
+car: 100.0%
+car: 99.1%
+../../../data/VOC2007/Images/001495.jpg - Detection took 0.131 seconds.
+person: 99.8%
+../../../data/VOC2007/Images/001496.jpg - Detection took 0.156 seconds.
+bicycle: 100.0%
+bicycle: 99.9%
+bicycle: 99.9%
+person: 99.9%
+person: 98.9%
+person: 97.2%
+person: 95.3%
+../../../data/VOC2007/Images/001500.jpg - Detection took 0.159 seconds.
+tvmonitor: 100.0%
+tvmonitor: 84.5%
+../../../data/VOC2007/Images/001502.jpg - Detection took 0.138 seconds.
+motorbike: 96.7%
+person: 85.8%
+../../../data/VOC2007/Images/001503.jpg - Detection took 0.159 seconds.
+person: 89.9%
+../../../data/VOC2007/Images/001505.jpg - Detection took 0.131 seconds.
+../../../data/VOC2007/Images/001506.jpg - Detection took 0.142 seconds.
+person: 99.8%
+person: 99.7%
+person: 97.6%
+../../../data/VOC2007/Images/001507.jpg - Detection took 0.142 seconds.
+../../../data/VOC2007/Images/001508.jpg - Detection took 0.147 seconds.
+../../../data/VOC2007/Images/001511.jpg - Detection took 0.142 seconds.
+car: 100.0%
+person: 88.0%
+person: 80.4%
+../../../data/VOC2007/Images/001513.jpg - Detection took 0.134 seconds.
+sofa: 97.0%
+tvmonitor: 99.0%
+../../../data/VOC2007/Images/001516.jpg - Detection took 0.146 seconds.
+motorbike: 100.0%
+person: 97.0%
+person: 96.2%
+person: 91.2%
+../../../data/VOC2007/Images/001518.jpg - Detection took 0.154 seconds.
+sofa: 97.6%
+tvmonitor: 84.0%
+tvmonitor: 83.0%
+../../../data/VOC2007/Images/001519.jpg - Detection took 0.148 seconds.
+chair: 98.8%
+../../../data/VOC2007/Images/001520.jpg - Detection took 0.131 seconds.
+cat: 99.9%
+../../../data/VOC2007/Images/001525.jpg - Detection took 0.156 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/001527.jpg - Detection took 0.144 seconds.
+boat: 99.6%
+boat: 99.5%
+boat: 97.4%
+../../../data/VOC2007/Images/001530.jpg - Detection took 0.134 seconds.
+../../../data/VOC2007/Images/001533.jpg - Detection took 0.143 seconds.
+person: 98.3%
+person: 97.1%
+person: 83.0%
+../../../data/VOC2007/Images/001534.jpg - Detection took 0.146 seconds.
+chair: 94.4%
+person: 87.4%
+../../../data/VOC2007/Images/001535.jpg - Detection took 0.146 seconds.
+car: 98.6%
+../../../data/VOC2007/Images/001538.jpg - Detection took 0.144 seconds.
+person: 97.7%
+person: 95.4%
+person: 94.6%
+person: 87.6%
+person: 86.5%
+../../../data/VOC2007/Images/001540.jpg - Detection took 0.146 seconds.
+person: 93.3%
+person: 89.7%
+pottedplant: 85.8%
+../../../data/VOC2007/Images/001542.jpg - Detection took 0.141 seconds.
+cat: 99.5%
+../../../data/VOC2007/Images/001546.jpg - Detection took 0.149 seconds.
+car: 88.7%
+sofa: 91.5%
+tvmonitor: 92.2%
+../../../data/VOC2007/Images/001547.jpg - Detection took 0.171 seconds.
+aeroplane: 99.8%
+../../../data/VOC2007/Images/001549.jpg - Detection took 0.145 seconds.
+dog: 93.6%
+person: 81.6%
+tvmonitor: 99.8%
+../../../data/VOC2007/Images/001550.jpg - Detection took 0.137 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/001551.jpg - Detection took 0.145 seconds.
+sofa: 91.9%
+tvmonitor: 100.0%
+../../../data/VOC2007/Images/001552.jpg - Detection took 0.146 seconds.
+car: 99.5%
+car: 99.0%
+../../../data/VOC2007/Images/001558.jpg - Detection took 0.131 seconds.
+person: 99.8%
+person: 92.6%
+../../../data/VOC2007/Images/001560.jpg - Detection took 0.146 seconds.
+car: 100.0%
+car: 87.3%
+../../../data/VOC2007/Images/001562.jpg - Detection took 0.148 seconds.
+dog: 99.9%
+../../../data/VOC2007/Images/001564.jpg - Detection took 0.146 seconds.
+diningtable: 88.2%
+person: 98.2%
+person: 96.5%
+person: 92.7%
+../../../data/VOC2007/Images/001566.jpg - Detection took 0.133 seconds.
+person: 99.7%
+person: 90.1%
+../../../data/VOC2007/Images/001567.jpg - Detection took 0.158 seconds.
+person: 95.2%
+person: 87.3%
+train: 99.2%
+../../../data/VOC2007/Images/001568.jpg - Detection took 0.124 seconds.
+aeroplane: 99.8%
+../../../data/VOC2007/Images/001569.jpg - Detection took 0.146 seconds.
+bottle: 99.1%
+diningtable: 95.1%
+person: 99.5%
+../../../data/VOC2007/Images/001570.jpg - Detection took 0.146 seconds.
+person: 99.4%
+../../../data/VOC2007/Images/001572.jpg - Detection took 0.145 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/001573.jpg - Detection took 0.139 seconds.
+cat: 96.0%
+sheep: 85.0%
+../../../data/VOC2007/Images/001574.jpg - Detection took 0.147 seconds.
+horse: 98.4%
+person: 97.5%
+person: 91.9%
+../../../data/VOC2007/Images/001575.jpg - Detection took 0.146 seconds.
+person: 96.9%
+person: 96.1%
+person: 93.1%
+person: 88.3%
+person: 83.2%
+../../../data/VOC2007/Images/001578.jpg - Detection took 0.157 seconds.
+train: 100.0%
+../../../data/VOC2007/Images/001581.jpg - Detection took 0.156 seconds.
+person: 99.4%
+person: 97.2%
+person: 95.5%
+person: 81.6%
+../../../data/VOC2007/Images/001583.jpg - Detection took 0.146 seconds.
+person: 99.2%
+person: 94.6%
+person: 81.8%
+../../../data/VOC2007/Images/001584.jpg - Detection took 0.131 seconds.
+../../../data/VOC2007/Images/001585.jpg - Detection took 0.132 seconds.
+person: 99.6%
+../../../data/VOC2007/Images/001587.jpg - Detection took 0.136 seconds.
+bicycle: 99.2%
+../../../data/VOC2007/Images/001589.jpg - Detection took 0.170 seconds.
+cow: 87.9%
+horse: 89.0%
+../../../data/VOC2007/Images/001591.jpg - Detection took 0.147 seconds.
+boat: 96.6%
+boat: 81.3%
+../../../data/VOC2007/Images/001592.jpg - Detection took 0.135 seconds.
+cat: 99.4%
+cat: 97.9%
+../../../data/VOC2007/Images/001596.jpg - Detection took 0.121 seconds.
+person: 99.6%
+../../../data/VOC2007/Images/001599.jpg - Detection took 0.146 seconds.
+chair: 95.4%
+person: 94.8%
+../../../data/VOC2007/Images/001600.jpg - Detection took 0.147 seconds.
+chair: 82.6%
+person: 95.6%
+sofa: 99.6%
+../../../data/VOC2007/Images/001601.jpg - Detection took 0.130 seconds.
+dog: 99.3%
+../../../data/VOC2007/Images/001602.jpg - Detection took 0.142 seconds.
+bottle: 92.8%
+../../../data/VOC2007/Images/001605.jpg - Detection took 0.144 seconds.
+car: 98.2%
+../../../data/VOC2007/Images/001606.jpg - Detection took 0.147 seconds.
+bicycle: 97.8%
+bicycle: 82.0%
+bottle: 85.1%
+person: 99.3%
+person: 97.8%
+person: 94.0%
+person: 89.1%
+../../../data/VOC2007/Images/001609.jpg - Detection took 0.562 seconds.
+diningtable: 99.8%
+pottedplant: 81.9%
+../../../data/VOC2007/Images/001613.jpg - Detection took 0.148 seconds.
+bicycle: 95.2%
+../../../data/VOC2007/Images/001615.jpg - Detection took 0.144 seconds.
+pottedplant: 87.3%
+../../../data/VOC2007/Images/001616.jpg - Detection took 0.147 seconds.
+car: 89.7%
+../../../data/VOC2007/Images/001619.jpg - Detection took 0.142 seconds.
+car: 99.8%
+person: 91.8%
+person: 88.3%
+../../../data/VOC2007/Images/001620.jpg - Detection took 0.163 seconds.
+bicycle: 99.7%
+bicycle: 97.6%
+person: 99.2%
+person: 97.1%
+../../../data/VOC2007/Images/001621.jpg - Detection took 0.145 seconds.
+aeroplane: 99.5%
+../../../data/VOC2007/Images/001623.jpg - Detection took 0.145 seconds.
+car: 99.6%
+car: 80.6%
+../../../data/VOC2007/Images/001624.jpg - Detection took 0.159 seconds.
+horse: 98.5%
+person: 99.2%
+../../../data/VOC2007/Images/001625.jpg - Detection took 0.160 seconds.
+person: 98.8%
+person: 95.9%
+../../../data/VOC2007/Images/001626.jpg - Detection took 0.149 seconds.
+bus: 99.6%
+car: 87.0%
+person: 81.0%
+../../../data/VOC2007/Images/001629.jpg - Detection took 0.133 seconds.
+chair: 91.4%
+person: 98.8%
+../../../data/VOC2007/Images/001631.jpg - Detection took 0.147 seconds.
+bottle: 97.0%
+pottedplant: 96.5%
+../../../data/VOC2007/Images/001634.jpg - Detection took 0.150 seconds.
+boat: 97.9%
+bottle: 88.4%
+../../../data/VOC2007/Images/001635.jpg - Detection took 0.159 seconds.
+cow: 85.6%
+../../../data/VOC2007/Images/001637.jpg - Detection took 0.142 seconds.
+bird: 96.9%
+../../../data/VOC2007/Images/001639.jpg - Detection took 0.149 seconds.
+dog: 99.6%
+../../../data/VOC2007/Images/001641.jpg - Detection took 0.179 seconds.
+cow: 94.6%
+../../../data/VOC2007/Images/001644.jpg - Detection took 0.156 seconds.
+aeroplane: 85.3%
+bus: 93.8%
+person: 99.4%
+person: 95.8%
+person: 89.9%
+../../../data/VOC2007/Images/001645.jpg - Detection took 0.145 seconds.
+sheep: 94.7%
+../../../data/VOC2007/Images/001646.jpg - Detection took 0.146 seconds.
+boat: 99.8%
+boat: 99.5%
+../../../data/VOC2007/Images/001648.jpg - Detection took 0.146 seconds.
+pottedplant: 99.8%
+pottedplant: 97.7%
+pottedplant: 94.5%
+../../../data/VOC2007/Images/001652.jpg - Detection took 0.149 seconds.
+bottle: 94.2%
+bottle: 91.7%
+bottle: 89.6%
+bottle: 88.3%
+car: 84.4%
+person: 99.0%
+pottedplant: 80.6%
+../../../data/VOC2007/Images/001655.jpg - Detection took 0.132 seconds.
+dog: 80.7%
+../../../data/VOC2007/Images/001656.jpg - Detection took 0.145 seconds.
+dog: 85.5%
+person: 99.6%
+../../../data/VOC2007/Images/001657.jpg - Detection took 0.130 seconds.
+person: 99.8%
+person: 85.8%
+../../../data/VOC2007/Images/001658.jpg - Detection took 0.145 seconds.
+car: 99.9%
+car: 98.2%
+car: 97.5%
+../../../data/VOC2007/Images/001659.jpg - Detection took 0.138 seconds.
+car: 96.9%
+../../../data/VOC2007/Images/001660.jpg - Detection took 0.143 seconds.
+aeroplane: 99.7%
+../../../data/VOC2007/Images/001663.jpg - Detection took 0.131 seconds.
+cat: 100.0%
+../../../data/VOC2007/Images/001664.jpg - Detection took 0.142 seconds.
+horse: 89.9%
+person: 98.5%
+person: 95.0%
+../../../data/VOC2007/Images/001665.jpg - Detection took 0.145 seconds.
+pottedplant: 87.2%
+../../../data/VOC2007/Images/001666.jpg - Detection took 0.145 seconds.
+pottedplant: 90.5%
+../../../data/VOC2007/Images/001667.jpg - Detection took 0.155 seconds.
+person: 81.0%
+../../../data/VOC2007/Images/001668.jpg - Detection took 0.144 seconds.
+person: 99.6%
+person: 99.5%
+person: 99.4%
+person: 91.1%
+../../../data/VOC2007/Images/001670.jpg - Detection took 0.132 seconds.
+diningtable: 92.4%
+person: 82.7%
+../../../data/VOC2007/Images/001671.jpg - Detection took 0.145 seconds.
+../../../data/VOC2007/Images/001672.jpg - Detection took 0.157 seconds.
+train: 99.9%
+../../../data/VOC2007/Images/001674.jpg - Detection took 0.145 seconds.
+pottedplant: 98.5%
+../../../data/VOC2007/Images/001679.jpg - Detection took 0.144 seconds.
+motorbike: 100.0%
+../../../data/VOC2007/Images/001681.jpg - Detection took 0.148 seconds.
+bird: 99.0%
+../../../data/VOC2007/Images/001687.jpg - Detection took 0.134 seconds.
+bird: 96.0%
+bird: 81.2%
+../../../data/VOC2007/Images/001692.jpg - Detection took 0.150 seconds.
+horse: 97.4%
+person: 99.4%
+../../../data/VOC2007/Images/001694.jpg - Detection took 0.141 seconds.
+cat: 99.8%
+../../../data/VOC2007/Images/001695.jpg - Detection took 0.129 seconds.
+tvmonitor: 99.6%
+../../../data/VOC2007/Images/001696.jpg - Detection took 0.154 seconds.
+person: 98.9%
+person: 96.2%
+person: 93.9%
+tvmonitor: 99.8%
+../../../data/VOC2007/Images/001697.jpg - Detection took 0.152 seconds.
+../../../data/VOC2007/Images/001698.jpg - Detection took 0.132 seconds.
+../../../data/VOC2007/Images/001700.jpg - Detection took 0.157 seconds.
+car: 99.2%
+../../../data/VOC2007/Images/001701.jpg - Detection took 0.140 seconds.
+car: 96.4%
+../../../data/VOC2007/Images/001702.jpg - Detection took 0.133 seconds.
+cat: 93.1%
+../../../data/VOC2007/Images/001703.jpg - Detection took 0.161 seconds.
+horse: 97.6%
+person: 98.6%
+person: 89.5%
+../../../data/VOC2007/Images/001704.jpg - Detection took 0.138 seconds.
+tvmonitor: 99.7%
+../../../data/VOC2007/Images/001705.jpg - Detection took 0.130 seconds.
+boat: 98.2%
+../../../data/VOC2007/Images/001706.jpg - Detection took 0.210 seconds.
+bottle: 90.2%
+person: 99.9%
+person: 99.2%
+../../../data/VOC2007/Images/001709.jpg - Detection took 0.157 seconds.
+motorbike: 98.0%
+person: 98.4%
+person: 93.1%
+../../../data/VOC2007/Images/001710.jpg - Detection took 0.146 seconds.
+person: 99.3%
+person: 98.5%
+person: 96.3%
+../../../data/VOC2007/Images/001712.jpg - Detection took 0.147 seconds.
+person: 98.0%
+person: 96.9%
+person: 90.7%
+pottedplant: 92.0%
+pottedplant: 84.1%
+../../../data/VOC2007/Images/001715.jpg - Detection took 0.149 seconds.
+person: 83.7%
+pottedplant: 97.7%
+pottedplant: 95.4%
+../../../data/VOC2007/Images/001716.jpg - Detection took 0.160 seconds.
+cow: 93.1%
+cow: 91.5%
+cow: 88.8%
+cow: 85.8%
+sheep: 92.0%
+../../../data/VOC2007/Images/001719.jpg - Detection took 0.140 seconds.
+bird: 94.8%
+../../../data/VOC2007/Images/001720.jpg - Detection took 0.146 seconds.
+bottle: 99.6%
+diningtable: 99.2%
+person: 93.5%
+person: 91.2%
+person: 88.8%
+person: 86.0%
+../../../data/VOC2007/Images/001722.jpg - Detection took 0.132 seconds.
+person: 99.0%
+person: 89.8%
+person: 84.1%
+../../../data/VOC2007/Images/001728.jpg - Detection took 0.144 seconds.
+person: 98.9%
+person: 98.9%
+person: 97.9%
+../../../data/VOC2007/Images/001731.jpg - Detection took 0.156 seconds.
+bottle: 84.7%
+dog: 100.0%
+dog: 88.0%
+person: 98.6%
+person: 87.3%
+../../../data/VOC2007/Images/001735.jpg - Detection took 0.232 seconds.
+person: 99.3%
+person: 98.6%
+../../../data/VOC2007/Images/001736.jpg - Detection took 0.157 seconds.
+bus: 99.9%
+train: 92.6%
+../../../data/VOC2007/Images/001737.jpg - Detection took 0.147 seconds.
+motorbike: 99.9%
+../../../data/VOC2007/Images/001740.jpg - Detection took 0.135 seconds.
+diningtable: 95.3%
+../../../data/VOC2007/Images/001742.jpg - Detection took 0.148 seconds.
+chair: 87.5%
+tvmonitor: 99.3%
+../../../data/VOC2007/Images/001743.jpg - Detection took 0.144 seconds.
+person: 99.4%
+../../../data/VOC2007/Images/001744.jpg - Detection took 0.117 seconds.
+motorbike: 100.0%
+../../../data/VOC2007/Images/001745.jpg - Detection took 0.158 seconds.
+bird: 99.7%
+bird: 98.3%
+bird: 96.0%
+bird: 86.6%
+bird: 82.2%
+../../../data/VOC2007/Images/001748.jpg - Detection took 0.145 seconds.
+cow: 89.4%
+person: 96.3%
+../../../data/VOC2007/Images/001751.jpg - Detection took 0.142 seconds.
+../../../data/VOC2007/Images/001753.jpg - Detection took 0.147 seconds.
+../../../data/VOC2007/Images/001757.jpg - Detection took 0.142 seconds.
+person: 94.1%
+person: 88.5%
+../../../data/VOC2007/Images/001760.jpg - Detection took 0.148 seconds.
+person: 96.8%
+person: 95.2%
+person: 94.2%
+person: 82.4%
+../../../data/VOC2007/Images/001762.jpg - Detection took 0.131 seconds.
+cat: 99.0%
+../../../data/VOC2007/Images/001763.jpg - Detection took 0.133 seconds.
+bottle: 86.1%
+cat: 99.4%
+cat: 96.3%
+dog: 99.2%
+../../../data/VOC2007/Images/001764.jpg - Detection took 0.145 seconds.
+cow: 99.4%
+cow: 91.6%
+cow: 91.2%
+../../../data/VOC2007/Images/001767.jpg - Detection took 0.134 seconds.
+dog: 92.9%
+../../../data/VOC2007/Images/001769.jpg - Detection took 0.146 seconds.
+horse: 91.8%
+person: 96.3%
+person: 86.9%
+../../../data/VOC2007/Images/001770.jpg - Detection took 0.146 seconds.
+boat: 92.3%
+../../../data/VOC2007/Images/001773.jpg - Detection took 0.141 seconds.
+../../../data/VOC2007/Images/001774.jpg - Detection took 0.127 seconds.
+cat: 99.0%
+../../../data/VOC2007/Images/001776.jpg - Detection took 0.147 seconds.
+person: 99.7%
+person: 94.4%
+person: 89.4%
+person: 88.7%
+../../../data/VOC2007/Images/001779.jpg - Detection took 0.147 seconds.
+bottle: 89.8%
+person: 91.4%
+person: 90.6%
+sofa: 99.6%
+../../../data/VOC2007/Images/001781.jpg - Detection took 0.159 seconds.
+bicycle: 89.3%
+person: 97.2%
+../../../data/VOC2007/Images/001783.jpg - Detection took 0.147 seconds.
+aeroplane: 93.6%
+../../../data/VOC2007/Images/001786.jpg - Detection took 0.131 seconds.
+../../../data/VOC2007/Images/001788.jpg - Detection took 0.146 seconds.
+person: 90.3%
+person: 81.3%
+train: 100.0%
+../../../data/VOC2007/Images/001790.jpg - Detection took 0.134 seconds.
+cat: 96.9%
+../../../data/VOC2007/Images/001791.jpg - Detection took 0.115 seconds.
+person: 99.6%
+../../../data/VOC2007/Images/001792.jpg - Detection took 0.140 seconds.
+person: 97.8%
+person: 97.1%
+person: 92.9%
+person: 90.2%
+person: 80.2%
+../../../data/VOC2007/Images/001794.jpg - Detection took 0.157 seconds.
+horse: 99.9%
+person: 99.9%
+../../../data/VOC2007/Images/001796.jpg - Detection took 0.137 seconds.
+motorbike: 83.4%
+../../../data/VOC2007/Images/001798.jpg - Detection took 0.145 seconds.
+motorbike: 99.4%
+person: 90.9%
+../../../data/VOC2007/Images/001802.jpg - Detection took 0.155 seconds.
+person: 99.9%
+person: 98.4%
+person: 94.0%
+train: 94.8%
+../../../data/VOC2007/Images/001803.jpg - Detection took 0.173 seconds.
+../../../data/VOC2007/Images/001804.jpg - Detection took 0.149 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/001805.jpg - Detection took 0.157 seconds.
+diningtable: 99.9%
+person: 99.9%
+person: 96.3%
+../../../data/VOC2007/Images/001808.jpg - Detection took 0.157 seconds.
+person: 98.2%
+person: 91.2%
+person: 88.7%
+person: 87.5%
+../../../data/VOC2007/Images/001811.jpg - Detection took 0.144 seconds.
+../../../data/VOC2007/Images/001812.jpg - Detection took 0.123 seconds.
+person: 89.5%
+pottedplant: 97.1%
+../../../data/VOC2007/Images/001813.jpg - Detection took 0.145 seconds.
+tvmonitor: 99.7%
+../../../data/VOC2007/Images/001814.jpg - Detection took 0.133 seconds.
+diningtable: 98.4%
+../../../data/VOC2007/Images/001815.jpg - Detection took 0.147 seconds.
+boat: 85.6%
+../../../data/VOC2007/Images/001817.jpg - Detection took 0.146 seconds.
+diningtable: 97.9%
+../../../data/VOC2007/Images/001819.jpg - Detection took 0.143 seconds.
+horse: 97.4%
+person: 98.7%
+../../../data/VOC2007/Images/001820.jpg - Detection took 0.145 seconds.
+car: 99.8%
+person: 89.3%
+../../../data/VOC2007/Images/001822.jpg - Detection took 0.150 seconds.
+../../../data/VOC2007/Images/001823.jpg - Detection took 0.171 seconds.
+horse: 97.9%
+person: 99.5%
+../../../data/VOC2007/Images/001824.jpg - Detection took 0.146 seconds.
+tvmonitor: 98.2%
+tvmonitor: 95.0%
+../../../data/VOC2007/Images/001826.jpg - Detection took 0.145 seconds.
+tvmonitor: 94.9%
+../../../data/VOC2007/Images/001829.jpg - Detection took 0.146 seconds.
+bottle: 99.2%
+pottedplant: 92.3%
+../../../data/VOC2007/Images/001831.jpg - Detection took 0.145 seconds.
+person: 99.2%
+person: 96.6%
+person: 91.5%
+person: 86.3%
+../../../data/VOC2007/Images/001835.jpg - Detection took 0.133 seconds.
+cat: 97.2%
+sofa: 85.6%
+../../../data/VOC2007/Images/001838.jpg - Detection took 0.134 seconds.
+car: 100.0%
+../../../data/VOC2007/Images/001839.jpg - Detection took 0.149 seconds.
+person: 97.2%
+person: 96.7%
+person: 93.8%
+person: 86.6%
+person: 85.5%
+person: 85.3%
+person: 82.5%
+../../../data/VOC2007/Images/001844.jpg - Detection took 0.155 seconds.
+bus: 99.1%
+../../../data/VOC2007/Images/001846.jpg - Detection took 0.142 seconds.
+car: 99.1%
+../../../data/VOC2007/Images/001848.jpg - Detection took 0.145 seconds.
+aeroplane: 96.3%
+../../../data/VOC2007/Images/001850.jpg - Detection took 0.156 seconds.
+aeroplane: 89.5%
+person: 96.9%
+person: 90.0%
+../../../data/VOC2007/Images/001851.jpg - Detection took 0.134 seconds.
+dog: 98.6%
+../../../data/VOC2007/Images/001852.jpg - Detection took 0.148 seconds.
+sheep: 100.0%
+sheep: 97.4%
+../../../data/VOC2007/Images/001856.jpg - Detection took 0.158 seconds.
+bird: 86.7%
+person: 83.8%
+person: 83.3%
+../../../data/VOC2007/Images/001857.jpg - Detection took 0.145 seconds.
+person: 98.6%
+person: 92.1%
+person: 89.8%
+person: 85.1%
+pottedplant: 83.4%
+../../../data/VOC2007/Images/001859.jpg - Detection took 0.131 seconds.
+bicycle: 96.0%
+../../../data/VOC2007/Images/001863.jpg - Detection took 0.144 seconds.
+car: 99.9%
+../../../data/VOC2007/Images/001865.jpg - Detection took 0.134 seconds.
+dog: 80.4%
+horse: 93.8%
+../../../data/VOC2007/Images/001866.jpg - Detection took 0.147 seconds.
+person: 81.2%
+../../../data/VOC2007/Images/001867.jpg - Detection took 0.143 seconds.
+person: 84.6%
+../../../data/VOC2007/Images/001868.jpg - Detection took 0.280 seconds.
+pottedplant: 92.2%
+sofa: 100.0%
+../../../data/VOC2007/Images/001869.jpg - Detection took 0.133 seconds.
+car: 87.5%
+pottedplant: 97.8%
+../../../data/VOC2007/Images/001871.jpg - Detection took 0.147 seconds.
+person: 90.4%
+pottedplant: 90.8%
+tvmonitor: 99.1%
+../../../data/VOC2007/Images/001873.jpg - Detection took 0.143 seconds.
+car: 99.3%
+../../../data/VOC2007/Images/001874.jpg - Detection took 0.133 seconds.
+cat: 99.5%
+person: 95.1%
+../../../data/VOC2007/Images/001876.jpg - Detection took 0.146 seconds.
+train: 98.4%
+../../../data/VOC2007/Images/001879.jpg - Detection took 0.133 seconds.
+chair: 82.5%
+sofa: 91.3%
+../../../data/VOC2007/Images/001880.jpg - Detection took 0.148 seconds.
+pottedplant: 99.3%
+../../../data/VOC2007/Images/001883.jpg - Detection took 0.158 seconds.
+car: 99.9%
+person: 99.0%
+person: 90.4%
+person: 80.9%
+../../../data/VOC2007/Images/001884.jpg - Detection took 0.147 seconds.
+car: 90.5%
+../../../data/VOC2007/Images/001885.jpg - Detection took 0.146 seconds.
+aeroplane: 99.0%
+tvmonitor: 86.7%
+../../../data/VOC2007/Images/001886.jpg - Detection took 0.138 seconds.
+person: 99.5%
+../../../data/VOC2007/Images/001889.jpg - Detection took 0.145 seconds.
+motorbike: 98.2%
+motorbike: 97.9%
+person: 98.9%
+person: 93.5%
+person: 90.3%
+../../../data/VOC2007/Images/001890.jpg - Detection took 0.130 seconds.
+cat: 97.6%
+../../../data/VOC2007/Images/001891.jpg - Detection took 0.148 seconds.
+car: 100.0%
+person: 99.2%
+person: 97.3%
+../../../data/VOC2007/Images/001893.jpg - Detection took 0.147 seconds.
+person: 99.8%
+person: 99.2%
+person: 98.0%
+person: 94.7%
+person: 88.9%
+person: 82.3%
+../../../data/VOC2007/Images/001895.jpg - Detection took 0.144 seconds.
+boat: 95.2%
+boat: 91.5%
+../../../data/VOC2007/Images/001897.jpg - Detection took 0.146 seconds.
+bus: 99.6%
+bus: 84.3%
+car: 88.2%
+../../../data/VOC2007/Images/001900.jpg - Detection took 0.145 seconds.
+horse: 99.6%
+pottedplant: 81.3%
+../../../data/VOC2007/Images/001905.jpg - Detection took 0.156 seconds.
+pottedplant: 92.8%
+pottedplant: 84.0%
+pottedplant: 81.6%
+tvmonitor: 99.8%
+../../../data/VOC2007/Images/001908.jpg - Detection took 0.153 seconds.
+car: 99.9%
+../../../data/VOC2007/Images/001909.jpg - Detection took 0.129 seconds.
+cat: 99.7%
+../../../data/VOC2007/Images/001910.jpg - Detection took 0.130 seconds.
+bird: 98.2%
+../../../data/VOC2007/Images/001912.jpg - Detection took 0.157 seconds.
+aeroplane: 100.0%
+../../../data/VOC2007/Images/001913.jpg - Detection took 0.156 seconds.
+car: 98.5%
+../../../data/VOC2007/Images/001914.jpg - Detection took 0.145 seconds.
+person: 94.4%
+person: 94.1%
+person: 85.7%
+person: 85.4%
+../../../data/VOC2007/Images/001916.jpg - Detection took 0.155 seconds.
+motorbike: 99.5%
+motorbike: 98.5%
+motorbike: 96.5%
+person: 92.4%
+person: 91.4%
+person: 86.5%
+person: 85.8%
+person: 81.2%
+../../../data/VOC2007/Images/001917.jpg - Detection took 0.141 seconds.
+cow: 92.1%
+../../../data/VOC2007/Images/001919.jpg - Detection took 0.158 seconds.
+car: 94.5%
+pottedplant: 93.3%
+../../../data/VOC2007/Images/001921.jpg - Detection took 0.145 seconds.
+person: 99.5%
+person: 83.8%
+../../../data/VOC2007/Images/001923.jpg - Detection took 0.155 seconds.
+car: 99.9%
+person: 96.5%
+person: 95.7%
+person: 95.1%
+person: 82.3%
+person: 81.0%
+tvmonitor: 82.1%
+../../../data/VOC2007/Images/001924.jpg - Detection took 0.149 seconds.
+car: 99.8%
+car: 88.2%
+person: 90.4%
+../../../data/VOC2007/Images/001925.jpg - Detection took 0.207 seconds.
+bottle: 89.0%
+bottle: 88.8%
+../../../data/VOC2007/Images/001926.jpg - Detection took 0.134 seconds.
+bird: 99.3%
+bird: 98.3%
+pottedplant: 86.2%
+../../../data/VOC2007/Images/001929.jpg - Detection took 0.136 seconds.
+../../../data/VOC2007/Images/001935.jpg - Detection took 0.143 seconds.
+bus: 94.8%
+car: 99.0%
+train: 96.5%
+../../../data/VOC2007/Images/001939.jpg - Detection took 0.150 seconds.
+horse: 84.5%
+../../../data/VOC2007/Images/001942.jpg - Detection took 0.142 seconds.
+car: 98.4%
+chair: 91.0%
+person: 81.1%
+../../../data/VOC2007/Images/001943.jpg - Detection took 0.131 seconds.
+person: 99.7%
+../../../data/VOC2007/Images/001946.jpg - Detection took 0.134 seconds.
+person: 80.7%
+../../../data/VOC2007/Images/001947.jpg - Detection took 0.134 seconds.
+person: 99.2%
+person: 95.1%
+../../../data/VOC2007/Images/001949.jpg - Detection took 0.146 seconds.
+chair: 99.4%
+chair: 98.8%
+diningtable: 96.1%
+../../../data/VOC2007/Images/001951.jpg - Detection took 0.147 seconds.
+car: 99.7%
+person: 91.4%
+../../../data/VOC2007/Images/001953.jpg - Detection took 0.145 seconds.
+person: 95.7%
+person: 94.9%
+../../../data/VOC2007/Images/001955.jpg - Detection took 0.158 seconds.
+../../../data/VOC2007/Images/001956.jpg - Detection took 0.144 seconds.
+car: 97.4%
+../../../data/VOC2007/Images/001957.jpg - Detection took 0.131 seconds.
+../../../data/VOC2007/Images/001959.jpg - Detection took 0.140 seconds.
+bird: 100.0%
+../../../data/VOC2007/Images/001961.jpg - Detection took 0.130 seconds.
+tvmonitor: 99.9%
+tvmonitor: 87.3%
+../../../data/VOC2007/Images/001965.jpg - Detection took 0.135 seconds.
+car: 99.9%
+../../../data/VOC2007/Images/001966.jpg - Detection took 0.132 seconds.
+cat: 99.4%
+cat: 92.9%
+../../../data/VOC2007/Images/001967.jpg - Detection took 0.156 seconds.
+bird: 89.1%
+../../../data/VOC2007/Images/001968.jpg - Detection took 0.132 seconds.
+../../../data/VOC2007/Images/001969.jpg - Detection took 0.155 seconds.
+person: 99.4%
+person: 99.0%
+person: 97.1%
+person: 83.5%
+../../../data/VOC2007/Images/001973.jpg - Detection took 0.128 seconds.
+person: 99.4%
+../../../data/VOC2007/Images/001974.jpg - Detection took 0.145 seconds.
+boat: 90.3%
+person: 95.5%
+person: 95.2%
+../../../data/VOC2007/Images/001975.jpg - Detection took 0.146 seconds.
+bottle: 95.8%
+diningtable: 99.3%
+person: 97.4%
+person: 96.9%
+person: 95.0%
+person: 85.3%
+pottedplant: 86.8%
+../../../data/VOC2007/Images/001979.jpg - Detection took 0.155 seconds.
+person: 98.5%
+person: 96.7%
+\n____________________________________RESULTS____________________________________
+Start: sab 7 apr 2018, 00.38.48, CEST
+End: sab 7 apr 2018, 01.03.20, CEST
+
+Time(Image detection): 163.45700000000014 seconds (2.7242833333333354 minutes).
+Total Time: 1472 seconds (0h:24m:32s).
