@@ -1,0 +1,2018 @@
+
+ seen 32 
+Enter Image Path: ../../data/VOC2007/Images/000001.jpg: Predicted in 0.105605 seconds.
+person: 92%
+Enter Image Path: ../../data/VOC2007/Images/000002.jpg: Predicted in 0.109146 seconds.
+train: 85%
+Enter Image Path: ../../data/VOC2007/Images/000003.jpg: Predicted in 0.109844 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000004.jpg: Predicted in 0.105009 seconds.
+car: 85%
+car: 88%
+Enter Image Path: ../../data/VOC2007/Images/000006.jpg: Predicted in 0.098502 seconds.
+diningtable: 84%
+Enter Image Path: ../../data/VOC2007/Images/000008.jpg: Predicted in 0.092027 seconds.
+chair: 87%
+Enter Image Path: ../../data/VOC2007/Images/000010.jpg: Predicted in 0.091417 seconds.
+horse: 86%
+Enter Image Path: ../../data/VOC2007/Images/000011.jpg: Predicted in 0.103755 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000013.jpg: Predicted in 0.098696 seconds.
+cow: 85%
+Enter Image Path: ../../data/VOC2007/Images/000014.jpg: Predicted in 0.095240 seconds.
+car: 83%
+Enter Image Path: ../../data/VOC2007/Images/000015.jpg: Predicted in 0.092814 seconds.
+bicycle: 95%
+Enter Image Path: ../../data/VOC2007/Images/000018.jpg: Predicted in 0.093712 seconds.
+dog: 86%
+Enter Image Path: ../../data/VOC2007/Images/000022.jpg: Predicted in 0.090232 seconds.
+person: 92%
+horse: 94%
+Enter Image Path: ../../data/VOC2007/Images/000025.jpg: Predicted in 0.090537 seconds.
+person: 90%
+Enter Image Path: ../../data/VOC2007/Images/000027.jpg: Predicted in 0.091370 seconds.
+person: 98%
+Enter Image Path: ../../data/VOC2007/Images/000028.jpg: Predicted in 0.090457 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000029.jpg: Predicted in 0.096376 seconds.
+dog: 92%
+Enter Image Path: ../../data/VOC2007/Images/000031.jpg: Predicted in 0.090235 seconds.
+train: 93%
+Enter Image Path: ../../data/VOC2007/Images/000037.jpg: Predicted in 0.092964 seconds.
+dog: 89%
+Enter Image Path: ../../data/VOC2007/Images/000038.jpg: Predicted in 0.091081 seconds.
+person: 84%
+bicycle: 89%
+Enter Image Path: ../../data/VOC2007/Images/000040.jpg: Predicted in 0.091487 seconds.
+bird: 94%
+Enter Image Path: ../../data/VOC2007/Images/000043.jpg: Predicted in 0.091681 seconds.
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/000045.jpg: Predicted in 0.090743 seconds.
+tvmonitor: 91%
+Enter Image Path: ../../data/VOC2007/Images/000049.jpg: Predicted in 0.091236 seconds.
+cat: 88%
+Enter Image Path: ../../data/VOC2007/Images/000053.jpg: Predicted in 0.090037 seconds.
+cat: 95%
+Enter Image Path: ../../data/VOC2007/Images/000054.jpg: Predicted in 0.091027 seconds.
+bus: 94%
+Enter Image Path: ../../data/VOC2007/Images/000055.jpg: Predicted in 0.090074 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000056.jpg: Predicted in 0.091359 seconds.
+horse: 83%
+Enter Image Path: ../../data/VOC2007/Images/000057.jpg: Predicted in 0.096664 seconds.
+bird: 81%
+Enter Image Path: ../../data/VOC2007/Images/000058.jpg: Predicted in 0.097742 seconds.
+person: 87%
+motorbike: 89%
+Enter Image Path: ../../data/VOC2007/Images/000059.jpg: Predicted in 0.091803 seconds.
+person: 83%
+Enter Image Path: ../../data/VOC2007/Images/000062.jpg: Predicted in 0.094739 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000067.jpg: Predicted in 0.091648 seconds.
+aeroplane: 96%
+Enter Image Path: ../../data/VOC2007/Images/000068.jpg: Predicted in 0.091324 seconds.
+bird: 87%
+Enter Image Path: ../../data/VOC2007/Images/000069.jpg: Predicted in 0.091959 seconds.
+boat: 89%
+Enter Image Path: ../../data/VOC2007/Images/000070.jpg: Predicted in 0.092296 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000071.jpg: Predicted in 0.091352 seconds.
+car: 97%
+Enter Image Path: ../../data/VOC2007/Images/000074.jpg: Predicted in 0.090709 seconds.
+car: 88%
+Enter Image Path: ../../data/VOC2007/Images/000075.jpg: Predicted in 0.090436 seconds.
+dog: 88%
+Enter Image Path: ../../data/VOC2007/Images/000076.jpg: Predicted in 0.090368 seconds.
+person: 87%
+Enter Image Path: ../../data/VOC2007/Images/000079.jpg: Predicted in 0.090204 seconds.
+dog: 82%
+Enter Image Path: ../../data/VOC2007/Images/000080.jpg: Predicted in 0.090533 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000082.jpg: Predicted in 0.090339 seconds.
+car: 86%
+car: 93%
+Enter Image Path: ../../data/VOC2007/Images/000084.jpg: Predicted in 0.090126 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000085.jpg: Predicted in 0.090385 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000086.jpg: Predicted in 0.090452 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000087.jpg: Predicted in 0.090186 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000088.jpg: Predicted in 0.099307 seconds.
+train: 95%
+Enter Image Path: ../../data/VOC2007/Images/000090.jpg: Predicted in 0.092267 seconds.
+person: 90%
+Enter Image Path: ../../data/VOC2007/Images/000092.jpg: Predicted in 0.097685 seconds.
+cat: 92%
+Enter Image Path: ../../data/VOC2007/Images/000094.jpg: Predicted in 0.093977 seconds.
+motorbike: 86%
+Enter Image Path: ../../data/VOC2007/Images/000096.jpg: Predicted in 0.090441 seconds.
+person: 85%
+Enter Image Path: ../../data/VOC2007/Images/000097.jpg: Predicted in 0.090247 seconds.
+sofa: 84%
+sofa: 82%
+Enter Image Path: ../../data/VOC2007/Images/000098.jpg: Predicted in 0.090987 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000100.jpg: Predicted in 0.093671 seconds.
+train: 92%
+Enter Image Path: ../../data/VOC2007/Images/000103.jpg: Predicted in 0.090405 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000105.jpg: Predicted in 0.090323 seconds.
+boat: 87%
+Enter Image Path: ../../data/VOC2007/Images/000106.jpg: Predicted in 0.096442 seconds.
+bird: 85%
+Enter Image Path: ../../data/VOC2007/Images/000108.jpg: Predicted in 0.090096 seconds.
+dog: 87%
+sofa: 92%
+Enter Image Path: ../../data/VOC2007/Images/000111.jpg: Predicted in 0.098369 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000114.jpg: Predicted in 0.090358 seconds.
+cat: 86%
+Enter Image Path: ../../data/VOC2007/Images/000115.jpg: Predicted in 0.093227 seconds.
+bird: 95%
+Enter Image Path: ../../data/VOC2007/Images/000116.jpg: Predicted in 0.093867 seconds.
+pottedplant: 83%
+Enter Image Path: ../../data/VOC2007/Images/000119.jpg: Predicted in 0.090655 seconds.
+cat: 90%
+Enter Image Path: ../../data/VOC2007/Images/000124.jpg: Predicted in 0.090390 seconds.
+person: 84%
+Enter Image Path: ../../data/VOC2007/Images/000126.jpg: Predicted in 0.095612 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000127.jpg: Predicted in 0.091149 seconds.
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/000128.jpg: Predicted in 0.091901 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000135.jpg: Predicted in 0.096975 seconds.
+car: 90%
+Enter Image Path: ../../data/VOC2007/Images/000136.jpg: Predicted in 0.093723 seconds.
+cat: 81%
+Enter Image Path: ../../data/VOC2007/Images/000137.jpg: Predicted in 0.094652 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000139.jpg: Predicted in 0.096238 seconds.
+person: 80%
+bicycle: 89%
+Enter Image Path: ../../data/VOC2007/Images/000144.jpg: Predicted in 0.091587 seconds.
+person: 86%
+person: 88%
+diningtable: 82%
+Enter Image Path: ../../data/VOC2007/Images/000145.jpg: Predicted in 0.090432 seconds.
+train: 96%
+Enter Image Path: ../../data/VOC2007/Images/000148.jpg: Predicted in 0.101352 seconds.
+bird: 97%
+Enter Image Path: ../../data/VOC2007/Images/000149.jpg: Predicted in 0.090148 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000151.jpg: Predicted in 0.091282 seconds.
+person: 81%
+Enter Image Path: ../../data/VOC2007/Images/000152.jpg: Predicted in 0.090248 seconds.
+car: 85%
+car: 86%
+car: 82%
+Enter Image Path: ../../data/VOC2007/Images/000155.jpg: Predicted in 0.091815 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000157.jpg: Predicted in 0.093904 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000160.jpg: Predicted in 0.091365 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000166.jpg: Predicted in 0.090237 seconds.
+horse: 89%
+Enter Image Path: ../../data/VOC2007/Images/000167.jpg: Predicted in 0.091722 seconds.
+dog: 94%
+Enter Image Path: ../../data/VOC2007/Images/000168.jpg: Predicted in 0.090382 seconds.
+person: 93%
+Enter Image Path: ../../data/VOC2007/Images/000172.jpg: Predicted in 0.090172 seconds.
+car: 89%
+Enter Image Path: ../../data/VOC2007/Images/000175.jpg: Predicted in 0.090231 seconds.
+sheep: 94%
+Enter Image Path: ../../data/VOC2007/Images/000176.jpg: Predicted in 0.090493 seconds.
+sheep: 87%
+Enter Image Path: ../../data/VOC2007/Images/000178.jpg: Predicted in 0.090068 seconds.
+bottle: 81%
+bottle: 81%
+Enter Image Path: ../../data/VOC2007/Images/000179.jpg: Predicted in 0.090348 seconds.
+boat: 98%
+Enter Image Path: ../../data/VOC2007/Images/000181.jpg: Predicted in 0.090119 seconds.
+person: 90%
+Enter Image Path: ../../data/VOC2007/Images/000182.jpg: Predicted in 0.090182 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000183.jpg: Predicted in 0.091987 seconds.
+dog: 91%
+Enter Image Path: ../../data/VOC2007/Images/000185.jpg: Predicted in 0.092773 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000186.jpg: Predicted in 0.091351 seconds.
+bird: 93%
+Enter Image Path: ../../data/VOC2007/Images/000188.jpg: Predicted in 0.093023 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000191.jpg: Predicted in 0.091715 seconds.
+person: 83%
+person: 81%
+Enter Image Path: ../../data/VOC2007/Images/000195.jpg: Predicted in 0.091954 seconds.
+bus: 91%
+Enter Image Path: ../../data/VOC2007/Images/000196.jpg: Predicted in 0.092278 seconds.
+chair: 87%
+chair: 82%
+chair: 83%
+Enter Image Path: ../../data/VOC2007/Images/000197.jpg: Predicted in 0.092181 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000199.jpg: Predicted in 0.091586 seconds.
+bird: 94%
+Enter Image Path: ../../data/VOC2007/Images/000201.jpg: Predicted in 0.114175 seconds.
+person: 82%
+motorbike: 83%
+Enter Image Path: ../../data/VOC2007/Images/000202.jpg: Predicted in 0.101256 seconds.
+person: 92%
+bottle: 86%
+Enter Image Path: ../../data/VOC2007/Images/000204.jpg: Predicted in 0.102760 seconds.
+tvmonitor: 85%
+Enter Image Path: ../../data/VOC2007/Images/000205.jpg: Predicted in 0.093150 seconds.
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/000206.jpg: Predicted in 0.092112 seconds.
+person: 81%
+Enter Image Path: ../../data/VOC2007/Images/000212.jpg: Predicted in 0.091717 seconds.
+person: 84%
+Enter Image Path: ../../data/VOC2007/Images/000213.jpg: Predicted in 0.100112 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000216.jpg: Predicted in 0.093974 seconds.
+aeroplane: 83%
+Enter Image Path: ../../data/VOC2007/Images/000217.jpg: Predicted in 0.091740 seconds.
+chair: 82%
+diningtable: 94%
+Enter Image Path: ../../data/VOC2007/Images/000223.jpg: Predicted in 0.092962 seconds.
+train: 97%
+Enter Image Path: ../../data/VOC2007/Images/000226.jpg: Predicted in 0.090750 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000227.jpg: Predicted in 0.090602 seconds.
+tvmonitor: 83%
+cat: 88%
+Enter Image Path: ../../data/VOC2007/Images/000230.jpg: Predicted in 0.089882 seconds.
+person: 92%
+bicycle: 87%
+Enter Image Path: ../../data/VOC2007/Images/000231.jpg: Predicted in 0.090371 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000234.jpg: Predicted in 0.092763 seconds.
+chair: 92%
+Enter Image Path: ../../data/VOC2007/Images/000237.jpg: Predicted in 0.090366 seconds.
+person: 90%
+horse: 95%
+Enter Image Path: ../../data/VOC2007/Images/000238.jpg: Predicted in 0.090300 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000239.jpg: Predicted in 0.090496 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000240.jpg: Predicted in 0.101143 seconds.
+car: 88%
+Enter Image Path: ../../data/VOC2007/Images/000243.jpg: Predicted in 0.099419 seconds.
+aeroplane: 92%
+Enter Image Path: ../../data/VOC2007/Images/000247.jpg: Predicted in 0.090236 seconds.
+person: 92%
+Enter Image Path: ../../data/VOC2007/Images/000248.jpg: Predicted in 0.090373 seconds.
+horse: 87%
+person: 85%
+Enter Image Path: ../../data/VOC2007/Images/000252.jpg: Predicted in 0.090153 seconds.
+bus: 93%
+car: 88%
+Enter Image Path: ../../data/VOC2007/Images/000253.jpg: Predicted in 0.090239 seconds.
+train: 86%
+Enter Image Path: ../../data/VOC2007/Images/000254.jpg: Predicted in 0.090119 seconds.
+car: 87%
+car: 80%
+Enter Image Path: ../../data/VOC2007/Images/000255.jpg: Predicted in 0.096119 seconds.
+dog: 91%
+Enter Image Path: ../../data/VOC2007/Images/000258.jpg: Predicted in 0.105887 seconds.
+person: 84%
+dog: 87%
+Enter Image Path: ../../data/VOC2007/Images/000260.jpg: Predicted in 0.110951 seconds.
+aeroplane: 82%
+Enter Image Path: ../../data/VOC2007/Images/000261.jpg: Predicted in 0.109638 seconds.
+bicycle: 94%
+Enter Image Path: ../../data/VOC2007/Images/000264.jpg: Predicted in 0.109477 seconds.
+person: 92%
+Enter Image Path: ../../data/VOC2007/Images/000265.jpg: Predicted in 0.094613 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000267.jpg: Predicted in 0.102896 seconds.
+horse: 88%
+Enter Image Path: ../../data/VOC2007/Images/000271.jpg: Predicted in 0.108366 seconds.
+car: 86%
+Enter Image Path: ../../data/VOC2007/Images/000272.jpg: Predicted in 0.090325 seconds.
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/000273.jpg: Predicted in 0.090403 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000274.jpg: Predicted in 0.106592 seconds.
+bird: 94%
+Enter Image Path: ../../data/VOC2007/Images/000277.jpg: Predicted in 0.090024 seconds.
+sofa: 95%
+Enter Image Path: ../../data/VOC2007/Images/000279.jpg: Predicted in 0.098150 seconds.
+person: 85%
+person: 84%
+Enter Image Path: ../../data/VOC2007/Images/000280.jpg: Predicted in 0.096878 seconds.
+person: 90%
+chair: 82%
+Enter Image Path: ../../data/VOC2007/Images/000281.jpg: Predicted in 0.090579 seconds.
+train: 86%
+Enter Image Path: ../../data/VOC2007/Images/000283.jpg: Predicted in 0.098629 seconds.
+person: 90%
+bicycle: 82%
+person: 93%
+Enter Image Path: ../../data/VOC2007/Images/000284.jpg: Predicted in 0.090061 seconds.
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/000286.jpg: Predicted in 0.090271 seconds.
+person: 84%
+Enter Image Path: ../../data/VOC2007/Images/000287.jpg: Predicted in 0.090212 seconds.
+person: 94%
+Enter Image Path: ../../data/VOC2007/Images/000290.jpg: Predicted in 0.102985 seconds.
+dog: 90%
+Enter Image Path: ../../data/VOC2007/Images/000291.jpg: Predicted in 0.101868 seconds.
+tvmonitor: 90%
+tvmonitor: 93%
+Enter Image Path: ../../data/VOC2007/Images/000292.jpg: Predicted in 0.103100 seconds.
+cat: 90%
+Enter Image Path: ../../data/VOC2007/Images/000293.jpg: Predicted in 0.092714 seconds.
+person: 81%
+car: 81%
+Enter Image Path: ../../data/VOC2007/Images/000295.jpg: Predicted in 0.090392 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000297.jpg: Predicted in 0.091333 seconds.
+cow: 83%
+person: 84%
+Enter Image Path: ../../data/VOC2007/Images/000299.jpg: Predicted in 0.092191 seconds.
+person: 85%
+Enter Image Path: ../../data/VOC2007/Images/000300.jpg: Predicted in 0.090275 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000301.jpg: Predicted in 0.090645 seconds.
+car: 87%
+Enter Image Path: ../../data/VOC2007/Images/000309.jpg: Predicted in 0.090456 seconds.
+bird: 93%
+Enter Image Path: ../../data/VOC2007/Images/000310.jpg: Predicted in 0.091061 seconds.
+person: 87%
+person: 92%
+Enter Image Path: ../../data/VOC2007/Images/000313.jpg: Predicted in 0.090257 seconds.
+car: 84%
+car: 83%
+car: 81%
+car: 83%
+car: 89%
+Enter Image Path: ../../data/VOC2007/Images/000314.jpg: Predicted in 0.090251 seconds.
+chair: 82%
+sofa: 88%
+Enter Image Path: ../../data/VOC2007/Images/000315.jpg: Predicted in 0.090271 seconds.
+person: 89%
+person: 87%
+person: 90%
+Enter Image Path: ../../data/VOC2007/Images/000316.jpg: Predicted in 0.090179 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000319.jpg: Predicted in 0.090027 seconds.
+person: 93%
+horse: 97%
+Enter Image Path: ../../data/VOC2007/Images/000324.jpg: Predicted in 0.090513 seconds.
+dog: 87%
+Enter Image Path: ../../data/VOC2007/Images/000326.jpg: Predicted in 0.090902 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000327.jpg: Predicted in 0.090420 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000330.jpg: Predicted in 0.090470 seconds.
+person: 91%
+horse: 95%
+Enter Image Path: ../../data/VOC2007/Images/000333.jpg: Predicted in 0.090110 seconds.
+train: 91%
+Enter Image Path: ../../data/VOC2007/Images/000335.jpg: Predicted in 0.091847 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000339.jpg: Predicted in 0.092154 seconds.
+person: 92%
+person: 81%
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/000341.jpg: Predicted in 0.092482 seconds.
+bus: 81%
+car: 91%
+car: 85%
+car: 82%
+car: 87%
+Enter Image Path: ../../data/VOC2007/Images/000342.jpg: Predicted in 0.091756 seconds.
+tvmonitor: 97%
+Enter Image Path: ../../data/VOC2007/Images/000345.jpg: Predicted in 0.091406 seconds.
+cow: 88%
+Enter Image Path: ../../data/VOC2007/Images/000346.jpg: Predicted in 0.090435 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000348.jpg: Predicted in 0.090152 seconds.
+motorbike: 91%
+Enter Image Path: ../../data/VOC2007/Images/000350.jpg: Predicted in 0.090088 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000351.jpg: Predicted in 0.090245 seconds.
+car: 95%
+Enter Image Path: ../../data/VOC2007/Images/000353.jpg: Predicted in 0.090711 seconds.
+motorbike: 86%
+Enter Image Path: ../../data/VOC2007/Images/000356.jpg: Predicted in 0.089968 seconds.
+person: 86%
+Enter Image Path: ../../data/VOC2007/Images/000357.jpg: Predicted in 0.090273 seconds.
+bird: 93%
+Enter Image Path: ../../data/VOC2007/Images/000358.jpg: Predicted in 0.090508 seconds.
+person: 91%
+car: 89%
+Enter Image Path: ../../data/VOC2007/Images/000360.jpg: Predicted in 0.090515 seconds.
+cow: 88%
+Enter Image Path: ../../data/VOC2007/Images/000361.jpg: Predicted in 0.092160 seconds.
+car: 86%
+Enter Image Path: ../../data/VOC2007/Images/000362.jpg: Predicted in 0.090253 seconds.
+dog: 81%
+Enter Image Path: ../../data/VOC2007/Images/000364.jpg: Predicted in 0.090515 seconds.
+motorbike: 87%
+motorbike: 95%
+Enter Image Path: ../../data/VOC2007/Images/000365.jpg: Predicted in 0.090521 seconds.
+cat: 85%
+Enter Image Path: ../../data/VOC2007/Images/000366.jpg: Predicted in 0.091286 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000368.jpg: Predicted in 0.092275 seconds.
+person: 96%
+Enter Image Path: ../../data/VOC2007/Images/000369.jpg: Predicted in 0.091673 seconds.
+person: 87%
+person: 84%
+diningtable: 89%
+Enter Image Path: ../../data/VOC2007/Images/000371.jpg: Predicted in 0.091853 seconds.
+boat: 86%
+Enter Image Path: ../../data/VOC2007/Images/000375.jpg: Predicted in 0.090919 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000376.jpg: Predicted in 0.091267 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000377.jpg: Predicted in 0.092285 seconds.
+person: 85%
+person: 83%
+person: 83%
+person: 83%
+person: 88%
+diningtable: 91%
+Enter Image Path: ../../data/VOC2007/Images/000378.jpg: Predicted in 0.091314 seconds.
+person: 87%
+horse: 92%
+Enter Image Path: ../../data/VOC2007/Images/000383.jpg: Predicted in 0.092217 seconds.
+bird: 94%
+Enter Image Path: ../../data/VOC2007/Images/000384.jpg: Predicted in 0.090436 seconds.
+sofa: 97%
+Enter Image Path: ../../data/VOC2007/Images/000385.jpg: Predicted in 0.090462 seconds.
+chair: 86%
+Enter Image Path: ../../data/VOC2007/Images/000386.jpg: Predicted in 0.095916 seconds.
+cow: 87%
+person: 92%
+Enter Image Path: ../../data/VOC2007/Images/000388.jpg: Predicted in 0.103829 seconds.
+person: 86%
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/000389.jpg: Predicted in 0.102825 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000390.jpg: Predicted in 0.102346 seconds.
+car: 85%
+Enter Image Path: ../../data/VOC2007/Images/000392.jpg: Predicted in 0.099838 seconds.
+person: 81%
+horse: 90%
+Enter Image Path: ../../data/VOC2007/Images/000393.jpg: Predicted in 0.100962 seconds.
+person: 89%
+horse: 89%
+Enter Image Path: ../../data/VOC2007/Images/000397.jpg: Predicted in 0.101762 seconds.
+tvmonitor: 88%
+Enter Image Path: ../../data/VOC2007/Images/000398.jpg: Predicted in 0.100201 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000399.jpg: Predicted in 0.102853 seconds.
+bicycle: 89%
+Enter Image Path: ../../data/VOC2007/Images/000401.jpg: Predicted in 0.102931 seconds.
+cat: 94%
+Enter Image Path: ../../data/VOC2007/Images/000402.jpg: Predicted in 0.104023 seconds.
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/000405.jpg: Predicted in 0.103014 seconds.
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/000409.jpg: Predicted in 0.099765 seconds.
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/000410.jpg: Predicted in 0.090428 seconds.
+person: 80%
+horse: 88%
+Enter Image Path: ../../data/VOC2007/Images/000412.jpg: Predicted in 0.090195 seconds.
+horse: 96%
+Enter Image Path: ../../data/VOC2007/Images/000413.jpg: Predicted in 0.092210 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000414.jpg: Predicted in 0.090301 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000415.jpg: Predicted in 0.090180 seconds.
+car: 92%
+Enter Image Path: ../../data/VOC2007/Images/000418.jpg: Predicted in 0.109259 seconds.
+aeroplane: 95%
+Enter Image Path: ../../data/VOC2007/Images/000421.jpg: Predicted in 0.091367 seconds.
+tvmonitor: 86%
+person: 84%
+Enter Image Path: ../../data/VOC2007/Images/000422.jpg: Predicted in 0.091025 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000423.jpg: Predicted in 0.091146 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000425.jpg: Predicted in 0.100869 seconds.
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/000426.jpg: Predicted in 0.091053 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000429.jpg: Predicted in 0.094285 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000432.jpg: Predicted in 0.091964 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000434.jpg: Predicted in 0.092227 seconds.
+person: 89%
+horse: 96%
+Enter Image Path: ../../data/VOC2007/Images/000436.jpg: Predicted in 0.092358 seconds.
+bird: 92%
+Enter Image Path: ../../data/VOC2007/Images/000437.jpg: Predicted in 0.091880 seconds.
+person: 89%
+person: 81%
+Enter Image Path: ../../data/VOC2007/Images/000440.jpg: Predicted in 0.093257 seconds.
+car: 96%
+Enter Image Path: ../../data/VOC2007/Images/000441.jpg: Predicted in 0.091249 seconds.
+train: 89%
+Enter Image Path: ../../data/VOC2007/Images/000442.jpg: Predicted in 0.099457 seconds.
+cat: 92%
+Enter Image Path: ../../data/VOC2007/Images/000444.jpg: Predicted in 0.097183 seconds.
+boat: 96%
+Enter Image Path: ../../data/VOC2007/Images/000445.jpg: Predicted in 0.090281 seconds.
+horse: 81%
+horse: 85%
+horse: 93%
+Enter Image Path: ../../data/VOC2007/Images/000447.jpg: Predicted in 0.090251 seconds.
+person: 81%
+Enter Image Path: ../../data/VOC2007/Images/000449.jpg: Predicted in 0.090465 seconds.
+person: 85%
+Enter Image Path: ../../data/VOC2007/Images/000451.jpg: Predicted in 0.090464 seconds.
+sheep: 90%
+Enter Image Path: ../../data/VOC2007/Images/000452.jpg: Predicted in 0.092358 seconds.
+sofa: 93%
+Enter Image Path: ../../data/VOC2007/Images/000453.jpg: Predicted in 0.112034 seconds.
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/000455.jpg: Predicted in 0.113868 seconds.
+person: 85%
+horse: 93%
+Enter Image Path: ../../data/VOC2007/Images/000456.jpg: Predicted in 0.115689 seconds.
+bus: 86%
+Enter Image Path: ../../data/VOC2007/Images/000457.jpg: Predicted in 0.118510 seconds.
+person: 93%
+Enter Image Path: ../../data/VOC2007/Images/000458.jpg: Predicted in 0.116303 seconds.
+person: 84%
+Enter Image Path: ../../data/VOC2007/Images/000465.jpg: Predicted in 0.119495 seconds.
+car: 90%
+Enter Image Path: ../../data/VOC2007/Images/000466.jpg: Predicted in 0.109373 seconds.
+bird: 86%
+Enter Image Path: ../../data/VOC2007/Images/000467.jpg: Predicted in 0.110235 seconds.
+person: 82%
+bicycle: 83%
+Enter Image Path: ../../data/VOC2007/Images/000471.jpg: Predicted in 0.104199 seconds.
+car: 92%
+Enter Image Path: ../../data/VOC2007/Images/000472.jpg: Predicted in 0.107285 seconds.
+bird: 95%
+Enter Image Path: ../../data/VOC2007/Images/000473.jpg: Predicted in 0.106971 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000475.jpg: Predicted in 0.106883 seconds.
+sheep: 90%
+Enter Image Path: ../../data/VOC2007/Images/000478.jpg: Predicted in 0.107208 seconds.
+dog: 91%
+Enter Image Path: ../../data/VOC2007/Images/000479.jpg: Predicted in 0.105477 seconds.
+person: 93%
+Enter Image Path: ../../data/VOC2007/Images/000481.jpg: Predicted in 0.096435 seconds.
+boat: 89%
+Enter Image Path: ../../data/VOC2007/Images/000485.jpg: Predicted in 0.090447 seconds.
+person: 86%
+Enter Image Path: ../../data/VOC2007/Images/000487.jpg: Predicted in 0.090371 seconds.
+chair: 80%
+Enter Image Path: ../../data/VOC2007/Images/000488.jpg: Predicted in 0.090604 seconds.
+car: 95%
+Enter Image Path: ../../data/VOC2007/Images/000490.jpg: Predicted in 0.091822 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000493.jpg: Predicted in 0.090384 seconds.
+person: 85%
+person: 90%
+person: 87%
+Enter Image Path: ../../data/VOC2007/Images/000495.jpg: Predicted in 0.091372 seconds.
+bird: 92%
+Enter Image Path: ../../data/VOC2007/Images/000497.jpg: Predicted in 0.090214 seconds.
+person: 89%
+motorbike: 94%
+Enter Image Path: ../../data/VOC2007/Images/000502.jpg: Predicted in 0.092071 seconds.
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/000504.jpg: Predicted in 0.090176 seconds.
+cow: 87%
+Enter Image Path: ../../data/VOC2007/Images/000505.jpg: Predicted in 0.089922 seconds.
+car: 84%
+Enter Image Path: ../../data/VOC2007/Images/000506.jpg: Predicted in 0.091843 seconds.
+dog: 84%
+Enter Image Path: ../../data/VOC2007/Images/000507.jpg: Predicted in 0.090496 seconds.
+person: 81%
+Enter Image Path: ../../data/VOC2007/Images/000510.jpg: Predicted in 0.090278 seconds.
+chair: 80%
+diningtable: 88%
+Enter Image Path: ../../data/VOC2007/Images/000511.jpg: Predicted in 0.091069 seconds.
+train: 85%
+Enter Image Path: ../../data/VOC2007/Images/000512.jpg: Predicted in 0.090222 seconds.
+bus: 86%
+Enter Image Path: ../../data/VOC2007/Images/000517.jpg: Predicted in 0.091706 seconds.
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/000521.jpg: Predicted in 0.090092 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000527.jpg: Predicted in 0.090566 seconds.
+person: 83%
+Enter Image Path: ../../data/VOC2007/Images/000529.jpg: Predicted in 0.090074 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000532.jpg: Predicted in 0.090238 seconds.
+motorbike: 83%
+Enter Image Path: ../../data/VOC2007/Images/000533.jpg: Predicted in 0.090099 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000534.jpg: Predicted in 0.091970 seconds.
+person: 95%
+Enter Image Path: ../../data/VOC2007/Images/000536.jpg: Predicted in 0.095122 seconds.
+bus: 94%
+Enter Image Path: ../../data/VOC2007/Images/000538.jpg: Predicted in 0.090234 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000539.jpg: Predicted in 0.092183 seconds.
+person: 90%
+Enter Image Path: ../../data/VOC2007/Images/000542.jpg: Predicted in 0.090149 seconds.
+cat: 95%
+Enter Image Path: ../../data/VOC2007/Images/000546.jpg: Predicted in 0.090136 seconds.
+person: 85%
+sheep: 85%
+Enter Image Path: ../../data/VOC2007/Images/000547.jpg: Predicted in 0.094841 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000548.jpg: Predicted in 0.090374 seconds.
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/000551.jpg: Predicted in 0.090261 seconds.
+dog: 90%
+Enter Image Path: ../../data/VOC2007/Images/000553.jpg: Predicted in 0.090285 seconds.
+motorbike: 89%
+Enter Image Path: ../../data/VOC2007/Images/000556.jpg: Predicted in 0.092162 seconds.
+train: 97%
+Enter Image Path: ../../data/VOC2007/Images/000557.jpg: Predicted in 0.090201 seconds.
+bird: 87%
+Enter Image Path: ../../data/VOC2007/Images/000558.jpg: Predicted in 0.090226 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000560.jpg: Predicted in 0.090131 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000561.jpg: Predicted in 0.097096 seconds.
+bird: 93%
+Enter Image Path: ../../data/VOC2007/Images/000562.jpg: Predicted in 0.090438 seconds.
+person: 89%
+bicycle: 85%
+Enter Image Path: ../../data/VOC2007/Images/000566.jpg: Predicted in 0.090199 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000567.jpg: Predicted in 0.090525 seconds.
+person: 90%
+bicycle: 83%
+Enter Image Path: ../../data/VOC2007/Images/000568.jpg: Predicted in 0.091962 seconds.
+bird: 98%
+Enter Image Path: ../../data/VOC2007/Images/000569.jpg: Predicted in 0.090052 seconds.
+bird: 91%
+Enter Image Path: ../../data/VOC2007/Images/000570.jpg: Predicted in 0.091987 seconds.
+person: 95%
+motorbike: 93%
+Enter Image Path: ../../data/VOC2007/Images/000571.jpg: Predicted in 0.092558 seconds.
+tvmonitor: 81%
+Enter Image Path: ../../data/VOC2007/Images/000572.jpg: Predicted in 0.091778 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000573.jpg: Predicted in 0.090201 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000574.jpg: Predicted in 0.092985 seconds.
+sheep: 95%
+Enter Image Path: ../../data/VOC2007/Images/000575.jpg: Predicted in 0.090301 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000576.jpg: Predicted in 0.091034 seconds.
+boat: 90%
+Enter Image Path: ../../data/VOC2007/Images/000578.jpg: Predicted in 0.092439 seconds.
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/000580.jpg: Predicted in 0.090342 seconds.
+car: 87%
+Enter Image Path: ../../data/VOC2007/Images/000584.jpg: Predicted in 0.091828 seconds.
+bicycle: 95%
+Enter Image Path: ../../data/VOC2007/Images/000585.jpg: Predicted in 0.090246 seconds.
+car: 90%
+Enter Image Path: ../../data/VOC2007/Images/000586.jpg: Predicted in 0.090343 seconds.
+car: 90%
+Enter Image Path: ../../data/VOC2007/Images/000587.jpg: Predicted in 0.090136 seconds.
+person: 80%
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/000593.jpg: Predicted in 0.093066 seconds.
+car: 84%
+car: 89%
+Enter Image Path: ../../data/VOC2007/Images/000594.jpg: Predicted in 0.090049 seconds.
+bicycle: 90%
+Enter Image Path: ../../data/VOC2007/Images/000595.jpg: Predicted in 0.090293 seconds.
+chair: 88%
+diningtable: 96%
+chair: 85%
+Enter Image Path: ../../data/VOC2007/Images/000596.jpg: Predicted in 0.090282 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000600.jpg: Predicted in 0.091675 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000602.jpg: Predicted in 0.090431 seconds.
+person: 92%
+Enter Image Path: ../../data/VOC2007/Images/000603.jpg: Predicted in 0.089761 seconds.
+sofa: 96%
+Enter Image Path: ../../data/VOC2007/Images/000604.jpg: Predicted in 0.090006 seconds.
+person: 88%
+horse: 95%
+Enter Image Path: ../../data/VOC2007/Images/000606.jpg: Predicted in 0.089994 seconds.
+person: 82%
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/000607.jpg: Predicted in 0.090315 seconds.
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/000611.jpg: Predicted in 0.091049 seconds.
+dog: 97%
+bottle: 93%
+Enter Image Path: ../../data/VOC2007/Images/000614.jpg: Predicted in 0.090229 seconds.
+bicycle: 96%
+Enter Image Path: ../../data/VOC2007/Images/000615.jpg: Predicted in 0.090293 seconds.
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/000616.jpg: Predicted in 0.091013 seconds.
+horse: 85%
+person: 85%
+Enter Image Path: ../../data/VOC2007/Images/000617.jpg: Predicted in 0.090911 seconds.
+person: 83%
+diningtable: 87%
+Enter Image Path: ../../data/VOC2007/Images/000618.jpg: Predicted in 0.090636 seconds.
+aeroplane: 83%
+Enter Image Path: ../../data/VOC2007/Images/000621.jpg: Predicted in 0.091838 seconds.
+person: 87%
+Enter Image Path: ../../data/VOC2007/Images/000623.jpg: Predicted in 0.090122 seconds.
+horse: 90%
+Enter Image Path: ../../data/VOC2007/Images/000624.jpg: Predicted in 0.091867 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000627.jpg: Predicted in 0.090756 seconds.
+sheep: 89%
+Enter Image Path: ../../data/VOC2007/Images/000629.jpg: Predicted in 0.090143 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000630.jpg: Predicted in 0.092846 seconds.
+person: 82%
+motorbike: 96%
+Enter Image Path: ../../data/VOC2007/Images/000631.jpg: Predicted in 0.090146 seconds.
+boat: 96%
+Enter Image Path: ../../data/VOC2007/Images/000634.jpg: Predicted in 0.090193 seconds.
+car: 84%
+Enter Image Path: ../../data/VOC2007/Images/000636.jpg: Predicted in 0.090422 seconds.
+train: 92%
+Enter Image Path: ../../data/VOC2007/Images/000638.jpg: Predicted in 0.092287 seconds.
+cat: 84%
+Enter Image Path: ../../data/VOC2007/Images/000639.jpg: Predicted in 0.091793 seconds.
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/000640.jpg: Predicted in 0.090407 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000641.jpg: Predicted in 0.090156 seconds.
+person: 84%
+Enter Image Path: ../../data/VOC2007/Images/000642.jpg: Predicted in 0.090221 seconds.
+person: 94%
+Enter Image Path: ../../data/VOC2007/Images/000643.jpg: Predicted in 0.090402 seconds.
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/000644.jpg: Predicted in 0.090317 seconds.
+tvmonitor: 82%
+Enter Image Path: ../../data/VOC2007/Images/000646.jpg: Predicted in 0.090401 seconds.
+car: 86%
+car: 83%
+car: 84%
+Enter Image Path: ../../data/VOC2007/Images/000649.jpg: Predicted in 0.090106 seconds.
+car: 87%
+Enter Image Path: ../../data/VOC2007/Images/000650.jpg: Predicted in 0.090369 seconds.
+pottedplant: 94%
+Enter Image Path: ../../data/VOC2007/Images/000651.jpg: Predicted in 0.091965 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000652.jpg: Predicted in 0.090613 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000655.jpg: Predicted in 0.090364 seconds.
+person: 96%
+motorbike: 95%
+Enter Image Path: ../../data/VOC2007/Images/000658.jpg: Predicted in 0.090349 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000659.jpg: Predicted in 0.092094 seconds.
+tvmonitor: 95%
+Enter Image Path: ../../data/VOC2007/Images/000662.jpg: Predicted in 0.090961 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000664.jpg: Predicted in 0.090149 seconds.
+person: 97%
+Enter Image Path: ../../data/VOC2007/Images/000665.jpg: Predicted in 0.092795 seconds.
+aeroplane: 85%
+Enter Image Path: ../../data/VOC2007/Images/000666.jpg: Predicted in 0.090033 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000668.jpg: Predicted in 0.090457 seconds.
+aeroplane: 94%
+Enter Image Path: ../../data/VOC2007/Images/000669.jpg: Predicted in 0.092204 seconds.
+car: 85%
+car: 88%
+Enter Image Path: ../../data/VOC2007/Images/000670.jpg: Predicted in 0.090348 seconds.
+person: 94%
+person: 83%
+Enter Image Path: ../../data/VOC2007/Images/000673.jpg: Predicted in 0.090284 seconds.
+cat: 87%
+Enter Image Path: ../../data/VOC2007/Images/000674.jpg: Predicted in 0.090688 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000678.jpg: Predicted in 0.090440 seconds.
+train: 91%
+Enter Image Path: ../../data/VOC2007/Images/000679.jpg: Predicted in 0.090244 seconds.
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/000681.jpg: Predicted in 0.090472 seconds.
+bird: 91%
+Enter Image Path: ../../data/VOC2007/Images/000683.jpg: Predicted in 0.090363 seconds.
+person: 84%
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/000687.jpg: Predicted in 0.090294 seconds.
+car: 83%
+car: 81%
+Enter Image Path: ../../data/VOC2007/Images/000691.jpg: Predicted in 0.090829 seconds.
+chair: 85%
+Enter Image Path: ../../data/VOC2007/Images/000692.jpg: Predicted in 0.090371 seconds.
+person: 93%
+dog: 83%
+Enter Image Path: ../../data/VOC2007/Images/000693.jpg: Predicted in 0.090343 seconds.
+car: 84%
+Enter Image Path: ../../data/VOC2007/Images/000696.jpg: Predicted in 0.090299 seconds.
+aeroplane: 82%
+Enter Image Path: ../../data/VOC2007/Images/000697.jpg: Predicted in 0.091944 seconds.
+person: 84%
+bicycle: 85%
+Enter Image Path: ../../data/VOC2007/Images/000698.jpg: Predicted in 0.090179 seconds.
+pottedplant: 84%
+Enter Image Path: ../../data/VOC2007/Images/000701.jpg: Predicted in 0.090303 seconds.
+person: 93%
+Enter Image Path: ../../data/VOC2007/Images/000703.jpg: Predicted in 0.093822 seconds.
+train: 93%
+Enter Image Path: ../../data/VOC2007/Images/000704.jpg: Predicted in 0.091926 seconds.
+horse: 82%
+Enter Image Path: ../../data/VOC2007/Images/000706.jpg: Predicted in 0.090348 seconds.
+aeroplane: 80%
+Enter Image Path: ../../data/VOC2007/Images/000708.jpg: Predicted in 0.090027 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000715.jpg: Predicted in 0.093039 seconds.
+car: 90%
+Enter Image Path: ../../data/VOC2007/Images/000716.jpg: Predicted in 0.092341 seconds.
+dog: 92%
+Enter Image Path: ../../data/VOC2007/Images/000718.jpg: Predicted in 0.090413 seconds.
+bicycle: 87%
+dog: 97%
+Enter Image Path: ../../data/VOC2007/Images/000719.jpg: Predicted in 0.090228 seconds.
+bus: 93%
+Enter Image Path: ../../data/VOC2007/Images/000721.jpg: Predicted in 0.090684 seconds.
+car: 86%
+Enter Image Path: ../../data/VOC2007/Images/000722.jpg: Predicted in 0.090328 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000723.jpg: Predicted in 0.090768 seconds.
+bus: 88%
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/000724.jpg: Predicted in 0.090274 seconds.
+car: 87%
+Enter Image Path: ../../data/VOC2007/Images/000725.jpg: Predicted in 0.090198 seconds.
+cow: 81%
+cow: 83%
+Enter Image Path: ../../data/VOC2007/Images/000727.jpg: Predicted in 0.090583 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000732.jpg: Predicted in 0.091758 seconds.
+train: 93%
+Enter Image Path: ../../data/VOC2007/Images/000734.jpg: Predicted in 0.093438 seconds.
+person: 84%
+Enter Image Path: ../../data/VOC2007/Images/000735.jpg: Predicted in 0.092017 seconds.
+train: 93%
+Enter Image Path: ../../data/VOC2007/Images/000736.jpg: Predicted in 0.090186 seconds.
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/000737.jpg: Predicted in 0.090461 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000741.jpg: Predicted in 0.090636 seconds.
+cat: 96%
+Enter Image Path: ../../data/VOC2007/Images/000743.jpg: Predicted in 0.093024 seconds.
+train: 94%
+Enter Image Path: ../../data/VOC2007/Images/000744.jpg: Predicted in 0.090176 seconds.
+person: 83%
+Enter Image Path: ../../data/VOC2007/Images/000745.jpg: Predicted in 0.090272 seconds.
+diningtable: 92%
+Enter Image Path: ../../data/VOC2007/Images/000747.jpg: Predicted in 0.091947 seconds.
+car: 83%
+Enter Image Path: ../../data/VOC2007/Images/000749.jpg: Predicted in 0.090530 seconds.
+diningtable: 91%
+Enter Image Path: ../../data/VOC2007/Images/000751.jpg: Predicted in 0.091886 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000757.jpg: Predicted in 0.090352 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000758.jpg: Predicted in 0.091803 seconds.
+tvmonitor: 99%
+Enter Image Path: ../../data/VOC2007/Images/000759.jpg: Predicted in 0.090694 seconds.
+dog: 92%
+Enter Image Path: ../../data/VOC2007/Images/000762.jpg: Predicted in 0.090267 seconds.
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/000765.jpg: Predicted in 0.090223 seconds.
+person: 96%
+Enter Image Path: ../../data/VOC2007/Images/000766.jpg: Predicted in 0.090671 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000769.jpg: Predicted in 0.091991 seconds.
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/000773.jpg: Predicted in 0.091077 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000775.jpg: Predicted in 0.091057 seconds.
+motorbike: 93%
+Enter Image Path: ../../data/VOC2007/Images/000778.jpg: Predicted in 0.090528 seconds.
+car: 89%
+Enter Image Path: ../../data/VOC2007/Images/000779.jpg: Predicted in 0.092741 seconds.
+sheep: 88%
+Enter Image Path: ../../data/VOC2007/Images/000781.jpg: Predicted in 0.090290 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000783.jpg: Predicted in 0.090106 seconds.
+person: 91%
+horse: 98%
+Enter Image Path: ../../data/VOC2007/Images/000784.jpg: Predicted in 0.090881 seconds.
+person: 92%
+person: 83%
+Enter Image Path: ../../data/VOC2007/Images/000785.jpg: Predicted in 0.090305 seconds.
+cat: 81%
+Enter Image Path: ../../data/VOC2007/Images/000788.jpg: Predicted in 0.090241 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000789.jpg: Predicted in 0.091918 seconds.
+sheep: 89%
+Enter Image Path: ../../data/VOC2007/Images/000790.jpg: Predicted in 0.091587 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000792.jpg: Predicted in 0.090305 seconds.
+boat: 96%
+Enter Image Path: ../../data/VOC2007/Images/000795.jpg: Predicted in 0.090314 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000798.jpg: Predicted in 0.090396 seconds.
+person: 80%
+sofa: 95%
+Enter Image Path: ../../data/VOC2007/Images/000801.jpg: Predicted in 0.090102 seconds.
+car: 86%
+Enter Image Path: ../../data/VOC2007/Images/000803.jpg: Predicted in 0.091480 seconds.
+cat: 90%
+Enter Image Path: ../../data/VOC2007/Images/000807.jpg: Predicted in 0.090101 seconds.
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/000809.jpg: Predicted in 0.091574 seconds.
+car: 81%
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/000811.jpg: Predicted in 0.090492 seconds.
+boat: 96%
+Enter Image Path: ../../data/VOC2007/Images/000813.jpg: Predicted in 0.091779 seconds.
+tvmonitor: 98%
+Enter Image Path: ../../data/VOC2007/Images/000817.jpg: Predicted in 0.090213 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000819.jpg: Predicted in 0.090233 seconds.
+person: 89%
+bicycle: 91%
+Enter Image Path: ../../data/VOC2007/Images/000821.jpg: Predicted in 0.090145 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000824.jpg: Predicted in 0.092429 seconds.
+train: 94%
+Enter Image Path: ../../data/VOC2007/Images/000825.jpg: Predicted in 0.090072 seconds.
+bicycle: 93%
+Enter Image Path: ../../data/VOC2007/Images/000833.jpg: Predicted in 0.090329 seconds.
+bus: 88%
+Enter Image Path: ../../data/VOC2007/Images/000835.jpg: Predicted in 0.092071 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000836.jpg: Predicted in 0.090152 seconds.
+person: 87%
+horse: 87%
+Enter Image Path: ../../data/VOC2007/Images/000837.jpg: Predicted in 0.090013 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000838.jpg: Predicted in 0.090137 seconds.
+bird: 87%
+Enter Image Path: ../../data/VOC2007/Images/000839.jpg: Predicted in 0.091555 seconds.
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/000840.jpg: Predicted in 0.090057 seconds.
+sofa: 86%
+Enter Image Path: ../../data/VOC2007/Images/000841.jpg: Predicted in 0.090511 seconds.
+sofa: 89%
+Enter Image Path: ../../data/VOC2007/Images/000844.jpg: Predicted in 0.090248 seconds.
+car: 93%
+Enter Image Path: ../../data/VOC2007/Images/000846.jpg: Predicted in 0.091407 seconds.
+aeroplane: 81%
+Enter Image Path: ../../data/VOC2007/Images/000852.jpg: Predicted in 0.090326 seconds.
+bird: 83%
+Enter Image Path: ../../data/VOC2007/Images/000853.jpg: Predicted in 0.094854 seconds.
+dog: 96%
+Enter Image Path: ../../data/VOC2007/Images/000856.jpg: Predicted in 0.094299 seconds.
+person: 80%
+Enter Image Path: ../../data/VOC2007/Images/000858.jpg: Predicted in 0.090194 seconds.
+bus: 81%
+Enter Image Path: ../../data/VOC2007/Images/000861.jpg: Predicted in 0.090385 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000864.jpg: Predicted in 0.090098 seconds.
+bus: 93%
+Enter Image Path: ../../data/VOC2007/Images/000866.jpg: Predicted in 0.090244 seconds.
+person: 90%
+horse: 93%
+Enter Image Path: ../../data/VOC2007/Images/000869.jpg: Predicted in 0.090009 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000870.jpg: Predicted in 0.090607 seconds.
+person: 87%
+Enter Image Path: ../../data/VOC2007/Images/000873.jpg: Predicted in 0.090296 seconds.
+motorbike: 93%
+Enter Image Path: ../../data/VOC2007/Images/000875.jpg: Predicted in 0.091585 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000877.jpg: Predicted in 0.090349 seconds.
+cat: 92%
+Enter Image Path: ../../data/VOC2007/Images/000881.jpg: Predicted in 0.090210 seconds.
+car: 90%
+Enter Image Path: ../../data/VOC2007/Images/000883.jpg: Predicted in 0.090300 seconds.
+car: 86%
+Enter Image Path: ../../data/VOC2007/Images/000884.jpg: Predicted in 0.090072 seconds.
+sheep: 96%
+Enter Image Path: ../../data/VOC2007/Images/000886.jpg: Predicted in 0.090097 seconds.
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/000890.jpg: Predicted in 0.090249 seconds.
+pottedplant: 82%
+Enter Image Path: ../../data/VOC2007/Images/000891.jpg: Predicted in 0.090102 seconds.
+person: 92%
+Enter Image Path: ../../data/VOC2007/Images/000893.jpg: Predicted in 0.090767 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000894.jpg: Predicted in 0.091958 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000897.jpg: Predicted in 0.090095 seconds.
+dog: 83%
+Enter Image Path: ../../data/VOC2007/Images/000901.jpg: Predicted in 0.090173 seconds.
+person: 90%
+Enter Image Path: ../../data/VOC2007/Images/000905.jpg: Predicted in 0.090366 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000907.jpg: Predicted in 0.090981 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000909.jpg: Predicted in 0.090105 seconds.
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/000910.jpg: Predicted in 0.090275 seconds.
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/000913.jpg: Predicted in 0.090297 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000914.jpg: Predicted in 0.090089 seconds.
+boat: 90%
+Enter Image Path: ../../data/VOC2007/Images/000916.jpg: Predicted in 0.090385 seconds.
+person: 86%
+bus: 87%
+Enter Image Path: ../../data/VOC2007/Images/000922.jpg: Predicted in 0.090288 seconds.
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/000924.jpg: Predicted in 0.090432 seconds.
+bus: 80%
+bus: 86%
+bus: 87%
+Enter Image Path: ../../data/VOC2007/Images/000925.jpg: Predicted in 0.090534 seconds.
+sheep: 84%
+sheep: 84%
+Enter Image Path: ../../data/VOC2007/Images/000927.jpg: Predicted in 0.092264 seconds.
+person: 93%
+Enter Image Path: ../../data/VOC2007/Images/000928.jpg: Predicted in 0.090170 seconds.
+cat: 95%
+cat: 93%
+Enter Image Path: ../../data/VOC2007/Images/000930.jpg: Predicted in 0.090077 seconds.
+person: 95%
+bicycle: 86%
+Enter Image Path: ../../data/VOC2007/Images/000932.jpg: Predicted in 0.090270 seconds.
+car: 93%
+Enter Image Path: ../../data/VOC2007/Images/000933.jpg: Predicted in 0.090599 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000938.jpg: Predicted in 0.090205 seconds.
+chair: 83%
+Enter Image Path: ../../data/VOC2007/Images/000939.jpg: Predicted in 0.090286 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000940.jpg: Predicted in 0.090547 seconds.
+person: 82%
+person: 92%
+Enter Image Path: ../../data/VOC2007/Images/000941.jpg: Predicted in 0.090332 seconds.
+sofa: 80%
+Enter Image Path: ../../data/VOC2007/Images/000942.jpg: Predicted in 0.091032 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000944.jpg: Predicted in 0.090164 seconds.
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/000945.jpg: Predicted in 0.090516 seconds.
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/000952.jpg: Predicted in 0.090061 seconds.
+person: 88%
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/000953.jpg: Predicted in 0.091975 seconds.
+chair: 91%
+Enter Image Path: ../../data/VOC2007/Images/000955.jpg: Predicted in 0.090341 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000956.jpg: Predicted in 0.090274 seconds.
+person: 93%
+Enter Image Path: ../../data/VOC2007/Images/000957.jpg: Predicted in 0.090040 seconds.
+horse: 82%
+Enter Image Path: ../../data/VOC2007/Images/000959.jpg: Predicted in 0.090269 seconds.
+person: 82%
+person: 90%
+person: 84%
+person: 90%
+person: 90%
+person: 93%
+Enter Image Path: ../../data/VOC2007/Images/000960.jpg: Predicted in 0.090481 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000961.jpg: Predicted in 0.090192 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000963.jpg: Predicted in 0.090173 seconds.
+dog: 94%
+Enter Image Path: ../../data/VOC2007/Images/000968.jpg: Predicted in 0.090427 seconds.
+aeroplane: 94%
+Enter Image Path: ../../data/VOC2007/Images/000969.jpg: Predicted in 0.091773 seconds.
+person: 94%
+person: 96%
+Enter Image Path: ../../data/VOC2007/Images/000970.jpg: Predicted in 0.090225 seconds.
+train: 94%
+Enter Image Path: ../../data/VOC2007/Images/000974.jpg: Predicted in 0.090322 seconds.
+tvmonitor: 86%
+Enter Image Path: ../../data/VOC2007/Images/000975.jpg: Predicted in 0.090493 seconds.
+dog: 89%
+Enter Image Path: ../../data/VOC2007/Images/000976.jpg: Predicted in 0.090237 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000978.jpg: Predicted in 0.090306 seconds.
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/000979.jpg: Predicted in 0.090514 seconds.
+person: 83%
+Enter Image Path: ../../data/VOC2007/Images/000981.jpg: Predicted in 0.090220 seconds.
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/000983.jpg: Predicted in 0.090662 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000984.jpg: Predicted in 0.090440 seconds.
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/000985.jpg: Predicted in 0.090481 seconds.
+car: 98%
+Enter Image Path: ../../data/VOC2007/Images/000986.jpg: Predicted in 0.090130 seconds.
+Enter Image Path: ../../data/VOC2007/Images/000988.jpg: Predicted in 0.090494 seconds.
+person: 93%
+Enter Image Path: ../../data/VOC2007/Images/000990.jpg: Predicted in 0.092568 seconds.
+person: 89%
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/000992.jpg: Predicted in 0.090405 seconds.
+sheep: 85%
+Enter Image Path: ../../data/VOC2007/Images/000994.jpg: Predicted in 0.090199 seconds.
+tvmonitor: 83%
+chair: 93%
+Enter Image Path: ../../data/VOC2007/Images/000995.jpg: Predicted in 0.090397 seconds.
+boat: 96%
+Enter Image Path: ../../data/VOC2007/Images/000998.jpg: Predicted in 0.090632 seconds.
+cat: 92%
+Enter Image Path: ../../data/VOC2007/Images/001000.jpg: Predicted in 0.090438 seconds.
+dog: 94%
+Enter Image Path: ../../data/VOC2007/Images/001003.jpg: Predicted in 0.090251 seconds.
+car: 91%
+Enter Image Path: ../../data/VOC2007/Images/001005.jpg: Predicted in 0.090547 seconds.
+car: 92%
+Enter Image Path: ../../data/VOC2007/Images/001006.jpg: Predicted in 0.090544 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001007.jpg: Predicted in 0.091670 seconds.
+tvmonitor: 93%
+Enter Image Path: ../../data/VOC2007/Images/001013.jpg: Predicted in 0.090320 seconds.
+horse: 96%
+Enter Image Path: ../../data/VOC2007/Images/001016.jpg: Predicted in 0.090535 seconds.
+train: 91%
+Enter Image Path: ../../data/VOC2007/Images/001019.jpg: Predicted in 0.090212 seconds.
+cat: 92%
+Enter Image Path: ../../data/VOC2007/Images/001020.jpg: Predicted in 0.090475 seconds.
+person: 92%
+Enter Image Path: ../../data/VOC2007/Images/001021.jpg: Predicted in 0.090351 seconds.
+person: 93%
+person: 83%
+Enter Image Path: ../../data/VOC2007/Images/001022.jpg: Predicted in 0.090400 seconds.
+car: 96%
+Enter Image Path: ../../data/VOC2007/Images/001023.jpg: Predicted in 0.090154 seconds.
+diningtable: 87%
+Enter Image Path: ../../data/VOC2007/Images/001025.jpg: Predicted in 0.090227 seconds.
+chair: 80%
+Enter Image Path: ../../data/VOC2007/Images/001026.jpg: Predicted in 0.090526 seconds.
+person: 83%
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/001029.jpg: Predicted in 0.090225 seconds.
+tvmonitor: 95%
+Enter Image Path: ../../data/VOC2007/Images/001030.jpg: Predicted in 0.093748 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001031.jpg: Predicted in 0.090485 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001032.jpg: Predicted in 0.090259 seconds.
+cat: 82%
+Enter Image Path: ../../data/VOC2007/Images/001033.jpg: Predicted in 0.090334 seconds.
+person: 92%
+bicycle: 87%
+Enter Image Path: ../../data/VOC2007/Images/001034.jpg: Predicted in 0.090155 seconds.
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/001035.jpg: Predicted in 0.090457 seconds.
+person: 85%
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/001037.jpg: Predicted in 0.090040 seconds.
+person: 82%
+dog: 95%
+dog: 84%
+Enter Image Path: ../../data/VOC2007/Images/001038.jpg: Predicted in 0.090373 seconds.
+person: 87%
+Enter Image Path: ../../data/VOC2007/Images/001039.jpg: Predicted in 0.090302 seconds.
+chair: 89%
+Enter Image Path: ../../data/VOC2007/Images/001040.jpg: Predicted in 0.090157 seconds.
+person: 87%
+person: 88%
+person: 81%
+Enter Image Path: ../../data/VOC2007/Images/001044.jpg: Predicted in 0.090095 seconds.
+dog: 90%
+Enter Image Path: ../../data/VOC2007/Images/001046.jpg: Predicted in 0.090025 seconds.
+aeroplane: 82%
+Enter Image Path: ../../data/VOC2007/Images/001047.jpg: Predicted in 0.090335 seconds.
+person: 84%
+person: 85%
+Enter Image Path: ../../data/VOC2007/Images/001048.jpg: Predicted in 0.090375 seconds.
+cat: 91%
+Enter Image Path: ../../data/VOC2007/Images/001049.jpg: Predicted in 0.090336 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001051.jpg: Predicted in 0.090321 seconds.
+bird: 81%
+Enter Image Path: ../../data/VOC2007/Images/001054.jpg: Predicted in 0.090120 seconds.
+dog: 93%
+Enter Image Path: ../../data/VOC2007/Images/001055.jpg: Predicted in 0.090272 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001058.jpg: Predicted in 0.090628 seconds.
+car: 97%
+Enter Image Path: ../../data/VOC2007/Images/001059.jpg: Predicted in 0.090127 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001063.jpg: Predicted in 0.090094 seconds.
+person: 85%
+Enter Image Path: ../../data/VOC2007/Images/001065.jpg: Predicted in 0.090007 seconds.
+person: 83%
+person: 93%
+Enter Image Path: ../../data/VOC2007/Images/001067.jpg: Predicted in 0.090325 seconds.
+person: 87%
+person: 87%
+person: 80%
+Enter Image Path: ../../data/VOC2007/Images/001070.jpg: Predicted in 0.089933 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001075.jpg: Predicted in 0.090121 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001076.jpg: Predicted in 0.090011 seconds.
+person: 85%
+Enter Image Path: ../../data/VOC2007/Images/001080.jpg: Predicted in 0.090163 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001081.jpg: Predicted in 0.090240 seconds.
+chair: 89%
+Enter Image Path: ../../data/VOC2007/Images/001085.jpg: Predicted in 0.090188 seconds.
+person: 81%
+car: 91%
+Enter Image Path: ../../data/VOC2007/Images/001086.jpg: Predicted in 0.091137 seconds.
+person: 89%
+person: 89%
+bottle: 80%
+Enter Image Path: ../../data/VOC2007/Images/001087.jpg: Predicted in 0.090475 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001088.jpg: Predicted in 0.092160 seconds.
+dog: 88%
+Enter Image Path: ../../data/VOC2007/Images/001089.jpg: Predicted in 0.091658 seconds.
+bicycle: 94%
+Enter Image Path: ../../data/VOC2007/Images/001090.jpg: Predicted in 0.092198 seconds.
+car: 96%
+Enter Image Path: ../../data/VOC2007/Images/001094.jpg: Predicted in 0.091150 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001095.jpg: Predicted in 0.090139 seconds.
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/001096.jpg: Predicted in 0.090580 seconds.
+person: 90%
+bicycle: 87%
+Enter Image Path: ../../data/VOC2007/Images/001098.jpg: Predicted in 0.090631 seconds.
+cat: 90%
+Enter Image Path: ../../data/VOC2007/Images/001099.jpg: Predicted in 0.092494 seconds.
+aeroplane: 94%
+Enter Image Path: ../../data/VOC2007/Images/001100.jpg: Predicted in 0.094171 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001103.jpg: Predicted in 0.090597 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001105.jpg: Predicted in 0.090215 seconds.
+person: 87%
+Enter Image Path: ../../data/VOC2007/Images/001108.jpg: Predicted in 0.092176 seconds.
+person: 85%
+person: 89%
+person: 81%
+Enter Image Path: ../../data/VOC2007/Images/001111.jpg: Predicted in 0.092759 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001114.jpg: Predicted in 0.090244 seconds.
+horse: 89%
+Enter Image Path: ../../data/VOC2007/Images/001115.jpg: Predicted in 0.090189 seconds.
+train: 86%
+train: 86%
+Enter Image Path: ../../data/VOC2007/Images/001116.jpg: Predicted in 0.091346 seconds.
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/001117.jpg: Predicted in 0.090780 seconds.
+sofa: 82%
+Enter Image Path: ../../data/VOC2007/Images/001118.jpg: Predicted in 0.090478 seconds.
+person: 94%
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/001120.jpg: Predicted in 0.090271 seconds.
+cow: 82%
+Enter Image Path: ../../data/VOC2007/Images/001122.jpg: Predicted in 0.090295 seconds.
+bird: 89%
+Enter Image Path: ../../data/VOC2007/Images/001123.jpg: Predicted in 0.090140 seconds.
+dog: 96%
+Enter Image Path: ../../data/VOC2007/Images/001126.jpg: Predicted in 0.089992 seconds.
+aeroplane: 96%
+Enter Image Path: ../../data/VOC2007/Images/001128.jpg: Predicted in 0.090105 seconds.
+cat: 87%
+Enter Image Path: ../../data/VOC2007/Images/001131.jpg: Predicted in 0.090440 seconds.
+dog: 91%
+Enter Image Path: ../../data/VOC2007/Images/001132.jpg: Predicted in 0.090380 seconds.
+dog: 86%
+Enter Image Path: ../../data/VOC2007/Images/001133.jpg: Predicted in 0.090233 seconds.
+person: 86%
+person: 89%
+sofa: 92%
+Enter Image Path: ../../data/VOC2007/Images/001134.jpg: Predicted in 0.090526 seconds.
+motorbike: 80%
+Enter Image Path: ../../data/VOC2007/Images/001135.jpg: Predicted in 0.090082 seconds.
+car: 95%
+Enter Image Path: ../../data/VOC2007/Images/001138.jpg: Predicted in 0.090149 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001139.jpg: Predicted in 0.090172 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001141.jpg: Predicted in 0.090276 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001146.jpg: Predicted in 0.090140 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001150.jpg: Predicted in 0.090260 seconds.
+dog: 82%
+Enter Image Path: ../../data/VOC2007/Images/001153.jpg: Predicted in 0.090369 seconds.
+aeroplane: 89%
+Enter Image Path: ../../data/VOC2007/Images/001155.jpg: Predicted in 0.090304 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001157.jpg: Predicted in 0.090940 seconds.
+motorbike: 90%
+Enter Image Path: ../../data/VOC2007/Images/001159.jpg: Predicted in 0.090101 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001162.jpg: Predicted in 0.090291 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001163.jpg: Predicted in 0.090097 seconds.
+sofa: 94%
+chair: 90%
+Enter Image Path: ../../data/VOC2007/Images/001165.jpg: Predicted in 0.090320 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001167.jpg: Predicted in 0.090362 seconds.
+person: 87%
+Enter Image Path: ../../data/VOC2007/Images/001169.jpg: Predicted in 0.090382 seconds.
+person: 88%
+person: 83%
+Enter Image Path: ../../data/VOC2007/Images/001173.jpg: Predicted in 0.090352 seconds.
+cat: 83%
+person: 91%
+person: 85%
+Enter Image Path: ../../data/VOC2007/Images/001177.jpg: Predicted in 0.090137 seconds.
+person: 85%
+bottle: 89%
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/001178.jpg: Predicted in 0.090500 seconds.
+train: 82%
+Enter Image Path: ../../data/VOC2007/Images/001179.jpg: Predicted in 0.090109 seconds.
+chair: 88%
+Enter Image Path: ../../data/VOC2007/Images/001180.jpg: Predicted in 0.090371 seconds.
+person: 86%
+Enter Image Path: ../../data/VOC2007/Images/001181.jpg: Predicted in 0.090676 seconds.
+bird: 81%
+Enter Image Path: ../../data/VOC2007/Images/001183.jpg: Predicted in 0.090144 seconds.
+person: 90%
+horse: 91%
+Enter Image Path: ../../data/VOC2007/Images/001188.jpg: Predicted in 0.090296 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001189.jpg: Predicted in 0.090212 seconds.
+chair: 89%
+diningtable: 94%
+Enter Image Path: ../../data/VOC2007/Images/001190.jpg: Predicted in 0.090512 seconds.
+dog: 93%
+Enter Image Path: ../../data/VOC2007/Images/001193.jpg: Predicted in 0.090318 seconds.
+bicycle: 89%
+Enter Image Path: ../../data/VOC2007/Images/001195.jpg: Predicted in 0.090072 seconds.
+dog: 92%
+Enter Image Path: ../../data/VOC2007/Images/001196.jpg: Predicted in 0.090473 seconds.
+bird: 95%
+Enter Image Path: ../../data/VOC2007/Images/001197.jpg: Predicted in 0.090539 seconds.
+sofa: 94%
+Enter Image Path: ../../data/VOC2007/Images/001198.jpg: Predicted in 0.090285 seconds.
+car: 83%
+Enter Image Path: ../../data/VOC2007/Images/001202.jpg: Predicted in 0.090250 seconds.
+dog: 90%
+dog: 89%
+Enter Image Path: ../../data/VOC2007/Images/001208.jpg: Predicted in 0.090520 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001210.jpg: Predicted in 0.090185 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001213.jpg: Predicted in 0.090453 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001216.jpg: Predicted in 0.090497 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001217.jpg: Predicted in 0.090371 seconds.
+dog: 88%
+Enter Image Path: ../../data/VOC2007/Images/001218.jpg: Predicted in 0.090896 seconds.
+bus: 92%
+Enter Image Path: ../../data/VOC2007/Images/001219.jpg: Predicted in 0.090227 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001220.jpg: Predicted in 0.090483 seconds.
+person: 86%
+Enter Image Path: ../../data/VOC2007/Images/001222.jpg: Predicted in 0.091159 seconds.
+car: 95%
+Enter Image Path: ../../data/VOC2007/Images/001223.jpg: Predicted in 0.090406 seconds.
+aeroplane: 99%
+Enter Image Path: ../../data/VOC2007/Images/001227.jpg: Predicted in 0.090733 seconds.
+boat: 94%
+Enter Image Path: ../../data/VOC2007/Images/001228.jpg: Predicted in 0.090401 seconds.
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/001232.jpg: Predicted in 0.090757 seconds.
+dog: 93%
+Enter Image Path: ../../data/VOC2007/Images/001235.jpg: Predicted in 0.092075 seconds.
+bird: 87%
+bird: 82%
+Enter Image Path: ../../data/VOC2007/Images/001238.jpg: Predicted in 0.091822 seconds.
+person: 86%
+bicycle: 84%
+Enter Image Path: ../../data/VOC2007/Images/001242.jpg: Predicted in 0.090328 seconds.
+person: 92%
+Enter Image Path: ../../data/VOC2007/Images/001243.jpg: Predicted in 0.090215 seconds.
+person: 94%
+Enter Image Path: ../../data/VOC2007/Images/001244.jpg: Predicted in 0.090650 seconds.
+person: 91%
+person: 82%
+person: 83%
+Enter Image Path: ../../data/VOC2007/Images/001245.jpg: Predicted in 0.090448 seconds.
+horse: 86%
+Enter Image Path: ../../data/VOC2007/Images/001246.jpg: Predicted in 0.091203 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001249.jpg: Predicted in 0.090644 seconds.
+cat: 90%
+Enter Image Path: ../../data/VOC2007/Images/001251.jpg: Predicted in 0.090585 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001252.jpg: Predicted in 0.092821 seconds.
+car: 93%
+Enter Image Path: ../../data/VOC2007/Images/001253.jpg: Predicted in 0.091490 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001255.jpg: Predicted in 0.091309 seconds.
+pottedplant: 83%
+Enter Image Path: ../../data/VOC2007/Images/001256.jpg: Predicted in 0.090334 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001257.jpg: Predicted in 0.090223 seconds.
+dog: 95%
+Enter Image Path: ../../data/VOC2007/Images/001261.jpg: Predicted in 0.091390 seconds.
+person: 86%
+Enter Image Path: ../../data/VOC2007/Images/001262.jpg: Predicted in 0.091240 seconds.
+bird: 97%
+Enter Image Path: ../../data/VOC2007/Images/001264.jpg: Predicted in 0.091976 seconds.
+motorbike: 85%
+Enter Image Path: ../../data/VOC2007/Images/001267.jpg: Predicted in 0.091216 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001271.jpg: Predicted in 0.091867 seconds.
+sheep: 82%
+Enter Image Path: ../../data/VOC2007/Images/001275.jpg: Predicted in 0.090531 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001276.jpg: Predicted in 0.090712 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001278.jpg: Predicted in 0.090439 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001280.jpg: Predicted in 0.090334 seconds.
+car: 93%
+Enter Image Path: ../../data/VOC2007/Images/001282.jpg: Predicted in 0.092016 seconds.
+person: 91%
+person: 83%
+Enter Image Path: ../../data/VOC2007/Images/001283.jpg: Predicted in 0.090438 seconds.
+car: 91%
+Enter Image Path: ../../data/VOC2007/Images/001285.jpg: Predicted in 0.092775 seconds.
+motorbike: 85%
+motorbike: 92%
+Enter Image Path: ../../data/VOC2007/Images/001291.jpg: Predicted in 0.092434 seconds.
+car: 91%
+Enter Image Path: ../../data/VOC2007/Images/001295.jpg: Predicted in 0.090260 seconds.
+bottle: 97%
+Enter Image Path: ../../data/VOC2007/Images/001296.jpg: Predicted in 0.090401 seconds.
+person: 96%
+motorbike: 93%
+Enter Image Path: ../../data/VOC2007/Images/001297.jpg: Predicted in 0.090441 seconds.
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/001300.jpg: Predicted in 0.090695 seconds.
+horse: 93%
+Enter Image Path: ../../data/VOC2007/Images/001301.jpg: Predicted in 0.091683 seconds.
+person: 89%
+motorbike: 96%
+Enter Image Path: ../../data/VOC2007/Images/001302.jpg: Predicted in 0.092238 seconds.
+chair: 90%
+diningtable: 86%
+Enter Image Path: ../../data/VOC2007/Images/001303.jpg: Predicted in 0.091428 seconds.
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/001305.jpg: Predicted in 0.091071 seconds.
+aeroplane: 96%
+Enter Image Path: ../../data/VOC2007/Images/001306.jpg: Predicted in 0.092523 seconds.
+dog: 85%
+Enter Image Path: ../../data/VOC2007/Images/001307.jpg: Predicted in 0.092177 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001308.jpg: Predicted in 0.091965 seconds.
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/001313.jpg: Predicted in 0.091272 seconds.
+dog: 89%
+Enter Image Path: ../../data/VOC2007/Images/001317.jpg: Predicted in 0.090796 seconds.
+dog: 89%
+Enter Image Path: ../../data/VOC2007/Images/001318.jpg: Predicted in 0.090294 seconds.
+bus: 83%
+Enter Image Path: ../../data/VOC2007/Images/001319.jpg: Predicted in 0.090422 seconds.
+person: 88%
+chair: 81%
+Enter Image Path: ../../data/VOC2007/Images/001320.jpg: Predicted in 0.090398 seconds.
+person: 85%
+horse: 94%
+Enter Image Path: ../../data/VOC2007/Images/001321.jpg: Predicted in 0.090197 seconds.
+car: 91%
+Enter Image Path: ../../data/VOC2007/Images/001322.jpg: Predicted in 0.091997 seconds.
+dog: 89%
+Enter Image Path: ../../data/VOC2007/Images/001328.jpg: Predicted in 0.091818 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001329.jpg: Predicted in 0.091980 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001331.jpg: Predicted in 0.090409 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001335.jpg: Predicted in 0.092122 seconds.
+car: 84%
+Enter Image Path: ../../data/VOC2007/Images/001336.jpg: Predicted in 0.092313 seconds.
+person: 89%
+bicycle: 85%
+Enter Image Path: ../../data/VOC2007/Images/001338.jpg: Predicted in 0.092582 seconds.
+tvmonitor: 88%
+Enter Image Path: ../../data/VOC2007/Images/001339.jpg: Predicted in 0.092321 seconds.
+dog: 89%
+Enter Image Path: ../../data/VOC2007/Images/001340.jpg: Predicted in 0.091921 seconds.
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/001342.jpg: Predicted in 0.091621 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001344.jpg: Predicted in 0.090456 seconds.
+sheep: 94%
+Enter Image Path: ../../data/VOC2007/Images/001347.jpg: Predicted in 0.090020 seconds.
+person: 93%
+Enter Image Path: ../../data/VOC2007/Images/001349.jpg: Predicted in 0.101919 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001351.jpg: Predicted in 0.096637 seconds.
+person: 91%
+person: 84%
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/001353.jpg: Predicted in 0.101481 seconds.
+dog: 96%
+Enter Image Path: ../../data/VOC2007/Images/001354.jpg: Predicted in 0.108073 seconds.
+person: 82%
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/001355.jpg: Predicted in 0.098212 seconds.
+boat: 96%
+Enter Image Path: ../../data/VOC2007/Images/001356.jpg: Predicted in 0.092151 seconds.
+car: 90%
+Enter Image Path: ../../data/VOC2007/Images/001357.jpg: Predicted in 0.095791 seconds.
+motorbike: 95%
+Enter Image Path: ../../data/VOC2007/Images/001358.jpg: Predicted in 0.090511 seconds.
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/001359.jpg: Predicted in 0.091965 seconds.
+train: 94%
+Enter Image Path: ../../data/VOC2007/Images/001363.jpg: Predicted in 0.092035 seconds.
+tvmonitor: 94%
+tvmonitor: 91%
+Enter Image Path: ../../data/VOC2007/Images/001366.jpg: Predicted in 0.090191 seconds.
+person: 83%
+Enter Image Path: ../../data/VOC2007/Images/001367.jpg: Predicted in 0.092741 seconds.
+tvmonitor: 83%
+tvmonitor: 93%
+Enter Image Path: ../../data/VOC2007/Images/001368.jpg: Predicted in 0.092662 seconds.
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/001369.jpg: Predicted in 0.090222 seconds.
+car: 85%
+car: 86%
+Enter Image Path: ../../data/VOC2007/Images/001370.jpg: Predicted in 0.090016 seconds.
+person: 93%
+person: 84%
+bicycle: 85%
+bicycle: 89%
+Enter Image Path: ../../data/VOC2007/Images/001372.jpg: Predicted in 0.090724 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001373.jpg: Predicted in 0.090165 seconds.
+aeroplane: 90%
+Enter Image Path: ../../data/VOC2007/Images/001374.jpg: Predicted in 0.090977 seconds.
+sofa: 87%
+Enter Image Path: ../../data/VOC2007/Images/001376.jpg: Predicted in 0.090580 seconds.
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/001377.jpg: Predicted in 0.090463 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001379.jpg: Predicted in 0.090238 seconds.
+car: 90%
+Enter Image Path: ../../data/VOC2007/Images/001380.jpg: Predicted in 0.091696 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001381.jpg: Predicted in 0.090346 seconds.
+cat: 93%
+Enter Image Path: ../../data/VOC2007/Images/001382.jpg: Predicted in 0.090113 seconds.
+car: 82%
+car: 84%
+car: 85%
+Enter Image Path: ../../data/VOC2007/Images/001389.jpg: Predicted in 0.090319 seconds.
+cat: 86%
+Enter Image Path: ../../data/VOC2007/Images/001391.jpg: Predicted in 0.090211 seconds.
+sofa: 89%
+Enter Image Path: ../../data/VOC2007/Images/001392.jpg: Predicted in 0.090014 seconds.
+tvmonitor: 81%
+cat: 95%
+Enter Image Path: ../../data/VOC2007/Images/001394.jpg: Predicted in 0.091430 seconds.
+car: 91%
+Enter Image Path: ../../data/VOC2007/Images/001396.jpg: Predicted in 0.090038 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001398.jpg: Predicted in 0.090129 seconds.
+horse: 89%
+Enter Image Path: ../../data/VOC2007/Images/001399.jpg: Predicted in 0.091946 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001401.jpg: Predicted in 0.090098 seconds.
+cat: 87%
+Enter Image Path: ../../data/VOC2007/Images/001403.jpg: Predicted in 0.090323 seconds.
+person: 83%
+Enter Image Path: ../../data/VOC2007/Images/001407.jpg: Predicted in 0.090124 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001410.jpg: Predicted in 0.090303 seconds.
+boat: 95%
+Enter Image Path: ../../data/VOC2007/Images/001411.jpg: Predicted in 0.090136 seconds.
+person: 90%
+sofa: 83%
+Enter Image Path: ../../data/VOC2007/Images/001412.jpg: Predicted in 0.090364 seconds.
+horse: 90%
+Enter Image Path: ../../data/VOC2007/Images/001415.jpg: Predicted in 0.090211 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001416.jpg: Predicted in 0.090319 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001417.jpg: Predicted in 0.092210 seconds.
+person: 92%
+horse: 91%
+Enter Image Path: ../../data/VOC2007/Images/001419.jpg: Predicted in 0.090172 seconds.
+person: 86%
+Enter Image Path: ../../data/VOC2007/Images/001422.jpg: Predicted in 0.090305 seconds.
+car: 91%
+Enter Image Path: ../../data/VOC2007/Images/001423.jpg: Predicted in 0.090112 seconds.
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/001424.jpg: Predicted in 0.090115 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001425.jpg: Predicted in 0.089972 seconds.
+bird: 85%
+Enter Image Path: ../../data/VOC2007/Images/001428.jpg: Predicted in 0.090242 seconds.
+car: 81%
+cat: 88%
+Enter Image Path: ../../data/VOC2007/Images/001429.jpg: Predicted in 0.090461 seconds.
+person: 90%
+Enter Image Path: ../../data/VOC2007/Images/001431.jpg: Predicted in 0.090204 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001433.jpg: Predicted in 0.092662 seconds.
+aeroplane: 91%
+Enter Image Path: ../../data/VOC2007/Images/001435.jpg: Predicted in 0.090194 seconds.
+car: 87%
+Enter Image Path: ../../data/VOC2007/Images/001437.jpg: Predicted in 0.090277 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001438.jpg: Predicted in 0.090210 seconds.
+diningtable: 92%
+Enter Image Path: ../../data/VOC2007/Images/001440.jpg: Predicted in 0.091235 seconds.
+bird: 95%
+Enter Image Path: ../../data/VOC2007/Images/001446.jpg: Predicted in 0.090217 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001447.jpg: Predicted in 0.090149 seconds.
+person: 94%
+motorbike: 89%
+Enter Image Path: ../../data/VOC2007/Images/001448.jpg: Predicted in 0.090377 seconds.
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/001449.jpg: Predicted in 0.090246 seconds.
+train: 84%
+Enter Image Path: ../../data/VOC2007/Images/001452.jpg: Predicted in 0.091745 seconds.
+horse: 85%
+Enter Image Path: ../../data/VOC2007/Images/001454.jpg: Predicted in 0.090032 seconds.
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/001456.jpg: Predicted in 0.090189 seconds.
+bottle: 86%
+Enter Image Path: ../../data/VOC2007/Images/001458.jpg: Predicted in 0.090255 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001459.jpg: Predicted in 0.091330 seconds.
+person: 86%
+person: 90%
+Enter Image Path: ../../data/VOC2007/Images/001461.jpg: Predicted in 0.090222 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001462.jpg: Predicted in 0.090494 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001469.jpg: Predicted in 0.090441 seconds.
+person: 83%
+Enter Image Path: ../../data/VOC2007/Images/001471.jpg: Predicted in 0.092013 seconds.
+cow: 86%
+Enter Image Path: ../../data/VOC2007/Images/001473.jpg: Predicted in 0.090443 seconds.
+person: 88%
+person: 90%
+Enter Image Path: ../../data/VOC2007/Images/001474.jpg: Predicted in 0.090925 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001476.jpg: Predicted in 0.090269 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001477.jpg: Predicted in 0.092113 seconds.
+sheep: 87%
+sheep: 81%
+Enter Image Path: ../../data/VOC2007/Images/001478.jpg: Predicted in 0.090534 seconds.
+pottedplant: 93%
+Enter Image Path: ../../data/VOC2007/Images/001482.jpg: Predicted in 0.090683 seconds.
+person: 89%
+person: 83%
+person: 82%
+person: 85%
+Enter Image Path: ../../data/VOC2007/Images/001487.jpg: Predicted in 0.090386 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001489.jpg: Predicted in 0.090458 seconds.
+diningtable: 96%
+Enter Image Path: ../../data/VOC2007/Images/001491.jpg: Predicted in 0.103456 seconds.
+car: 88%
+car: 92%
+car: 83%
+Enter Image Path: ../../data/VOC2007/Images/001495.jpg: Predicted in 0.090455 seconds.
+person: 95%
+Enter Image Path: ../../data/VOC2007/Images/001496.jpg: Predicted in 0.108270 seconds.
+person: 80%
+bicycle: 89%
+person: 83%
+bicycle: 82%
+Enter Image Path: ../../data/VOC2007/Images/001500.jpg: Predicted in 0.119683 seconds.
+tvmonitor: 87%
+Enter Image Path: ../../data/VOC2007/Images/001502.jpg: Predicted in 0.117360 seconds.
+person: 82%
+motorbike: 88%
+Enter Image Path: ../../data/VOC2007/Images/001503.jpg: Predicted in 0.101702 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001505.jpg: Predicted in 0.090301 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001506.jpg: Predicted in 0.090359 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001507.jpg: Predicted in 0.090593 seconds.
+dog: 97%
+Enter Image Path: ../../data/VOC2007/Images/001508.jpg: Predicted in 0.090597 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001511.jpg: Predicted in 0.090456 seconds.
+car: 95%
+Enter Image Path: ../../data/VOC2007/Images/001513.jpg: Predicted in 0.106227 seconds.
+tvmonitor: 86%
+chair: 85%
+Enter Image Path: ../../data/VOC2007/Images/001516.jpg: Predicted in 0.097091 seconds.
+motorbike: 94%
+Enter Image Path: ../../data/VOC2007/Images/001518.jpg: Predicted in 0.090356 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001519.jpg: Predicted in 0.090552 seconds.
+sofa: 86%
+Enter Image Path: ../../data/VOC2007/Images/001520.jpg: Predicted in 0.101209 seconds.
+cat: 92%
+Enter Image Path: ../../data/VOC2007/Images/001525.jpg: Predicted in 0.107712 seconds.
+car: 81%
+Enter Image Path: ../../data/VOC2007/Images/001527.jpg: Predicted in 0.098433 seconds.
+boat: 81%
+Enter Image Path: ../../data/VOC2007/Images/001530.jpg: Predicted in 0.093730 seconds.
+bird: 93%
+Enter Image Path: ../../data/VOC2007/Images/001533.jpg: Predicted in 0.090266 seconds.
+person: 85%
+Enter Image Path: ../../data/VOC2007/Images/001534.jpg: Predicted in 0.091553 seconds.
+diningtable: 82%
+Enter Image Path: ../../data/VOC2007/Images/001535.jpg: Predicted in 0.090334 seconds.
+car: 90%
+Enter Image Path: ../../data/VOC2007/Images/001538.jpg: Predicted in 0.090189 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001540.jpg: Predicted in 0.090448 seconds.
+sofa: 89%
+Enter Image Path: ../../data/VOC2007/Images/001542.jpg: Predicted in 0.091543 seconds.
+cat: 87%
+Enter Image Path: ../../data/VOC2007/Images/001546.jpg: Predicted in 0.090324 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001547.jpg: Predicted in 0.090376 seconds.
+aeroplane: 92%
+Enter Image Path: ../../data/VOC2007/Images/001549.jpg: Predicted in 0.090302 seconds.
+tvmonitor: 83%
+dog: 94%
+Enter Image Path: ../../data/VOC2007/Images/001550.jpg: Predicted in 0.091104 seconds.
+car: 92%
+Enter Image Path: ../../data/VOC2007/Images/001551.jpg: Predicted in 0.090206 seconds.
+tvmonitor: 87%
+Enter Image Path: ../../data/VOC2007/Images/001552.jpg: Predicted in 0.090133 seconds.
+car: 92%
+Enter Image Path: ../../data/VOC2007/Images/001558.jpg: Predicted in 0.090415 seconds.
+person: 90%
+Enter Image Path: ../../data/VOC2007/Images/001560.jpg: Predicted in 0.091898 seconds.
+car: 90%
+Enter Image Path: ../../data/VOC2007/Images/001562.jpg: Predicted in 0.090125 seconds.
+dog: 92%
+Enter Image Path: ../../data/VOC2007/Images/001564.jpg: Predicted in 0.090007 seconds.
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/001566.jpg: Predicted in 0.090507 seconds.
+person: 87%
+Enter Image Path: ../../data/VOC2007/Images/001567.jpg: Predicted in 0.090446 seconds.
+train: 81%
+Enter Image Path: ../../data/VOC2007/Images/001568.jpg: Predicted in 0.090138 seconds.
+aeroplane: 81%
+Enter Image Path: ../../data/VOC2007/Images/001569.jpg: Predicted in 0.090340 seconds.
+person: 96%
+Enter Image Path: ../../data/VOC2007/Images/001570.jpg: Predicted in 0.090402 seconds.
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/001572.jpg: Predicted in 0.093435 seconds.
+car: 92%
+Enter Image Path: ../../data/VOC2007/Images/001573.jpg: Predicted in 0.092391 seconds.
+cat: 93%
+Enter Image Path: ../../data/VOC2007/Images/001574.jpg: Predicted in 0.090358 seconds.
+horse: 82%
+Enter Image Path: ../../data/VOC2007/Images/001575.jpg: Predicted in 0.089976 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001578.jpg: Predicted in 0.090462 seconds.
+train: 85%
+Enter Image Path: ../../data/VOC2007/Images/001581.jpg: Predicted in 0.091010 seconds.
+person: 86%
+person: 90%
+Enter Image Path: ../../data/VOC2007/Images/001583.jpg: Predicted in 0.090295 seconds.
+person: 87%
+person: 80%
+Enter Image Path: ../../data/VOC2007/Images/001584.jpg: Predicted in 0.090638 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001585.jpg: Predicted in 0.090125 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001587.jpg: Predicted in 0.090358 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001589.jpg: Predicted in 0.090345 seconds.
+horse: 91%
+Enter Image Path: ../../data/VOC2007/Images/001591.jpg: Predicted in 0.090294 seconds.
+boat: 95%
+Enter Image Path: ../../data/VOC2007/Images/001592.jpg: Predicted in 0.091427 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001596.jpg: Predicted in 0.090573 seconds.
+person: 92%
+Enter Image Path: ../../data/VOC2007/Images/001599.jpg: Predicted in 0.090325 seconds.
+chair: 81%
+Enter Image Path: ../../data/VOC2007/Images/001600.jpg: Predicted in 0.090244 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001601.jpg: Predicted in 0.090493 seconds.
+dog: 92%
+Enter Image Path: ../../data/VOC2007/Images/001602.jpg: Predicted in 0.090283 seconds.
+bottle: 93%
+Enter Image Path: ../../data/VOC2007/Images/001605.jpg: Predicted in 0.090236 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001606.jpg: Predicted in 0.090098 seconds.
+person: 88%
+person: 87%
+person: 84%
+bicycle: 92%
+Enter Image Path: ../../data/VOC2007/Images/001609.jpg: Predicted in 0.091628 seconds.
+diningtable: 85%
+Enter Image Path: ../../data/VOC2007/Images/001613.jpg: Predicted in 0.104366 seconds.
+bicycle: 92%
+Enter Image Path: ../../data/VOC2007/Images/001615.jpg: Predicted in 0.090088 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001616.jpg: Predicted in 0.090404 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001619.jpg: Predicted in 0.090290 seconds.
+person: 81%
+car: 82%
+Enter Image Path: ../../data/VOC2007/Images/001620.jpg: Predicted in 0.090033 seconds.
+bicycle: 82%
+bicycle: 83%
+Enter Image Path: ../../data/VOC2007/Images/001621.jpg: Predicted in 0.090277 seconds.
+aeroplane: 88%
+Enter Image Path: ../../data/VOC2007/Images/001623.jpg: Predicted in 0.090208 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001624.jpg: Predicted in 0.090173 seconds.
+horse: 88%
+Enter Image Path: ../../data/VOC2007/Images/001625.jpg: Predicted in 0.092380 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001626.jpg: Predicted in 0.090505 seconds.
+bus: 95%
+Enter Image Path: ../../data/VOC2007/Images/001629.jpg: Predicted in 0.090218 seconds.
+person: 92%
+Enter Image Path: ../../data/VOC2007/Images/001631.jpg: Predicted in 0.090369 seconds.
+bottle: 85%
+Enter Image Path: ../../data/VOC2007/Images/001634.jpg: Predicted in 0.090995 seconds.
+boat: 96%
+Enter Image Path: ../../data/VOC2007/Images/001635.jpg: Predicted in 0.090392 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001637.jpg: Predicted in 0.090149 seconds.
+bird: 83%
+Enter Image Path: ../../data/VOC2007/Images/001639.jpg: Predicted in 0.090134 seconds.
+dog: 96%
+Enter Image Path: ../../data/VOC2007/Images/001641.jpg: Predicted in 0.090422 seconds.
+cow: 89%
+Enter Image Path: ../../data/VOC2007/Images/001644.jpg: Predicted in 0.091699 seconds.
+bus: 87%
+person: 84%
+Enter Image Path: ../../data/VOC2007/Images/001645.jpg: Predicted in 0.089950 seconds.
+sheep: 93%
+Enter Image Path: ../../data/VOC2007/Images/001646.jpg: Predicted in 0.090192 seconds.
+boat: 88%
+boat: 85%
+Enter Image Path: ../../data/VOC2007/Images/001648.jpg: Predicted in 0.090254 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001652.jpg: Predicted in 0.090407 seconds.
+bottle: 82%
+Enter Image Path: ../../data/VOC2007/Images/001655.jpg: Predicted in 0.090280 seconds.
+dog: 87%
+Enter Image Path: ../../data/VOC2007/Images/001656.jpg: Predicted in 0.090356 seconds.
+person: 88%
+dog: 89%
+Enter Image Path: ../../data/VOC2007/Images/001657.jpg: Predicted in 0.090168 seconds.
+person: 88%
+Enter Image Path: ../../data/VOC2007/Images/001658.jpg: Predicted in 0.090335 seconds.
+car: 80%
+car: 87%
+car: 88%
+Enter Image Path: ../../data/VOC2007/Images/001659.jpg: Predicted in 0.091687 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001660.jpg: Predicted in 0.090603 seconds.
+aeroplane: 92%
+Enter Image Path: ../../data/VOC2007/Images/001663.jpg: Predicted in 0.090324 seconds.
+cat: 88%
+Enter Image Path: ../../data/VOC2007/Images/001664.jpg: Predicted in 0.090183 seconds.
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/001665.jpg: Predicted in 0.092172 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001666.jpg: Predicted in 0.090326 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001667.jpg: Predicted in 0.090351 seconds.
+person: 84%
+Enter Image Path: ../../data/VOC2007/Images/001668.jpg: Predicted in 0.090311 seconds.
+person: 91%
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/001670.jpg: Predicted in 0.090312 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001671.jpg: Predicted in 0.091879 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001672.jpg: Predicted in 0.090170 seconds.
+train: 87%
+Enter Image Path: ../../data/VOC2007/Images/001674.jpg: Predicted in 0.090676 seconds.
+diningtable: 89%
+Enter Image Path: ../../data/VOC2007/Images/001679.jpg: Predicted in 0.090238 seconds.
+motorbike: 88%
+Enter Image Path: ../../data/VOC2007/Images/001681.jpg: Predicted in 0.091510 seconds.
+bird: 80%
+Enter Image Path: ../../data/VOC2007/Images/001687.jpg: Predicted in 0.090052 seconds.
+bird: 84%
+bird: 87%
+Enter Image Path: ../../data/VOC2007/Images/001692.jpg: Predicted in 0.090342 seconds.
+person: 85%
+horse: 90%
+Enter Image Path: ../../data/VOC2007/Images/001694.jpg: Predicted in 0.090177 seconds.
+cat: 93%
+Enter Image Path: ../../data/VOC2007/Images/001695.jpg: Predicted in 0.090185 seconds.
+tvmonitor: 93%
+Enter Image Path: ../../data/VOC2007/Images/001696.jpg: Predicted in 0.090372 seconds.
+tvmonitor: 81%
+Enter Image Path: ../../data/VOC2007/Images/001697.jpg: Predicted in 0.090288 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001698.jpg: Predicted in 0.090315 seconds.
+car: 88%
+Enter Image Path: ../../data/VOC2007/Images/001700.jpg: Predicted in 0.090137 seconds.
+car: 81%
+Enter Image Path: ../../data/VOC2007/Images/001701.jpg: Predicted in 0.091805 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001702.jpg: Predicted in 0.090285 seconds.
+cat: 89%
+Enter Image Path: ../../data/VOC2007/Images/001703.jpg: Predicted in 0.090477 seconds.
+person: 86%
+horse: 88%
+Enter Image Path: ../../data/VOC2007/Images/001704.jpg: Predicted in 0.090389 seconds.
+tvmonitor: 98%
+Enter Image Path: ../../data/VOC2007/Images/001705.jpg: Predicted in 0.090324 seconds.
+boat: 91%
+Enter Image Path: ../../data/VOC2007/Images/001706.jpg: Predicted in 0.090157 seconds.
+person: 88%
+person: 86%
+Enter Image Path: ../../data/VOC2007/Images/001709.jpg: Predicted in 0.090350 seconds.
+person: 91%
+motorbike: 95%
+person: 81%
+Enter Image Path: ../../data/VOC2007/Images/001710.jpg: Predicted in 0.090394 seconds.
+person: 89%
+person: 86%
+Enter Image Path: ../../data/VOC2007/Images/001712.jpg: Predicted in 0.090041 seconds.
+person: 90%
+person: 94%
+Enter Image Path: ../../data/VOC2007/Images/001715.jpg: Predicted in 0.092146 seconds.
+pottedplant: 83%
+Enter Image Path: ../../data/VOC2007/Images/001716.jpg: Predicted in 0.090382 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001719.jpg: Predicted in 0.090324 seconds.
+bird: 90%
+Enter Image Path: ../../data/VOC2007/Images/001720.jpg: Predicted in 0.089907 seconds.
+person: 92%
+Enter Image Path: ../../data/VOC2007/Images/001722.jpg: Predicted in 0.091635 seconds.
+person: 88%
+person: 90%
+Enter Image Path: ../../data/VOC2007/Images/001728.jpg: Predicted in 0.090463 seconds.
+person: 84%
+person: 81%
+sofa: 81%
+Enter Image Path: ../../data/VOC2007/Images/001731.jpg: Predicted in 0.090020 seconds.
+dog: 88%
+Enter Image Path: ../../data/VOC2007/Images/001735.jpg: Predicted in 0.090189 seconds.
+chair: 83%
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/001736.jpg: Predicted in 0.090255 seconds.
+bus: 90%
+Enter Image Path: ../../data/VOC2007/Images/001737.jpg: Predicted in 0.091691 seconds.
+motorbike: 92%
+Enter Image Path: ../../data/VOC2007/Images/001740.jpg: Predicted in 0.090100 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001742.jpg: Predicted in 0.090240 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001743.jpg: Predicted in 0.090249 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001744.jpg: Predicted in 0.091658 seconds.
+motorbike: 95%
+Enter Image Path: ../../data/VOC2007/Images/001745.jpg: Predicted in 0.090400 seconds.
+bird: 80%
+Enter Image Path: ../../data/VOC2007/Images/001748.jpg: Predicted in 0.090291 seconds.
+person: 81%
+Enter Image Path: ../../data/VOC2007/Images/001751.jpg: Predicted in 0.090272 seconds.
+dog: 96%
+Enter Image Path: ../../data/VOC2007/Images/001753.jpg: Predicted in 0.090274 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001757.jpg: Predicted in 0.091838 seconds.
+person: 81%
+Enter Image Path: ../../data/VOC2007/Images/001760.jpg: Predicted in 0.090538 seconds.
+person: 82%
+Enter Image Path: ../../data/VOC2007/Images/001762.jpg: Predicted in 0.090231 seconds.
+cat: 91%
+Enter Image Path: ../../data/VOC2007/Images/001763.jpg: Predicted in 0.090279 seconds.
+dog: 85%
+cat: 86%
+Enter Image Path: ../../data/VOC2007/Images/001764.jpg: Predicted in 0.092146 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001767.jpg: Predicted in 0.090143 seconds.
+dog: 91%
+Enter Image Path: ../../data/VOC2007/Images/001769.jpg: Predicted in 0.090140 seconds.
+horse: 89%
+horse: 87%
+Enter Image Path: ../../data/VOC2007/Images/001770.jpg: Predicted in 0.090005 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001773.jpg: Predicted in 0.090374 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001774.jpg: Predicted in 0.090430 seconds.
+cat: 93%
+Enter Image Path: ../../data/VOC2007/Images/001776.jpg: Predicted in 0.090265 seconds.
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/001779.jpg: Predicted in 0.090506 seconds.
+sofa: 93%
+Enter Image Path: ../../data/VOC2007/Images/001781.jpg: Predicted in 0.091134 seconds.
+person: 94%
+Enter Image Path: ../../data/VOC2007/Images/001783.jpg: Predicted in 0.100416 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001786.jpg: Predicted in 0.103549 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001788.jpg: Predicted in 0.091852 seconds.
+train: 96%
+Enter Image Path: ../../data/VOC2007/Images/001790.jpg: Predicted in 0.091994 seconds.
+cat: 94%
+Enter Image Path: ../../data/VOC2007/Images/001791.jpg: Predicted in 0.092042 seconds.
+person: 86%
+Enter Image Path: ../../data/VOC2007/Images/001792.jpg: Predicted in 0.092316 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001794.jpg: Predicted in 0.091987 seconds.
+person: 91%
+horse: 90%
+Enter Image Path: ../../data/VOC2007/Images/001796.jpg: Predicted in 0.091097 seconds.
+motorbike: 93%
+Enter Image Path: ../../data/VOC2007/Images/001798.jpg: Predicted in 0.090201 seconds.
+motorbike: 91%
+Enter Image Path: ../../data/VOC2007/Images/001802.jpg: Predicted in 0.090544 seconds.
+person: 84%
+person: 89%
+Enter Image Path: ../../data/VOC2007/Images/001803.jpg: Predicted in 0.092083 seconds.
+train: 89%
+Enter Image Path: ../../data/VOC2007/Images/001804.jpg: Predicted in 0.092581 seconds.
+car: 92%
+Enter Image Path: ../../data/VOC2007/Images/001805.jpg: Predicted in 0.092574 seconds.
+person: 96%
+diningtable: 94%
+Enter Image Path: ../../data/VOC2007/Images/001808.jpg: Predicted in 0.091231 seconds.
+bus: 85%
+person: 85%
+Enter Image Path: ../../data/VOC2007/Images/001811.jpg: Predicted in 0.091892 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001812.jpg: Predicted in 0.091820 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001813.jpg: Predicted in 0.090620 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001814.jpg: Predicted in 0.089966 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001815.jpg: Predicted in 0.092140 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001817.jpg: Predicted in 0.091062 seconds.
+bus: 90%
+Enter Image Path: ../../data/VOC2007/Images/001819.jpg: Predicted in 0.090157 seconds.
+person: 87%
+horse: 89%
+Enter Image Path: ../../data/VOC2007/Images/001820.jpg: Predicted in 0.090144 seconds.
+car: 96%
+Enter Image Path: ../../data/VOC2007/Images/001822.jpg: Predicted in 0.090096 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001823.jpg: Predicted in 0.090206 seconds.
+person: 82%
+horse: 91%
+Enter Image Path: ../../data/VOC2007/Images/001824.jpg: Predicted in 0.091097 seconds.
+dog: 89%
+Enter Image Path: ../../data/VOC2007/Images/001826.jpg: Predicted in 0.090142 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001829.jpg: Predicted in 0.090993 seconds.
+bottle: 82%
+Enter Image Path: ../../data/VOC2007/Images/001831.jpg: Predicted in 0.091093 seconds.
+person: 86%
+person: 81%
+sofa: 94%
+Enter Image Path: ../../data/VOC2007/Images/001835.jpg: Predicted in 0.090174 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001838.jpg: Predicted in 0.091014 seconds.
+car: 87%
+Enter Image Path: ../../data/VOC2007/Images/001839.jpg: Predicted in 0.091201 seconds.
+horse: 87%
+Enter Image Path: ../../data/VOC2007/Images/001844.jpg: Predicted in 0.090722 seconds.
+bus: 89%
+Enter Image Path: ../../data/VOC2007/Images/001846.jpg: Predicted in 0.091955 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001848.jpg: Predicted in 0.091999 seconds.
+aeroplane: 95%
+Enter Image Path: ../../data/VOC2007/Images/001850.jpg: Predicted in 0.090041 seconds.
+aeroplane: 95%
+Enter Image Path: ../../data/VOC2007/Images/001851.jpg: Predicted in 0.090608 seconds.
+dog: 88%
+Enter Image Path: ../../data/VOC2007/Images/001852.jpg: Predicted in 0.090168 seconds.
+sheep: 90%
+sheep: 94%
+Enter Image Path: ../../data/VOC2007/Images/001856.jpg: Predicted in 0.090384 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001857.jpg: Predicted in 0.090379 seconds.
+car: 86%
+Enter Image Path: ../../data/VOC2007/Images/001859.jpg: Predicted in 0.090373 seconds.
+bicycle: 94%
+Enter Image Path: ../../data/VOC2007/Images/001863.jpg: Predicted in 0.090312 seconds.
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/001865.jpg: Predicted in 0.090025 seconds.
+horse: 91%
+Enter Image Path: ../../data/VOC2007/Images/001866.jpg: Predicted in 0.090138 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001867.jpg: Predicted in 0.094983 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001868.jpg: Predicted in 0.090562 seconds.
+sofa: 83%
+sofa: 91%
+Enter Image Path: ../../data/VOC2007/Images/001869.jpg: Predicted in 0.090198 seconds.
+pottedplant: 87%
+Enter Image Path: ../../data/VOC2007/Images/001871.jpg: Predicted in 0.090364 seconds.
+tvmonitor: 90%
+Enter Image Path: ../../data/VOC2007/Images/001873.jpg: Predicted in 0.090388 seconds.
+car: 93%
+Enter Image Path: ../../data/VOC2007/Images/001874.jpg: Predicted in 0.089999 seconds.
+cat: 94%
+Enter Image Path: ../../data/VOC2007/Images/001876.jpg: Predicted in 0.090121 seconds.
+train: 94%
+Enter Image Path: ../../data/VOC2007/Images/001879.jpg: Predicted in 0.090591 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001880.jpg: Predicted in 0.090608 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001883.jpg: Predicted in 0.090309 seconds.
+car: 96%
+Enter Image Path: ../../data/VOC2007/Images/001884.jpg: Predicted in 0.090144 seconds.
+aeroplane: 84%
+Enter Image Path: ../../data/VOC2007/Images/001885.jpg: Predicted in 0.090291 seconds.
+aeroplane: 86%
+Enter Image Path: ../../data/VOC2007/Images/001886.jpg: Predicted in 0.090079 seconds.
+person: 86%
+Enter Image Path: ../../data/VOC2007/Images/001889.jpg: Predicted in 0.090187 seconds.
+person: 90%
+motorbike: 81%
+motorbike: 85%
+Enter Image Path: ../../data/VOC2007/Images/001890.jpg: Predicted in 0.090238 seconds.
+cat: 93%
+Enter Image Path: ../../data/VOC2007/Images/001891.jpg: Predicted in 0.090376 seconds.
+person: 91%
+car: 92%
+Enter Image Path: ../../data/VOC2007/Images/001893.jpg: Predicted in 0.090022 seconds.
+person: 81%
+Enter Image Path: ../../data/VOC2007/Images/001895.jpg: Predicted in 0.090700 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001897.jpg: Predicted in 0.091217 seconds.
+bus: 94%
+Enter Image Path: ../../data/VOC2007/Images/001900.jpg: Predicted in 0.090086 seconds.
+horse: 90%
+Enter Image Path: ../../data/VOC2007/Images/001905.jpg: Predicted in 0.090332 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001908.jpg: Predicted in 0.090333 seconds.
+car: 95%
+Enter Image Path: ../../data/VOC2007/Images/001909.jpg: Predicted in 0.090369 seconds.
+cat: 94%
+Enter Image Path: ../../data/VOC2007/Images/001910.jpg: Predicted in 0.090226 seconds.
+bird: 97%
+Enter Image Path: ../../data/VOC2007/Images/001912.jpg: Predicted in 0.090382 seconds.
+aeroplane: 97%
+Enter Image Path: ../../data/VOC2007/Images/001913.jpg: Predicted in 0.090405 seconds.
+car: 90%
+Enter Image Path: ../../data/VOC2007/Images/001914.jpg: Predicted in 0.090254 seconds.
+person: 88%
+dog: 86%
+Enter Image Path: ../../data/VOC2007/Images/001916.jpg: Predicted in 0.090136 seconds.
+person: 81%
+Enter Image Path: ../../data/VOC2007/Images/001917.jpg: Predicted in 0.090677 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001919.jpg: Predicted in 0.090635 seconds.
+car: 88%
+Enter Image Path: ../../data/VOC2007/Images/001921.jpg: Predicted in 0.090093 seconds.
+person: 94%
+Enter Image Path: ../../data/VOC2007/Images/001923.jpg: Predicted in 0.090350 seconds.
+car: 90%
+Enter Image Path: ../../data/VOC2007/Images/001924.jpg: Predicted in 0.090300 seconds.
+car: 93%
+Enter Image Path: ../../data/VOC2007/Images/001925.jpg: Predicted in 0.091152 seconds.
+bottle: 89%
+bottle: 86%
+bottle: 85%
+Enter Image Path: ../../data/VOC2007/Images/001926.jpg: Predicted in 0.091253 seconds.
+bird: 83%
+Enter Image Path: ../../data/VOC2007/Images/001929.jpg: Predicted in 0.092113 seconds.
+aeroplane: 90%
+Enter Image Path: ../../data/VOC2007/Images/001935.jpg: Predicted in 0.091911 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001939.jpg: Predicted in 0.091576 seconds.
+dog: 90%
+Enter Image Path: ../../data/VOC2007/Images/001942.jpg: Predicted in 0.092306 seconds.
+car: 91%
+Enter Image Path: ../../data/VOC2007/Images/001943.jpg: Predicted in 0.092429 seconds.
+person: 91%
+Enter Image Path: ../../data/VOC2007/Images/001946.jpg: Predicted in 0.092179 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001947.jpg: Predicted in 0.092646 seconds.
+person: 84%
+Enter Image Path: ../../data/VOC2007/Images/001949.jpg: Predicted in 0.090788 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001951.jpg: Predicted in 0.090635 seconds.
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/001953.jpg: Predicted in 0.089996 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001955.jpg: Predicted in 0.091306 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001956.jpg: Predicted in 0.091679 seconds.
+car: 94%
+Enter Image Path: ../../data/VOC2007/Images/001957.jpg: Predicted in 0.092210 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001959.jpg: Predicted in 0.091837 seconds.
+bird: 93%
+Enter Image Path: ../../data/VOC2007/Images/001961.jpg: Predicted in 0.091903 seconds.
+tvmonitor: 80%
+chair: 81%
+Enter Image Path: ../../data/VOC2007/Images/001965.jpg: Predicted in 0.091788 seconds.
+car: 95%
+Enter Image Path: ../../data/VOC2007/Images/001966.jpg: Predicted in 0.090122 seconds.
+cat: 89%
+cat: 91%
+Enter Image Path: ../../data/VOC2007/Images/001967.jpg: Predicted in 0.090089 seconds.
+bird: 86%
+Enter Image Path: ../../data/VOC2007/Images/001968.jpg: Predicted in 0.091683 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001969.jpg: Predicted in 0.091550 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001973.jpg: Predicted in 0.093091 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001974.jpg: Predicted in 0.091800 seconds.
+Enter Image Path: ../../data/VOC2007/Images/001975.jpg: Predicted in 0.091966 seconds.
+person: 83%
+person: 80%
+person: 88%
+diningtable: 95%
+Enter Image Path: ../../data/VOC2007/Images/001979.jpg: Predicted in 0.091877 seconds.
+Enter Image Path: ____________________________________RESULTS____________________________________
+Start: ven 6 apr 2018, 23.55.45, CEST
+End: ven 6 apr 2018, 23.58.08, CEST
+
+Time(Image detection): 91.9935099999999 seconds (1.533225166666665 minutes).
+Total Time: 143 seconds (0h:2m:23s).
