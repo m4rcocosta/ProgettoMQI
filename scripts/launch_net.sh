@@ -147,7 +147,7 @@ python3 totalTime_detection.py  $OUTPUT
 echo "Total Time: $total_time seconds (${total_time_hours}h:${remaining_minutes}m:${remaining_seconds}s)." >> ../$OUTPUT
 
 #check voc2007
-if [ $NET == "voc2007" ]
+if [ $SET == "voc2007" ]
 then python3 check_output_voc.py $OUTPUT
 fi
 
